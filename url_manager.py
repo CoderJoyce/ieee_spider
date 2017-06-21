@@ -29,9 +29,12 @@ class UrlManager(object):
         
     
     def add_url_to_dbUrlSetTable(self, url):
-        cursor = self.conn.cursor()                                     
-        sql = "insert into UrlSet(url,isCrawled) values(\"%s\",%s)" %(url,False)
-        cursor.execute(sql)    
+        cursor = self.conn.cursor()         
+        try:                            
+            sql = "insert into UrlSet(url,isCrawled) values(\"%s\",%s)" %(url,False)
+            cursor.execute(sql)
+        finally:
+            cursor.close()
     
     def add_uncrawled_url(self,url):
         if url is None:
@@ -84,8 +87,11 @@ class UrlManager(object):
         cursor = self.conn.cursor()
                                             
 #         print uncrawled_url
-        sql = "update UrlSet set iscrawled=%s where url=\"%s\"" %(True,uncrawled_url)
-        cursor.execute(sql)
+        try:
+            sql = "update UrlSet set iscrawled=%s where url=\"%s\"" %(True,uncrawled_url)
+            cursor.execute(sql)
+        finally:
+            cursor.close()    
     
 if __name__=="__main__":
     print 'Test ieee_url_manager:'

@@ -153,7 +153,7 @@ class HtmlParser(object):
 if __name__=="__main__":
     print 'Test ieee_html_parser:'
 
-    #测试二：测试解析器&输出器
+    #测试一：测试解析器&输出器
 #     url = "http://pythonscraping.com/pages/javascript/ajaxDemo.html"
 #     url = "http://ieeexplore.ieee.org/document/7583685/"
 #     url = "http://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=UHF%20RFID"

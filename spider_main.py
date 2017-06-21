@@ -102,12 +102,13 @@ class SpiderMain(object):
                     #如果解析失败的，则将页面设置为已爬取，否则会一直重复爬取该页面
         #           print "uncrawled_url[:36]:",uncrawled_url[:36]                   
                     self.urls.set_url_crawled(uncrawled_url)
-                    logging.info('将详情页面设置为已爬取: %s'%uncrawled_url)        
+                    logging.info('将解析失败页面设置为已爬取: %s'%uncrawled_url) 
+                    logging.info('【【解析失败】】: %s'%str(e))        
                     conn.commit()
                 
                 #5 将页面设置为已爬取
                 self.urls.set_url_crawled(uncrawled_url)
-                logging.info('将页面设置为已爬取: %s'%uncrawled_url)  
+                logging.info('将爬取成功页面设置为已爬取: %s'%uncrawled_url)  
                         
                 try:
                     conn.commit()   #一次循环处理结束时提交所有数据库事务  
@@ -126,7 +127,7 @@ class SpiderMain(object):
                 print 'IOError'
                 logging.warning("【【IOError】】:%s"%str(e))
                 self.urls.set_url_crawled(uncrawled_url)
-                logging.info('将页面设置为已爬取: %s'%uncrawled_url) 
+                logging.info('将发生错误异常页面设置为已爬取: %s'%uncrawled_url) 
                 
             except Exception as e:            
                 print 'crawl failed:',str(e)
