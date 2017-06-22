@@ -1,0 +1,1348 @@
+http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=UHF%20RFID&pageNumber=39&newsearch=true<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head><script type="text/javascript" async="" charset="utf-8" id="tealium_cormetrics7" src="//libs.coremetrics.com/eluminate.js"></script><script src="//tags.tiqcdn.com/utag/ieeexplore/main/prod/utag.js" type="text/javascript" async=""></script><script async="" type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script><script>
+  var CPK = '6LfZwcgSAAAAAGWTUdAV3VuQHUbQx9vTxwZvt31i';
+</script>
+
+
+
+
+
+	
+		
+			
+			
+			
+				
+				
+			 
+		
+		
+		
+		<meta name="Description" content="IEEE Xplore. Delivering full text access to the world's highest quality technical literature in engineering and technology." />
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		
+		<!-- Disable "click" touch event 300ms delay for Chrome/Firefox on Android -->
+		<meta name="viewport" content="width=device-width" />
+		
+		<title>IEEE Xplore Search Results</title>
+		
+		
+
+
+
+
+
+ 
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+
+	
+
+	
+
+	
+		
+	
+		
+		
+			
+			
+	
+
+
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+
+
+
+
+
+<script src="http://pubads.g.doubleclick.net/gpt/pubads_impl_122.js" async=""></script><style type="text/css">.MathJax_Preview {color: #888}
+#MathJax_Message {position: fixed; left: 1em; bottom: 1.5em; background-color: #E6E6E6; border: 1px solid #959595; margin: 0px; padding: 2px 8px; z-index: 102; color: black; font-size: 80%; width: auto; white-space: nowrap}
+#MathJax_MSIE_Frame {position: absolute; top: 0; left: 0; width: 0px; z-index: 101; border: 0px; margin: 0px; padding: 0px}
+.MathJax_Error {color: #CC0000; font-style: italic}
+</style><script type="text/javascript" async="" charset="utf-8" id="utag_ieeexplore.main_7" src="//tags.tiqcdn.com/utag/ieeexplore/main/prod/utag.7.js?utv=ut4.41.201704221902"></script><script type="text/javascript" async="" charset="utf-8" id="tiqapp" src="//tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=ieeexplore/main/201704221902&amp;cb=1497958935844"></script><script language="javascript" type="text/javascript" src="http://libs.coremetrics.com/configs/52820000.js"></script><script language="javascript" type="text/javascript" src="http://tmscdn.coremetrics.com/tms/dispatcher-v3.js"></script><script src="https://libs.coremetrics.com/ddxlibs/yahoo-min.js" type="text/javascript"></script><script src="http://tmscdn.coremetrics.com/tms/52820000/cp-v3.js?__t=20170620194217244" type="text/javascript"></script><style type="text/css">#MathJax_About {position: fixed; left: 50%; width: auto; text-align: center; border: 3px outset; padding: 1em 2em; background-color: #DDDDDD; color: black; cursor: default; font-family: message-box; font-size: 120%; font-style: normal; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; -khtml-border-radius: 15px; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_About.MathJax_MousePost {outline: none}
+.MathJax_Menu {position: absolute; background-color: white; color: black; width: auto; padding: 2px; border: 1px solid #CCCCCC; margin: 0; cursor: default; font: menu; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+.MathJax_MenuItem {padding: 2px 2em; background: transparent}
+.MathJax_MenuArrow {position: absolute; right: .5em; padding-top: .25em; color: #666666; font-size: .75em}
+.MathJax_MenuActive .MathJax_MenuArrow {color: white}
+.MathJax_MenuArrow.RTL {left: .5em; right: auto}
+.MathJax_MenuCheck {position: absolute; left: .7em}
+.MathJax_MenuCheck.RTL {right: .7em; left: auto}
+.MathJax_MenuRadioCheck {position: absolute; left: 1em}
+.MathJax_MenuRadioCheck.RTL {right: 1em; left: auto}
+.MathJax_MenuLabel {padding: 2px 2em 4px 1.33em; font-style: italic}
+.MathJax_MenuRule {border-top: 1px solid #CCCCCC; margin: 4px 1px 0px}
+.MathJax_MenuDisabled {color: GrayText}
+.MathJax_MenuActive {background-color: Highlight; color: HighlightText}
+.MathJax_MenuDisabled:focus, .MathJax_MenuLabel:focus {background-color: #E8E8E8}
+.MathJax_ContextMenu:focus {outline: none}
+.MathJax_ContextMenu .MathJax_MenuItem:focus {outline: none}
+#MathJax_AboutClose {top: .2em; right: .2em}
+.MathJax_Menu .MathJax_MenuClose {top: -10px; left: -10px}
+.MathJax_MenuClose {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; -khtml-border-radius: 18px; font-family: 'Courier New',Courier; font-size: 24px; color: #F0F0F0}
+.MathJax_MenuClose span {display: block; background-color: #AAA; border: 1.5px solid; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; -khtml-border-radius: 18px; line-height: 0; padding: 8px 0 6px}
+.MathJax_MenuClose:hover {color: white!important; border: 2px solid #CCC!important}
+.MathJax_MenuClose:hover span {background-color: #CCC!important}
+.MathJax_MenuClose:hover:focus {outline: none}
+</style><script src="https://libs.coremetrics.com/ddxlibs/json-min.js" type="text/javascript"></script><style type="text/css">#MathJax_Zoom {position: absolute; background-color: #F0F0F0; overflow: auto; display: block; z-index: 301; padding: .5em; border: 1px solid black; margin: 0; font-weight: normal; font-style: normal; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; box-shadow: 5px 5px 15px #AAAAAA; -webkit-box-shadow: 5px 5px 15px #AAAAAA; -moz-box-shadow: 5px 5px 15px #AAAAAA; -khtml-box-shadow: 5px 5px 15px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_ZoomOverlay {position: absolute; left: 0; top: 0; z-index: 300; display: inline-block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+#MathJax_ZoomFrame {position: relative; display: inline-block; height: 0; width: 0}
+#MathJax_ZoomEventTrap {position: absolute; left: 0; top: 0; z-index: 302; display: inline-block; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+</style></head><body><div id="MathJax_Message" style="display: none;"></div><g:compress>
+	<link rel="stylesheet" href="http://staticieeexplore.ieee.org/assets/css/simplePassMeter.min.css?cv=20170523_000000" />
+	<link rel="stylesheet" type="text/css" media="screen, print" href="http://staticieeexplore.ieee.org/assets/css/styles.css?cv=20170523_000000" />
+	<link rel="stylesheet" href="http://staticieeexplore.ieee.org/assets/vendor/swiper/dist/idangerous.swiper.css" />
+	<link rel="stylesheet" type="text/css" media="screen, print" href="http://staticieeexplore.ieee.org/assets/css/jquery-ui-1.8.19.custom.css?cv=20170523_000000" />
+</g:compress>
+
+
+
+
+		
+		
+
+	<script type="text/javascript">
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') + 
+		'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+		})();
+	</script>
+
+
+		
+
+		<!--[if gt IE 8]>
+				<link rel="stylesheet" type="text/css" href="http://staticieeexplore.ieee.org/assets/css/ie9.css?cv=20170523_000000" />
+		<![endif]-->
+
+		<!--[if IE 8]>
+				<link rel="stylesheet" type="text/css" href="http://staticieeexplore.ieee.org/assets/css/ie8.css?cv=20170523_000000" />
+		<![endif]-->
+
+		<!--[if IE 7]>
+				<link rel="stylesheet" type="text/css" href="http://staticieeexplore.ieee.org/assets/css/ie7.css?cv=20170523_000000" />
+		<![endif]-->
+
+		<!--[if IE 6]>
+				<link rel="stylesheet" type="text/css" href="http://staticieeexplore.ieee.org/assets/css/ie6.css?cv=20170523_000000" />
+		<![endif]-->
+		
+	
+
+	
+		<p class="JumpLink" id="PageTop"><a href="#" title="Click here to Skip to main content" accesskey="s">Skip to Main Content</a></p>
+
+		<div id="global-notification" class="pure-g stats-global-notification">
+			<div class="hide pure-u-1 Notification Notification--global Notification--fixed">
+				<a href="" class="Notification-close js-close"><i class="fa fa-close"></i></a>
+				<div class="Notification-header"></div>
+				<div class="Notification-text"></div>
+			</div>
+		</div>
+
+		<div id="LayoutWrapper" class="">
+
+
+			
+
+
+
+<!-- what is this script for? -->
+<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/vendor/jwplayer/jwplayer.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+	
+	
+
+
+
+
+	
+
+
+
+
+
+<div class="Metanav stats-metanav">
+	<div class="pure-g">
+		<div class="pure-u-5-8">
+			<ul class="Menu Menu--horizontal Menu--dividers">
+				<li class="Menu-item stats-extLink stats-Unav_exit_aaa"><a href="http://www.ieee.org/" id="u-home" class="ieeeorg">IEEE.org</a></li>
+				<li class="Menu-item stats-extLink">IEEE <em>Xplore</em> Digital Library</li>
+				<li class="Menu-item stats-extLink"><a href="http://standards.ieee.org/" id="u-standards" class="exitstandardsorg">IEEE-SA</a></li>
+				<li class="Menu-item stats-extLink"><a href="http://spectrum.ieee.org/" id="u-spectrum" class="exitspectrum">IEEE Spectrum</a></li>
+				<li class="Menu-item stats-extLink"><a href="http://www.ieee.org/sitemap.html" id="u-more" class="exitmoreieeesites">More Sites</a></li>
+
+			</ul>
+		</div>
+		<div class="pure-u-3-8">
+			<ul class="Menu Menu--horizontal u-pullRight Menu--dividers u-relative">
+
+					
+						<li class="Menu-item stats-mnEvLinks" id="global-header-cart-count"><a class="cart stats-Unav_exit_Cart" href="https://www.ieee.org/cart/public/myCart/page.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE%20Xplore" title="View Cart"><span id="cartCount">Cart (0)</span></a>
+
+						</li>
+						<div class="content-r cart-summary product-cart" style="display:none" id="mc_ieee-mini-cart-include_wrapper">
+							<a class="cart-close" onclick="closeCart()"></a>
+							<span style="display:none" id="mc_ieee-mini-cart-include"></span><div id="mc_minicart-container" class="mc-minicart-content"></div>
+						</div>						
+					
+				
+				
+					<li class="Menu-item stats-mnEvLinks"><a class="create-account stats-Unav_CreateAcct" href="#" title="Create Account">Create Account</a></li>
+					<li class="Menu-item stats-mnEvLinks"><a class="sign-in stats-Unav_P_SignIn" href="#" title="Sign In">Personal Sign In</a>
+					</li>
+					
+
+
+<div id="personal-sign-in" class="hide Overlay Overlay--right stats-metanav-signin-modal" aria-hidden="true">
+	<div class="Overlay-tab">
+		<span class="Overlay-label">Personal Sign In</span>
+	</div>
+	<div class="Overlay-body">
+		<div class="Notification hide u-mb-1">
+			<div class="Notification-header"></div>
+			<div class="Notification-text"></div>
+		</div>
+		<form action="https://ieeexplore.ieee.org/servlet/LoginModalController" class="form-personal-signin pure-form pure-g u-mb-1">
+				<input type="hidden" name="src2" id="src2" value="loginModalWindow" /> 
+				<input type="hidden" name="url2" id="url2" value="/xpl/loginModal.jsp" />
+				<div class="pure-u-5-12 u-pr-1">
+					<label class="overlabel" for="username">Username</label>
+					<input class="pure-input-1 username" id="username" name="username" type="text" autocomplete="off" placeholder="Username" />
+				</div>
+				<div class="pure-u-5-12 u-pr-1">
+					<label class="overlabel" for="password">Password</label>
+					<input class="pure-input-1 password" id="password" name="password" type="password" placeholder="Password" />
+				</div>
+				<div class="pure-u-1-6">
+					<button class="js-submit pure-button pure-button-primary stats-Unav_Per_SignIn">Sign In</button>
+				</div>
+		</form>
+		
+		<i class="qtooltip icon icon-help-blue" title="IEEE Account usernames and passwords are case sensitive. If you have recently visited IEEE, you may have transitioned your username to your e-mail address. If not, you may be asked to do so after you sign in with your existing IEEE username. " aria-label="IEEE Account usernames and passwords are case sensitive. If you have recently visited IEEE, you may have transitioned your username to your e-mail address. If not, you may be asked to do so after you sign in with your existing IEEE username. "></i>
+		<a href="#" class="u-pullRight js-forgotUserPass stats-forgotUserPass stats-Unav_Per_SignIn_Forgot_UP">Forgot Password?</a>
+	</div>
+</div>
+
+				
+			</ul>
+		</div>
+	</div>
+</div>  <!-- Metanav -->
+<!--
+TODOS
+* update the way the shopping cart updates counts.  It's inserting string text + count.
+* port logic for modal service unavailable to js
+
+ -->
+
+
+
+
+<div class="Header" id="xplore-header" data-service="true" data-inst="" data-web="false">
+	<div class="pure-g">
+		<div class="pure-u-1-4 logo-container">
+			<a href="/Xplore/home.jsp" accesskey="1" title="Delivering full text access to the world's highest quality technical literature in engineering and technology" alt="IEEE Advancing Technology for Humanity" class="logo-xplore"></a>
+		</div>
+		<div class="pure-u-1-2">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		<div id="loggedInLogo">
+			<div id="loggedinlogo-wrapper">
+				<div class="branding-container">
+
+					
+
+					<span class="branding-text">
+						<span>Access provided by:</span>
+						<h4>Fujian Star Net Communication Co LTD</h4>
+						
+						<a class="sign-out" href="/servlet/Login?logout=/Xplore/guesthome.jsp" title="Sign Out" accesskey="3"><i class="icon icon-double-caret"></i>Sign Out</a>
+					</span>
+				</div>
+			</div>
+		</div>
+		
+		
+
+		
+		
+		<div id="contAdminWindowContent">
+			<a class="mwclose">X</a>
+			<table>
+			
+				
+				
+				
+				
+				
+				
+			</table>
+		</div>
+
+	
+	
+
+
+		</div>
+		<div class="pure-u-1-4 logo-container">
+			<span class="logo-ieee u-pullRight"></span>
+		</div>
+	</div>
+</div>
+
+
+
+
+<!--  code for desktop capturing removed -->
+
+
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+	function goToTopic(topic) {
+		var topicMap = applySpecialCharacterMapping(topic); 
+		var url = "/xpl/topicbrowse.jsp?topic=" + escape(topicMap);
+		window.top.location.href = url;
+	}
+</script>
+
+
+<div id="browse-by-topic" class="hide Overlay stats-browsebytopic-menu">
+	<div class="Overlay-tab">By Topic <i class="icon icon--flip icon-caret-blue-down"></i></div>
+	<div class="Overlay-body pure-g">
+		
+		
+			
+			
+				<ul class="List List--caret pure-u-1-3">
+			
+			
+					<li><a href="/browse/topics/Aerospace">Aerospace</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Bioengineering">Bioengineering</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Communication, Networking &amp; Broadcasting">Communication, Networking &amp; Broadcasting</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Components, Circuits, Devices &amp; Systems">Components, Circuits, Devices &amp; Systems</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Computing &amp; Processing">Computing &amp; Processing</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Engineered Materials, Dielectrics &amp; Plasmas">Engineered Materials, Dielectrics &amp; Plasmas</a></li>
+						
+			
+			
+				</ul><ul class="List List--caret pure-u-1-3">
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Engineering Profession">Engineering Profession</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Fields, Waves &amp; Electromagnetics">Fields, Waves &amp; Electromagnetics</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/General Topics for Engineers">General Topics for Engineers</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Geoscience">Geoscience</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Nuclear Engineering">Nuclear Engineering</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Photonics &amp; Electro-Optics">Photonics &amp; Electro-Optics</a></li>
+						
+			
+			
+				</ul><ul class="List List--caret pure-u-1-3">
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Power, Energy, &amp; Industry Applications">Power, Energy, &amp; Industry Applications</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Robotics &amp; Control Systems">Robotics &amp; Control Systems</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Signal Processing &amp; Analysis">Signal Processing &amp; Analysis</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Transportation">Transportation</a></li>
+						
+			
+			
+		
+		</ul>
+	</div>
+</div>
+
+<div class="Toolbar pure-g stats-toolbar-menu">
+	<ul class="pure-u-1 u-noPad u-noMargin">
+		<li id="primary-browse" class="Toolbar-item is-menu ">
+			<a class="Toolbar-button Toolbar-button--primary stats-browse-content" tabindex="0">Browse<i class="icon icon--flip icon-caret-white-down"></i></a><i class="Toolbar-button-wedge"></i>
+			<ul class="Menu Menu--overlay">
+				<li><a href="/browse/books/title/" class="Books stats-browse-book">Books &amp; eBooks</a></li>
+				<li><a href="/browse/conferences/title/" accesskey="c" class="ConfProceedings stats-browse-conf">Conference Publications</a></li>
+				<li><a href="/xpl/courses.jsp" class="EducationCourses stats-browse-course">Courses</a></li>
+				<li><a href="/browse/periodicals/title/" accesskey="j" class="Journals_Mag stats-browse-jrnl">Journals &amp; Magazines</a></li>
+				<li><a href="/browse/standards/collection/ieee" accesskey="b" class="Standards stats-browse-std">Standards</a></li>
+				<li><a href="#" id="byTopicLink" class="ByTopic stats-browse-by-topic">By Topic <i class="icon icon--flip icon-caret-blue-down"></i></a>
+				</li>
+			</ul>
+		</li>
+		
+		
+		<li class="Toolbar-item is-menu">
+			<a class="Toolbar-button" tabindex="0">My Settings<i class="icon icon--flip icon-caret-white-down"></i></a>
+			<ul class="Menu Menu--overlay stats-my-settings">
+				
+				<li><a href="/xpl/tocalerts_list.jsp" class="ALERTS">Content Alerts</a></li>
+                					
+				<li><a href="/search/savedsearches" class="stats-saved-searches">Search Alerts</a></li>
+				<li><a href="/Xplore/login.jsp?reason=fromPreferencesMenu" class="" id="">Preferences</a></li>
+				<li><a href="/articleSale/purchaseHistory.jsp" class="PURCHASEHISTORY" id="PURCHASEHISTORY">Purchase History</a></li>
+				<li><a href="/search/searchHistoryMore.jsp" id="search-history" class="searchhistory">Search History</a></li>
+				<li><a href="/Xplore/accessinfo.jsp" class="WHATCANIACCESS" id="WHATCANIACCESS">What can I access?</a></li>
+			</ul>
+		</li>
+		
+		<li class="Toolbar-item is-menu">
+			<a class="Toolbar-button" tabindex="0">Get Help<i class="icon icon--flip icon-caret-white-down"></i></a>
+			<ul class="Menu Menu--overlay stats-get-help">
+				<li><a href="/xpl/feedback.jsp" id="Feedback">Feedback</a></li>
+				<li><a href="/xpl/techform.jsp" id="TechSupport">Technical Support</a></li>
+				<li><a href="/Xplorehelp/Help_start.html" id="Resources">Resources and Help</a></li>
+			</ul>
+		</li>
+		<li class="Toolbar-item stats-what-can-i-access"><a href="/Xplore/accessinfo.jsp" class="Toolbar-button stats-Xplnav_what_access">What Can I Access?</a></li>
+
+		
+
+		
+	</ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+			
+			
+
+
+
+
+
+
+
+	
+		
+		
+			
+			
+			
+		
+	
+	
+
+
+
+
+			
+			<div id="global-alert-message"></div>
+			
+
+
+
+
+ <!-- Set title property for sitemesh to use in v2/common/template.jsp -->
+
+<!--[if lte IE 8]>
+	<script type="text/javascript">
+		var redirectURL = location.protocol + '//' + location.host + '/search/freesearchresult.jsp' + location.search;
+		location.replace(redirectURL);
+	</script>
+<![endif]-->
+
+<script type="text/javascript">
+document.write('&lt;base href="/search/searchresult.jsp" /&gt;');
+</script><base href="/search/searchresult.jsp" />
+
+
+
+	
+		
+		
+	
+	
+
+
+<div ng-app="xpl.search" class="stats-search-page">
+	<xpl-searchbar show-count="false"></xpl-searchbar>
+	<div ng-show="stateIsLoading" class="Spinner"></div>
+	<div ui-view="" class="{{stateIsLoading ? 'loading': ''}}"></div>
+</div>
+
+
+			
+
+
+
+
+
+<div class="Footer stats-footer" id="xploreFooter">
+	<div class="pure-g Footer-sections u-mt-1">
+		<div class="pure-u-1-4">
+			<h3 class="Footer-header">IEEE Account</h3>
+			<ul class="Footer-list">
+				<li><a href="https://www.ieee.org/profile/changeusrpwd/showChangeUsrPwdPage.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE Xplore">Change Username/Password</a></li>
+				<li><a href="https://www.ieee.org/profile/address/getAddrInfoPage.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE Xplore">Update Address</a></li>
+			</ul>
+		</div>
+		<div class="pure-u-1-4">
+			<h3 class="Footer-header">Purchase Details</h3>
+			<ul class="Footer-list">
+				<li><a href="https://www.ieee.org/profile/payment/showPaymentHome.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE Xplore">Payment Options</a></li>
+				<li><a href="https://www.ieee.org/profile/vieworder/showOrderHistory.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE Xplore">Order History</a></li>
+				<li><a href="/articleSale/purchaseHistory.jsp">View Purchased Documents</a></li>
+			</ul>
+		</div>
+		<div class="pure-u-1-4">
+			<h3 class="Footer-header">Profile Information</h3>
+			<ul class="Footer-list">
+				<li><a href="https://www.ieee.org/profile/commprefs/showcommPrefpage.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE Xplore">Communications Preferences</a></li>
+				<li><a href="https://www.ieee.org/profile/profedu/getProfEduInformation.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE Xplore">Profession and Education</a></li>
+				<li><a href="https://www.ieee.org/profile/tips/getTipsInfo.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE Xplore">Technical Interests</a></li>
+			</ul>
+		</div>
+		<div class="pure-u-1-4">
+			<h3 class="Footer-header">Need Help?</h3>
+			<ul class="Footer-list">
+				<li><strong>US &amp; Canada:</strong> +1 800 678 4333</li>
+				<li><strong>Worldwide: </strong> +1 732 981 0060<br />
+				</li>
+				<li><a href="/xpl/techform.jsp">Contact &amp; Support</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="pure-g">
+		<div class="pure-u-1 Footer-bottom">
+			<div class="logo-ieee-white u-pullRight"></div>
+			<ul class="Menu Menu--horizontal Menu--dividers u-mb-1">
+				<li class="Menu-item"><a href="/Xplorehelp/about-ieee-xplore.html">About IEEE <em>Xplore</em></a></li>
+				<li class="Menu-item"><a href="/xpl/techform.jsp">Contact Us</a></li>
+				<li class="Menu-item"><a href="/Xplorehelp/Help_start.html" target="blank">Help</a></li>
+				<li class="Menu-item"><a href="/xpl/termsOfUse.jsp">Terms of Use</a></li>
+				<li class="Menu-item"><a href="http://www.ieee.org/web/aboutus/whatis/policies/p9-26.html">Nondiscrimination Policy</a></li>
+				<li class="Menu-item"><a href="/xpl/sitemap.jsp">Sitemap</a></li>
+				<li class="Menu-item"><a href="http://www.ieee.org/about/help/security_privacy.html" target="blank">Privacy &amp; Opting Out of Cookies</a></li>
+			</ul>
+			<p class="Footer-bottom-terms">
+				A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.<br />© Copyright 2017 IEEE - All rights reserved. Use of this web site signifies your agreement to the terms and conditions.
+			</p>
+		</div>
+	</div>
+</div>
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="http://staticieeexplore.ieee.org/assets/css/ie7Sniffer.css" />
+
+
+	
+
+		
+		
+		
+		
+		
+
+
+		
+			
+		
+		
+
+		
+
+		
+		
+
+
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+
+
+
+
+
+
+<div style="width: 1263px;" id="popup_overlay"></div>
+
+<g:compress>
+
+
+
+
+
+
+
+
+		
+		
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/vendor/modernizr/modernizr.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/js/vendor.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+						
+
+
+
+
+
+
+
+
+
+<script>
+	var $j = jQuery.noConflict();
+	var j$ = jQuery.noConflict();
+	var membershipIncomplete;
+    var IS_INDIVIDUAL_USER=false;
+
+	var searchPropertiesParamQueryText = 'queryText';
+	var searchPropertiesParamNewSearch = 'newsearch';
+	var searchPropertiesParamMatchBoolean = 'matchBoolean';
+	var searchPropertiesParamSearchWithin = 'searchWithin';
+	var searchInterfaceArticleIndexTermReference = 'Search_Index_Terms';
+	var searchPropertiesParamRecordsPerPage = 'rowsPerPage';
+	var searchPropertiesParamPageNumber = 'pageNumber';
+	var searchPropertiesParamRemoveRefinement = 'removeRefinement';
+	
+	var authorsGetDisplay = 'Authors';
+	var authorsFirstNameProperty = 'First Name';
+	var authorsLastNameProperty = 'Last Name';
+	var authorsMiddleNameProperty = 'Middle Name';
+	var pubTitleDispNameProperty = 'Publication Title';
+	var volumeDispNameProperty = 'Volume';
+	var issueDispNameProperty = 'Issue';
+	var startPageDispNameProperty = 'Start Page';
+	var endPageDispNameProperty = 'Start Page';
+
+	var searchIcsTermProperty = 'Standards ICS Terms';
+	var searchPropertiesParamSearchField = 'searchField';
+	
+	var searchPropertiesParamNewSearch = 'newsearch';
+	var searchPropertiesParamArticleNumber = 'arnumber';
+	var authorsGetReference = 'p_Authors';
+	var authorsGetDisplay = 'Authors';
+	var authorIdReference = 'p_Author_Ids';
+	var NTPT_IMAGE_LOCATION = 'http://tagxplore.ieee.org/';
+	var XPLORE_HOST = 'ieeexplore.ieee.org';
+	var XPLORE_SSL_HOST = 'https://'+XPLORE_HOST;	
+	var SSL_YES_NO = 'yes';
+	if (SSL_YES_NO.toUpperCase() == "NO"){
+		var XPLORE_SSL_YES_NO = false;
+	}else{
+		var XPLORE_SSL_YES_NO = true;
+	}
+	var WEBSERVICES_SSL_YES_NO = 'yes';
+	if (WEBSERVICES_SSL_YES_NO.toUpperCase() == "NO"){
+		var XPLORE_WEBSERV_YES_NO = false;
+	}else{
+		var XPLORE_WEBSERV_YES_NO = true;
+	}
+	var IBP_MEMBEER_SIGNIN_TIME_WAIT_IN_MILLIES = '800';
+	var ASSETS_RELATIVE_PATH = 'http://staticieeexplore.ieee.org/assets';
+	var ASSETS_RELATIVE_PATH_NO_SERVER = '/assets';
+	var IBP_WS_ASSETS='https://www.ieee.org';
+	var IBP_WS_ENABLED_FLAG = true;
+	var ENTERPRISE_CART_URL = 'https://www.ieee.org/cart/public/myCart/page.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE%20Xplore';
+
+	var SPECIAL_CHARACTER_MAPS = '&amp;:.AND.,=:.EQ.,+:.PLS.,#:.HSH.,(:.LB.,):.RB.,":.QT.,&lt;:.LT.,&gt;:.GT.';
+	var SPECIAL_CHARACTERS = new Array();
+	var SPECIAL_CHARACTER_REPLACEMENTS = new Array();
+	var characterMaps = SPECIAL_CHARACTER_MAPS.split(",");
+	for (var i = 0; i &lt; characterMaps.length; i++) {
+		parts = characterMaps[i].split(":");
+		SPECIAL_CHARACTERS[i] = parts[0];
+		SPECIAL_CHARACTER_REPLACEMENTS[i] = parts[1];
+	}
+
+	var ALL_SEARCH_FIELDS = 'Search_Index_Terms:Index Terms,Search_All_Text:Full Text &amp; Metadata,Search_All:Metadata Only,Search_Publication_Title:Search Publication Title,Search_Publication_Title_ICS_Terms:Search Publication Title ICS Terms,Search_Related_Terms:Search Related Terms,Search_Authors:Author Name,p_Id:Article Number,ID:,p_Module_Number:Module Number,p_Part_Num:Part Num,p_ISSN:ISSN,p_ISBN:ISBN,p_EISBN:EISBN,p_IS_Number:IS Number,p_Accession_Number:Accession Number,p_Article_Number:Article Number,p_Copyright_Holder:Copyright Holder,p_Copyright_Year:Copyright Year,p_Copyright_Type:License,p_Title:Document Title,p_Abstract:Abstract,p_Publication_Number:Publication Number,p_Parent_Publication_Number:Parent Publication Number,p_Parent_Publication_Title:Parent Publication Title,p_Publication_Title:Publication Title,p_Publication_Display_Title:Publication Display Title,p_Volume:Volume,p_Issue:Issue,p_Padded_Issue_Number:Padded Issue Number,p_Part:Part,p_Start_Page:Start Page,p_End_Page:End Page,p_File_Path:File Path,p_Publication_Date:Publication Date,p_Publication_Year:Year,p_Online_Date:Online Date,p_Month:Month,p_Author_Pref_Names:Author Pref Names,p_Author_Norm_Names:Author Norm Names,p_Authors:Authors,p_Author_Ids:Author Ids,p_First_Names:First Name,p_Middle_Names:Middle Name,p_Last_Names:Last Name,p_Author_Affiliations:Author Affiliations,p_Author_Bio:Author Bio,p_Author_Img:Author Img,p_Reference_Count:Reference Count,p_Citation_Count:Citation Count,p_Patent_Count:Patent Count,p_Multimedia_Flag:Multimedia Flag,p_Biomedical_Eng_Flag:Biomedical Eng Flag,p_Non_IEEE:Non IEEE,p_STDS_Product_Number:STDS Product Number,p_Status:Status,p_DOI:DOI,p_Pdf_Path:Pdf Path,p_Pdf_Size:Pdf Size,p_Content_Type:Content Type,p_Publisher:Publisher,p_Controlled_Terms:INSPEC Controlled Terms,p_Free_Terms:INSPEC Non-Controlled Terms,p_IEEE_Terms:IEEE Terms,p_Author_Terms:Author Keywords,p_Mesh_Terms:MeSH Terms,p_PACS_Terms:PACS Terms,p_Insert_Date:Insert Date,Conference_Location:nference Location,p_Index_Content:Index Content,p_CODEN:CODEN,p_Document_Text:Document Text,p_Standard_Number:Standard Number,p_Preprint_Flag:Preprint Flag,p_Rapid_Post_Flag:Rapid Post Flag,p_Last_Update:Last Update,p_New_Flag:New Flag,p_Open_Access_Flag:Open Access Flag,p_Promo_Flag:Promo Flag,p_Pubmed_Id:Pubmed Id,p_Duration:Duration,p_Society:Society,p_Conference:Conference,p_Society_URL:Society URL,p_Id_Subject:Id Subject,p_Book_Number:Book Number,p_Pages:Pages,p_Edition_Number:Edition Number,p_Sequence:Sequence,p_Related_Info_Type:Related Info Type,p_Related_Info:Related Info,p_Format_ISBN:Format ISBN,p_Meeting_Date:Meeting Date,p_Course_level:Course level,p_Course_ID:Course ID,p_About_Url:About Url,p_Additional_Url:Additional Url,p_Authors_Url:Authors Url,p_Open_Access_Url:Open Access Url,p_Open_Access_flag:Open Access flag,p_Partnum_VendorURL_MediaType:Partnum VendorURL MediaType,p_Branding_Image_File:Branding Image File,p_Cover_Image_File:Cover Image File,p_Frequency:Frequency,p_Field_Of_Interest:Field Of Interest,p_G_Parent_Publication_Number:G Parent Publication Number,p_Ms_Url:Ms Url,p_Relationship:Relationship,p_Society_Image:Society Image,p_Visit_Url:Visit Url,p_Visit_Website:Visit Website,p_Start_Year:Start Year,p_End_Year:End Year,p_Record_Type:Record Type,p_Rollup_Key:Rollup Key,p_Epub:Epub,p_Pic_Code_Description:Pic Code Description,p_Pic_Code:Pic Code,p_Sponsors:Sponsors,p_Notes:Notes,p_Conference_Date:Conference Date,p_Publication_Contact:Publication Contact,p_isBuyable:isBuyable,p_Publication_Files:Publication Files,p_Map_Pricing_Key:Map Pricing Key,p_Unavailable_for_Sale:Unavailable for Sale,p_Publication_Sort:Publication Sort,p_Standard_Family:Standard Family,p_Standard_Group:Standard Group,p_Product_Url:Product Url,p_ISBN_MediaType:ISBN MediaType,p_Html_Flag:Html Flag,p_Rightslink_Flag:Rightslink Flag,p_Page_Count:Page Count,p_Name:Name,p_Table_of_Contents:Table of Contents,p_Time_Stamp:Time Stamp,p_Sub_Title:Sub Title,p_Related_Item:Related Item,p_Reference_Material:Reference Material,p_Latest_Issue_Time:Latest Issue Time,p_Search_Latest_Date:Search Latest Date,p_Pbd_Flag:Pbd Flag,p_Lms_Url:Lms Url,p_Current_Volume:Current Volume,p_Graphical_File:Graphical File,p_Graphical_Image:Graphical Cover Image,p_Graphical_Summary:Graphical Summary,p_Graphical_Type:Graphical Type,p_Native_Names:Native Name,p_External_Id:Article Page Number,p_Standard_Bundles:Standard Bundles,p_Standard_Bundle_Parts:Standard Bundle Parts,p_Virtual_Title:Virtual Title,p_Series_Name:Series Name,p_Series_Id:Series Id,p_ML_Html_flag:ML Html flag,p_Promo_Start_Date:Promo Start Date,p_Promo_End_Date:Promo End Date,p_Issue_Complete_Flag:Issue Complete Flag,p_Scope:Scope,p_Purpose:Purpose,p_Standard_Family_Title:Standard Family Title,p_Thumbnail_Img:Thumbnail Img,p_Supplement_File:Supplement File,p_Pdhs:Pdhs,p_Ceus:Ceus,p_FirstFrame_Img:FirstFrame Img,p_Id_Sub_Topic:Id Sub Topic,p_Certificate_Url:Certificate Url,p_Standard_Root:Standard Root,p_ICS_Terms:Standards ICS Terms,p_Impact_Statement:Impact Statement,p_Plagiarized_Flag:Plagiarized Flag,p_Course_Affirmed_Date:Affirmed Date,p_Pdf_Source_Name:Source Pdf,p_Orcid:Author ORCID,p_Algorithm_Flag:Algorithm Flag,p_Funding_Agency:Funding Agency,Type_Ahead_Terms:Type Ahead Terms,IEEE_Term:IEEE Term,Content_Type:Content Type,Author:Author,Affiliation:Affiliation,Topic:Topic,Publication_Title:Publication Title,Publication_Year:Year,Publisher:Publisher,Conference_Country:Conference Country,Conference_Location:Conference Location,Standard_Status:Standard Status,Conference_Year:Conference Year,Publication_Package:Subscribed Content,Standard_Package:Standard Package,Standard_Title:Standard Title,Standard_Term:Standards Dictionary Terms,Publication_Range:Publication Range,Standard_Range:Standard Range,Record_Type:Record Type,Media_Type:Media Type,Book_Type:Book Type,Course_Type:Course Type,Publication_Standard_Range:Publication Standard Range,Perpetual_Year:Perpetual Year,Opac_Title_Range:Opac Title Range,Book_Series:Book Series,Subject_Category:Subject Category,Type_Ahead_Publication:Type Ahead Publication,Sub_Topic:Sub Topic,Course_Duration:Course Duration,Course_Level:Course Level,Standard_Type:Standard Type,Standard_SubType:Standard SubType,Standard_Topic:Standard Topic,Standard_Modifier:Standard Modifier,Ics_Terms_1:Ics Terms 1,Ics_Terms_2:Ics Terms 2,Ics_Terms_3:Ics Terms 3,Supplemental_Items:Supplemental Items';
+	var SEARCH_FIELD_REFERENCES = new Array();
+	var SEARCH_FIELD_DISPLAYS = new Array();
+	var searchFields = ALL_SEARCH_FIELDS.split(",");
+	for (var j = 0; j &lt; searchFields.length; j++) {
+		parts = searchFields[j].split(":");
+		SEARCH_FIELD_REFERENCES[j] = parts[0];
+		SEARCH_FIELD_DISPLAYS[j] = parts[1];
+	}
+	
+	var TEMP_PAGE_TAGGING = 'ON';
+	var wt_domain = 'statse.webtrendslive.com';
+	var wt_dcsid = 'dcs7nlnxvuz5bdjhyiihzogfg_6x8o';
+	var TEMP_SAT_PAGE_TAGGING = 'ON';
+	
+	if(TEMP_PAGE_TAGGING &amp;&amp; TEMP_PAGE_TAGGING == 'ON') {
+		var PAGE_TAGGING = true;
+	} else {
+		var PAGE_TAGGING = false;
+	}
+	
+	if(SAT_PAGE_TAGGING &amp;&amp; SAT_PAGE_TAGGING == 'ON') {
+		var SAT_PAGE_TAGGING = true;
+	} else {
+		var SAT_PAGE_TAGGING = false;
+	}
+	
+	var refSite='http://ieeexplore.ieee.org';
+	var refSiteName="IEEE Xplore";
+	var applicationName = 'Xplore';
+	var MC_OPERATION_DELAY_TIMEOUT='5000';
+	var MC_ADDING_DELAY_MSG='Please wait.The selected item(s) is being added to the cart.';
+	var MC_TIMEOUT='60000';
+	var MC_OPERATION_DELAY_MSG_FLAG='true';
+	
+	//content types
+	var CONTENT_TYPE_PARAM = 'contentType';
+	var CONTENT_TYPE_BOOKS = 'Books &amp; eBooks';
+	var CONTENT_TYPE_COURSES = 'Courses';
+	var CONTENT_TYPE_STANDARDS = 'Standards';
+	var CONTENT_TYPE_CONFERENCES = 'Conference Publications';
+	var CONTENT_TYPE_JOURNALS = 'Journals &amp; Magazines';
+	var CONTENT_TYPE_EARLY_ACCESS = 'Early Access Articles';
+	
+	//User Preferences
+	var citFormat = "";
+	var dlFormat = "";
+</script>
+
+					
+					
+								
+			
+				
+					
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/js/history.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/js/lib/conditional/minicart.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/js/core.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/ng/xpl.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/ng/xpl.search.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/ng/templates.xpl.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/ng/templates.xpl.search.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/js/ads.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/js/master.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+		
+	
+
+
+
+
+
+<script>
+
+function getCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i &lt; ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+j$('document').ready(function(){
+	if(getCookie('legacyUserName')!=null)
+	{
+		if(IBP_WS_ENABLED_FLAG){
+		Modal.refreshLegacyAccountTransition('/xpl/mwLegacyAccountTransition.jsp');
+		}
+	}
+});
+
+</script>
+
+
+
+
+
+
+
+
+
+
+<input type="hidden" id="PAGE_TAGGING" value="true" />
+ 
+
+			
+			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			
+
+			<!-- BEGIN: Unica Page Tag -->
+			<!-- Copyright 2004-2006 Unica Corporation.  All rights reserved. -->
+			<script language="JavaScript">
+			var unValue =  '77418';
+			var sid =  '';
+			if (sid){
+				var NTPT_PGEXTRA="un="+unValue+"&amp;ip="+'218.106.154.158'+"&amp;un3="+ sid;
+			} else {
+				var NTPT_PGEXTRA="un="+unValue+"&amp;ip="+'218.106.154.158';
+			}
+			</script>
+
+			<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/js/analytics/customTracking.js?cv=20170523_000000"></script>
+			
+			<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/js/analytics/pagetagPlugin.js?cv=20170523_000000"></script>
+			<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/js/analytics/pagetagEvent.js?cv=20170523_000000"></script>
+
+
+			<!-- END: Unica Page Tag -->
+
+		
+		<!-- BEGIN: ScoutAnalytics -->
+		
+
+
+
+
+
+		<!-- BEGIN: ScoutAnalytics -->
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+					
+			 
+
+		<!-- END: ScoutAnalytics -->
+
+
+</g:compress>
+
+
+
+
+
+
+
+
+		
+			
+					
+			
+					
+			
+					
+			
+				
+					
+
+
+
+
+
+
+
+
+
+<script>
+	// Get/Set XPL namespace.
+	window.xpl = window.xpl || {};
+	
+	// Set constants/application properties.
+	xpl.properties = { 
+			collabratec: { 
+					url: 'https://ieee-collabratec.ieee.org/app/library'
+			}
+	};
+	
+	xpl.properties.details = {
+			oqs: ''
+	};
+</script>
+					
+			
+					
+			
+					
+			
+					
+			
+					
+			
+					
+			
+					
+			
+					
+			
+					
+			
+					
+			
+		
+		
+	
+
+
+
+
+
+	<!--Begin Optional Configuration-->
+	<script type="text/javascript" src="https://www.ieee.org/ieee-mashup/js/common/jquery.json-2.2.min.js"></script>
+	<script type="text/javascript" src="https://www.ieee.org/ieee-mashup/js/common/postmessage.js"></script>
+	<script type="text/javascript" src="https://www.ieee.org/ieee-mashup/js/common/jquery.cookie.js"></script>
+	<script type="text/javascript" src="https://www.ieee.org/ieee-mashup/js/auth/ieee-auth-constants.js"></script>
+	<script type="text/javascript" src="https://www.ieee.org/ieee-mashup/js/auth/ieee-auth-include.js"></script>
+	<script type="text/javascript" src="https://www.ieee.org/ieee-mashup/js/minicart/ieee-mini-cart-constants.js"></script>
+
+
+	<script type="text/javascript" src="https://www.ieee.org/ieee-mashup/js/minicart/ieee-mashup-util.js"></script>
+	<script type="text/javascript" src="https://www.ieee.org/ieee-mashup/js/common/jquery.ba-jqmq.js"></script>
+	<script type="text/javaScript" src="https://www.ieee.org/ieee-mashup/js/minicart/ieee-minicart-include.js"> </script>
+
+	<!--End Optional Configuration-->
+
+
+<!-- Removed due to network issues when loading in China -->
+<!-- <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-5005a435228f9245" async="async"></script>-->
+
+<!-- Load Mathjax and process the document for Mathjax characters -->
+
+
+<script type="text/javascript" src="http://staticieeexplore.ieee.org/xploreAssets/MathJax-2.6.1/MathJax.js?config=default"></script>
+
+
+<script defer="">
+	MathJax.Hub.Queue(["Typeset", MathJax.Hub, document.body]);
+</script>
+
+
+
+
+			<!-- BEGIN: tealium in v2/common/template.jsp. NOTE since we need jQuery in tealiumAnalytics.js, let this include be here after commonjs.jsp include above -->
+			
+
+
+
+
+
+
+		<!-- BEGIN: TealiumAnalytics.jsp -->
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+			
+			
+			
+				
+			
+		
+		
+		
+		
+		
+		
+			
+				
+			
+		
+			
+				
+					
+					
+				
+			
+	
+			
+	
+			
+				
+			
+		
+		
+
+			<script type="text/javascript">
+ 				// tealium config vars
+				var TEALIUM_CONFIG_TAGGING_ENABLED = true;		
+				var TEALIUM_CONFIG_CDN_URL = '//tags.tiqcdn.com/utag/';
+				var TEALIUM_CONFIG_ACCOUNT_PROFILE_ENV = 'ieeexplore/main/prod';
+				
+				// tealium utag_data values for user 
+				var TEALIUM_userType = 'Institute';
+				var TEALIUM_userInstitutionId = '77418';
+				var TEALIUM_userId = '';
+				var TEALIUM_user_third_party = '';
+				
+				var TEALIUM_products = 'IOJ|ISOL9|';
+			</script>
+
+
+			<script type="text/javascript">
+			// asynchronously load tealium's utag.js , which declares tealium JS variables like; utag_data, utag
+			(function(a,b,c,d){
+			
+				a=TEALIUM_CONFIG_CDN_URL + TEALIUM_CONFIG_ACCOUNT_PROFILE_ENV + '/utag.js';
+				b=document;c='script';d=b.createElement(c);d.src=a;
+				d.type='text/java'+c;d.async=true;
+				a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+			})();
+			</script>
+
+			<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/js/analytics/tealiumTagsData.js?cv=20170523_000000"></script>
+			<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/js/analytics/tealiumAnalytics.js?cv=20170523_000000"></script>
+
+
+		
+ 		
+		<!-- END: TealiumAnalytics.jsp -->
+			 
+
+			<!-- END: tealium in v2/common/template.jsp -->
+
+
+			
+				<script>
+					// set $ alias back to jQuery because noConflict mode is used in legacy pages
+					window.$ = jQuery;
+				</script>
+			
+		</div><!-- /#LayoutWrapper -->
+	
+
+</body></html>
