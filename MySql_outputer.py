@@ -34,7 +34,10 @@ class MySqlOutputer(object):
                     sql = "insert into IEEE_UHFRFID_Data(url_search,url_document,title,abstract,keywords,journal,date) values(\"%s\",\"%s\",\"%s\",\"%s\",\"%s\",\"%s\",\"%s\")"%(url_search,url_document,title,abstract,keywords,journal,date)
     #                 print "output_dbData sql-insert:"+sql  
                     cursor.execute(sql)               
-                    self.conn.commit() 
+                    self.conn.commit()  #提交数据库事务
+                
+                #存在，只更新url_search?
+                
         finally:
             cursor.close()                      
                 

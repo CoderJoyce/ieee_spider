@@ -1,0 +1,2364 @@
+http://ieeexplore.ieee.org/document/6513236/
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head><style type="text/css">.uib-position-measure{display:block !important;visibility:hidden !important;position:absolute !important;top:-9999px !important;left:-9999px !important;}.uib-position-scrollbar-measure{position:absolute !important;top:-9999px !important;width:50px !important;height:50px !important;overflow:scroll !important;}.uib-position-body-scrollbar-measure{overflow:scroll !important;}</style><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style><script type="text/javascript" async="" charset="utf-8" id="tealium_cormetrics7" src="//libs.coremetrics.com/eluminate.js"></script><script async="" src="http://www.googletagservices.com/tag/js/gpt.js"></script><script src="//tags.tiqcdn.com/utag/ieeexplore/main/prod/utag.js" type="text/javascript" async=""></script><script async="" type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script><script>
+  var CPK = '6LfZwcgSAAAAAGWTUdAV3VuQHUbQx9vTxwZvt31i';
+</script>
+
+
+
+
+
+	
+		
+			
+				
+			
+			
+			 
+		
+		
+		
+		<meta name="Description" content="A compact and broadband microstrip stacked patch antenna with circular polarization (CP) for a mobile 2.45-GHz passive radio frequency identification (RFID" />
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		
+		<!-- Disable "click" touch event 300ms delay for Chrome/Firefox on Android -->
+		<meta name="viewport" content="width=device-width" />
+		
+		<title>A Compact and Broadband Microstrip Stacked Patch Antenna With Circular Polarization for 2.45-GHz Mobile RFID Reader - IEEE Xplore Document</title>
+		
+		
+
+
+
+
+
+ 
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+
+	
+
+	
+
+	
+		
+	
+		
+		
+			
+			
+	
+
+
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+
+
+
+
+
+<script src="http://pubads.g.doubleclick.net/gpt/pubads_impl_121.js" async=""></script><script type="text/javascript" async="" charset="utf-8" id="utag_ieeexplore.main_7" src="//tags.tiqcdn.com/utag/ieeexplore/main/prod/utag.7.js?utv=ut4.41.201704221902"></script><style type="text/css">.MathJax_Preview {color: #888}
+#MathJax_Message {position: fixed; left: 1em; bottom: 1.5em; background-color: #E6E6E6; border: 1px solid #959595; margin: 0px; padding: 2px 8px; z-index: 102; color: black; font-size: 80%; width: auto; white-space: nowrap}
+#MathJax_MSIE_Frame {position: absolute; top: 0; left: 0; width: 0px; z-index: 101; border: 0px; margin: 0px; padding: 0px}
+.MathJax_Error {color: #CC0000; font-style: italic}
+</style><script type="text/javascript" async="" charset="utf-8" id="tiqapp" src="//tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=ieeexplore/main/201704221902&amp;cb=1498186666625"></script><script language="javascript" type="text/javascript" src="http://libs.coremetrics.com/configs/52820000.js"></script><script language="javascript" type="text/javascript" src="http://tmscdn.coremetrics.com/tms/dispatcher-v3.js"></script><script src="https://libs.coremetrics.com/ddxlibs/yahoo-min.js" type="text/javascript"></script><script src="http://tmscdn.coremetrics.com/tms/52820000/cp-v3.js?__t=20170623105747871" type="text/javascript"></script><script src="https://libs.coremetrics.com/ddxlibs/json-min.js" type="text/javascript"></script><script language="javascript" type="text/javascript" src="http://libs.coremetrics.com/configs/52820000.js"></script><script type="text/javascript" src="http://staticieeexplore.ieee.org/xploreAssets/MathJax-2.6.1/jax/output/HTML-CSS/jax.js?rev=2.6.1"></script><script type="text/javascript" src="http://staticieeexplore.ieee.org/xploreAssets/MathJax-2.6.1/jax/output/HTML-CSS/fonts/TeX/fontdata.js?rev=2.6.1"></script><script type="text/javascript" src="http://staticieeexplore.ieee.org/xploreAssets/MathJax-2.6.1/extensions/MathEvents.js?rev=2.6.1"></script><style type="text/css">.MathJax_Hover_Frame {border-radius: .25em; -webkit-border-radius: .25em; -moz-border-radius: .25em; -khtml-border-radius: .25em; box-shadow: 0px 0px 15px #83A; -webkit-box-shadow: 0px 0px 15px #83A; -moz-box-shadow: 0px 0px 15px #83A; -khtml-box-shadow: 0px 0px 15px #83A; border: 1px solid #A6D ! important; display: inline-block; position: absolute}
+.MathJax_Menu_Button .MathJax_Hover_Arrow {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; -khtml-border-radius: 4px; font-family: 'Courier New',Courier; font-size: 9px; color: #F0F0F0}
+.MathJax_Menu_Button .MathJax_Hover_Arrow span {display: block; background-color: #AAA; border: 1px solid; border-radius: 3px; line-height: 0; padding: 4px}
+.MathJax_Hover_Arrow:hover {color: white!important; border: 2px solid #CCC!important}
+.MathJax_Hover_Arrow:hover span {background-color: #CCC!important}
+</style></head><body><div id="MathJax_Message" style="">Loading [MathJax]/extensions/MathEvents.js</div><g:compress>
+	<link rel="stylesheet" href="http://staticieeexplore.ieee.org/assets/css/simplePassMeter.min.css?cv=20170523_000000" />
+	<link rel="stylesheet" type="text/css" media="screen, print" href="http://staticieeexplore.ieee.org/assets/css/styles.css?cv=20170523_000000" />
+	<link rel="stylesheet" href="http://staticieeexplore.ieee.org/assets/vendor/swiper/dist/idangerous.swiper.css" />
+	<link rel="stylesheet" type="text/css" media="screen, print" href="http://staticieeexplore.ieee.org/assets/css/jquery-ui-1.8.19.custom.css?cv=20170523_000000" />
+</g:compress>
+
+
+
+
+		
+		
+
+	<script type="text/javascript">
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') + 
+		'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+		})();
+	</script>
+
+
+		
+
+		<!--[if gt IE 8]>
+				<link rel="stylesheet" type="text/css" href="http://staticieeexplore.ieee.org/assets/css/ie9.css?cv=20170523_000000" />
+		<![endif]-->
+
+		<!--[if IE 8]>
+				<link rel="stylesheet" type="text/css" href="http://staticieeexplore.ieee.org/assets/css/ie8.css?cv=20170523_000000" />
+		<![endif]-->
+
+		<!--[if IE 7]>
+				<link rel="stylesheet" type="text/css" href="http://staticieeexplore.ieee.org/assets/css/ie7.css?cv=20170523_000000" />
+		<![endif]-->
+
+		<!--[if IE 6]>
+				<link rel="stylesheet" type="text/css" href="http://staticieeexplore.ieee.org/assets/css/ie6.css?cv=20170523_000000" />
+		<![endif]-->
+		
+	
+
+	
+		<p class="JumpLink" id="PageTop"><a href="#" title="Click here to Skip to main content" accesskey="s">Skip to Main Content</a></p>
+
+		<div id="global-notification" class="pure-g stats-global-notification">
+			<div class="hide pure-u-1 Notification Notification--global Notification--fixed">
+				<a href="" class="Notification-close js-close"><i class="fa fa-close"></i></a>
+				<div class="Notification-header"></div>
+				<div class="Notification-text"></div>
+			</div>
+		</div>
+
+		<div id="LayoutWrapper" class="">
+
+
+			
+
+
+
+<!-- what is this script for? -->
+<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/vendor/jwplayer/jwplayer.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+	
+	
+
+
+
+
+	
+
+
+
+
+
+<div class="Metanav stats-metanav">
+	<div class="pure-g">
+		<div class="pure-u-5-8">
+			<ul class="Menu Menu--horizontal Menu--dividers">
+				<li class="Menu-item stats-extLink stats-Unav_exit_aaa"><a href="http://www.ieee.org/" id="u-home" class="ieeeorg">IEEE.org</a></li>
+				<li class="Menu-item stats-extLink">IEEE <em>Xplore</em> Digital Library</li>
+				<li class="Menu-item stats-extLink"><a href="http://standards.ieee.org/" id="u-standards" class="exitstandardsorg">IEEE-SA</a></li>
+				<li class="Menu-item stats-extLink"><a href="http://spectrum.ieee.org/" id="u-spectrum" class="exitspectrum">IEEE Spectrum</a></li>
+				<li class="Menu-item stats-extLink"><a href="http://www.ieee.org/sitemap.html" id="u-more" class="exitmoreieeesites">More Sites</a></li>
+
+			</ul>
+		</div>
+		<div class="pure-u-3-8">
+			<ul class="Menu Menu--horizontal u-pullRight Menu--dividers u-relative">
+
+					
+						<li class="Menu-item stats-mnEvLinks" id="global-header-cart-count"><a class="cart stats-Unav_exit_Cart" href="https://www.ieee.org/cart/public/myCart/page.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE%20Xplore" title="View Cart"><span id="cartCount">Cart (0)</span></a>
+
+						</li>
+						<div class="content-r cart-summary product-cart" style="display:none" id="mc_ieee-mini-cart-include_wrapper">
+							<a class="cart-close" onclick="closeCart()"></a>
+							<span style="display:none" id="mc_ieee-mini-cart-include"></span><div id="mc_minicart-container" class="mc-minicart-content"></div><div id="mc_minicart-container" class="mc-minicart-content"></div>
+						</div>						
+					
+				
+				
+					<li class="Menu-item stats-mnEvLinks"><a class="create-account stats-Unav_CreateAcct" href="#" title="Create Account">Create Account</a></li>
+					<li class="Menu-item stats-mnEvLinks"><a class="sign-in stats-Unav_P_SignIn" href="#" title="Sign In">Personal Sign In</a>
+					</li>
+					
+
+
+<div id="personal-sign-in" class="hide Overlay Overlay--right stats-metanav-signin-modal" aria-hidden="true">
+	<div class="Overlay-tab">
+		<span class="Overlay-label">Personal Sign In</span>
+	</div>
+	<div class="Overlay-body">
+		<div class="Notification hide u-mb-1">
+			<div class="Notification-header"></div>
+			<div class="Notification-text"></div>
+		</div>
+		<form action="https://ieeexplore.ieee.org/servlet/LoginModalController" class="form-personal-signin pure-form pure-g u-mb-1">
+				<input type="hidden" name="src2" id="src2" value="loginModalWindow" /> 
+				<input type="hidden" name="url2" id="url2" value="/xpl/loginModal.jsp" />
+				<div class="pure-u-5-12 u-pr-1">
+					<label class="overlabel" for="username">Username</label>
+					<input class="pure-input-1 username" id="username" name="username" type="text" autocomplete="off" placeholder="Username" />
+				</div>
+				<div class="pure-u-5-12 u-pr-1">
+					<label class="overlabel" for="password">Password</label>
+					<input class="pure-input-1 password" id="password" name="password" type="password" placeholder="Password" />
+				</div>
+				<div class="pure-u-1-6">
+					<button class="js-submit pure-button pure-button-primary stats-Unav_Per_SignIn">Sign In</button>
+				</div>
+		</form>
+		
+		<i class="qtooltip icon icon-help-blue" title="IEEE Account usernames and passwords are case sensitive. If you have recently visited IEEE, you may have transitioned your username to your e-mail address. If not, you may be asked to do so after you sign in with your existing IEEE username. " aria-label="IEEE Account usernames and passwords are case sensitive. If you have recently visited IEEE, you may have transitioned your username to your e-mail address. If not, you may be asked to do so after you sign in with your existing IEEE username. "></i>
+		<a href="#" class="u-pullRight js-forgotUserPass stats-forgotUserPass stats-Unav_Per_SignIn_Forgot_UP">Forgot Password?</a>
+	</div>
+</div>
+
+				
+			</ul>
+		</div>
+	</div>
+</div>  <!-- Metanav -->
+<!--
+TODOS
+* update the way the shopping cart updates counts.  It's inserting string text + count.
+* port logic for modal service unavailable to js
+
+ -->
+
+
+
+
+<div class="Header" id="xplore-header" data-service="true" data-inst="" data-web="false">
+	<div class="pure-g">
+		<div class="pure-u-1-4 logo-container">
+			<a href="/Xplore/home.jsp" accesskey="1" title="Delivering full text access to the world's highest quality technical literature in engineering and technology" alt="IEEE Advancing Technology for Humanity" class="logo-xplore"></a>
+		</div>
+		<div class="pure-u-1-2">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		<div id="loggedInLogo">
+			<div id="loggedinlogo-wrapper">
+				<div class="branding-container">
+
+					
+
+					<span class="branding-text">
+						<span>Access provided by:</span>
+						<h4>Fujian Star Net Communication Co LTD</h4>
+						
+						<a class="sign-out" href="/servlet/Login?logout=/Xplore/guesthome.jsp" title="Sign Out" accesskey="3"><i class="icon icon-double-caret"></i>Sign Out</a>
+					</span>
+				</div>
+			</div>
+		</div>
+		
+		
+
+		
+		
+		<div id="contAdminWindowContent">
+			<a class="mwclose">X</a>
+			<table>
+			
+				
+				
+				
+				
+				
+				
+			</table>
+		</div>
+
+	
+	
+
+
+		</div>
+		<div class="pure-u-1-4 logo-container">
+			<span class="logo-ieee u-pullRight"></span>
+		</div>
+	</div>
+</div>
+
+
+
+
+<!--  code for desktop capturing removed -->
+
+
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+	function goToTopic(topic) {
+		var topicMap = applySpecialCharacterMapping(topic); 
+		var url = "/xpl/topicbrowse.jsp?topic=" + escape(topicMap);
+		window.top.location.href = url;
+	}
+</script>
+
+
+<div id="browse-by-topic" class="hide Overlay stats-browsebytopic-menu">
+	<div class="Overlay-tab">By Topic <i class="icon icon--flip icon-caret-blue-down"></i></div>
+	<div class="Overlay-body pure-g">
+		
+		
+			
+			
+				<ul class="List List--caret pure-u-1-3">
+			
+			
+					<li><a href="/browse/topics/Aerospace">Aerospace</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Bioengineering">Bioengineering</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Communication, Networking &amp; Broadcasting">Communication, Networking &amp; Broadcasting</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Components, Circuits, Devices &amp; Systems">Components, Circuits, Devices &amp; Systems</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Computing &amp; Processing">Computing &amp; Processing</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Engineered Materials, Dielectrics &amp; Plasmas">Engineered Materials, Dielectrics &amp; Plasmas</a></li>
+						
+			
+			
+				</ul><ul class="List List--caret pure-u-1-3">
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Engineering Profession">Engineering Profession</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Fields, Waves &amp; Electromagnetics">Fields, Waves &amp; Electromagnetics</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/General Topics for Engineers">General Topics for Engineers</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Geoscience">Geoscience</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Nuclear Engineering">Nuclear Engineering</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Photonics &amp; Electro-Optics">Photonics &amp; Electro-Optics</a></li>
+						
+			
+			
+				</ul><ul class="List List--caret pure-u-1-3">
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Power, Energy, &amp; Industry Applications">Power, Energy, &amp; Industry Applications</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Robotics &amp; Control Systems">Robotics &amp; Control Systems</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Signal Processing &amp; Analysis">Signal Processing &amp; Analysis</a></li>
+						
+			
+			
+		
+			
+			
+			
+					<li><a href="/browse/topics/Transportation">Transportation</a></li>
+						
+			
+			
+		
+		</ul>
+	</div>
+</div>
+
+<div class="Toolbar pure-g stats-toolbar-menu">
+	<ul class="pure-u-1 u-noPad u-noMargin">
+		<li id="primary-browse" class="Toolbar-item is-menu ">
+			<a class="Toolbar-button Toolbar-button--primary stats-browse-content" tabindex="0">Browse<i class="icon icon--flip icon-caret-white-down"></i></a><i class="Toolbar-button-wedge"></i>
+			<ul class="Menu Menu--overlay">
+				<li><a href="/browse/books/title/" class="Books stats-browse-book">Books &amp; eBooks</a></li>
+				<li><a href="/browse/conferences/title/" accesskey="c" class="ConfProceedings stats-browse-conf">Conference Publications</a></li>
+				<li><a href="/xpl/courses.jsp" class="EducationCourses stats-browse-course">Courses</a></li>
+				<li><a href="/browse/periodicals/title/" accesskey="j" class="Journals_Mag stats-browse-jrnl">Journals &amp; Magazines</a></li>
+				<li><a href="/browse/standards/collection/ieee" accesskey="b" class="Standards stats-browse-std">Standards</a></li>
+				<li><a href="#" id="byTopicLink" class="ByTopic stats-browse-by-topic">By Topic <i class="icon icon--flip icon-caret-blue-down"></i></a>
+				</li>
+			</ul>
+		</li>
+		
+		
+		<li class="Toolbar-item is-menu">
+			<a class="Toolbar-button" tabindex="0">My Settings<i class="icon icon--flip icon-caret-white-down"></i></a>
+			<ul class="Menu Menu--overlay stats-my-settings">
+				
+				<li><a href="/xpl/tocalerts_list.jsp" class="ALERTS">Content Alerts</a></li>
+                					
+				<li><a href="/search/savedsearches" class="stats-saved-searches">Search Alerts</a></li>
+				<li><a href="/Xplore/login.jsp?reason=fromPreferencesMenu" class="" id="">Preferences</a></li>
+				<li><a href="/articleSale/purchaseHistory.jsp" class="PURCHASEHISTORY" id="PURCHASEHISTORY">Purchase History</a></li>
+				<li><a href="/search/searchHistoryMore.jsp" id="search-history" class="searchhistory">Search History</a></li>
+				<li><a href="/Xplore/accessinfo.jsp" class="WHATCANIACCESS" id="WHATCANIACCESS">What can I access?</a></li>
+			</ul>
+		</li>
+		
+		<li class="Toolbar-item is-menu">
+			<a class="Toolbar-button" tabindex="0">Get Help<i class="icon icon--flip icon-caret-white-down"></i></a>
+			<ul class="Menu Menu--overlay stats-get-help">
+				<li><a href="/xpl/feedback.jsp" id="Feedback">Feedback</a></li>
+				<li><a href="/xpl/techform.jsp" id="TechSupport">Technical Support</a></li>
+				<li><a href="/Xplorehelp/Help_start.html" id="Resources">Resources and Help</a></li>
+			</ul>
+		</li>
+		<li class="Toolbar-item stats-what-can-i-access"><a href="/Xplore/accessinfo.jsp" class="Toolbar-button stats-Xplnav_what_access">What Can I Access?</a></li>
+
+		
+
+		
+	</ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+			
+			
+
+
+
+
+
+
+
+	
+		
+		
+			
+			
+			
+		
+	
+	
+
+
+
+
+			
+			<div id="global-alert-message"></div>
+			
+
+
+
+
+
+
+<script type="text/javascript">
+	
+		
+		
+			document.write('&lt;base href="/document/" /&gt;');
+		
+	
+</script><base href="/document/" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div ng-app="xpl.document" class="ng-scope">
+	
+	<div class="Search pure-g ng-isolate-scope" show-count="false">
+	<!-- TODO Start: Integrate latest count -->
+	<!-- ngIf: showCount -->
+	<!-- TODO End: Integrate latest count -->
+	<form class="js-inputs Search-inputs ng-pristine ng-valid">
+		<div class="pure-u-1">
+			<div class="Notification Notification--float hide velocity-animating">
+				<div class="Notification-header"></div>
+				<div class="Notification-text"></div>
+			</div>
+		</div>
+		<div class="u-noPad pure-u-5-6">
+			<fieldset class="Search-group stats-search-basic" ng-show="search.basic.isActive" aria-hidden="false">
+				<div class="pure-g">
+					<div class="pure-u-1 u-relative stats-basic-input Typeahead ng-isolate-scope ng-empty ng-valid" placeholder="Enter Search Term" ul-class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" ng-model="search.basic.input.query" on-return="onTypeaheadReturn($event)" service-method="getSuggestions()" min-chars="3" aria-invalid="false">
+	<input class="Typeahead-input ng-pristine ng-untouched ng-valid ng-empty" type="text" ng-model="ngModel" ng-keydown="onKeyDown($event)" ng-keyup="onKeyUp($event)" ng-blur="onBlur($event)" placeholder="Enter Search Term" aria-invalid="false" />
+	<ul class="Typeahead-menu ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all ng-hide" ng-hide="!items || !items.length || items.length &lt; 1" aria-hidden="true">
+		<!-- ngRepeat: item in items track by $index -->
+	</ul>
+</div></div>
+			</fieldset>
+			<fieldset class="Search-group stats-search-author ng-hide" ng-show="search.author.isActive" aria-hidden="true">
+				<input type="hidden" name="matchBoolean" value="true" autocomplete="off" />
+				<div class="pure-g">
+					<span class="pure-u-1-2">
+						<label for="fname" class="overlabel">First Name / Given Name</label>
+						<input class="stats-fname-input ng-pristine ng-untouched ng-valid ng-empty" ng-model="search.author.input.firstName" id="fname" type="text" autocomplete="off" placeholder="First Name / Given Name" aria-invalid="false" />
+					</span>
+					<span class="pure-u-1-2">
+						<label for="lname" class="overlabel">Family Name / Last Name / Surname</label>
+						<input class="stats-lname-input ng-pristine ng-untouched ng-valid ng-empty" ng-model="search.author.input.lastName" id="lname" type="text" autocomplete="off" placeholder="Family Name / Last Name / Surname" aria-invalid="false" />
+					</span>
+				</div>
+			</fieldset>
+			<fieldset class="Search-group stats-search-pubs ng-hide" ng-show="search.publication.isActive" aria-hidden="true">
+				<div class="pure-g">
+					<span class="pure-u-2-5">
+						<label for="pqs_title" class="overlabel">Publication Title</label>
+						<input class="stats-pub-title-input ng-pristine ng-untouched ng-valid ng-empty" ng-model="search.publication.input.title" id="pqs_title" type="text" autocomplete="off" placeholder="Publication Title" aria-invalid="false" />
+					</span>
+					<span class="pure-u-1-5">
+						<label for="pqs_volume" class="overlabel">Volume</label>
+						<input class="stats-pub-vol-input ng-pristine ng-untouched ng-valid ng-empty" ng-model="search.publication.input.volume" id="pqs_volume" type="text" autocomplete="off" placeholder="Volume" aria-invalid="false" />
+					</span>
+					<span class="pure-u-1-5">
+						<label for="pqs_issue" class="overlabel">Issue</label>
+						<input class="stats-pub-issue-input ng-pristine ng-untouched ng-valid ng-empty" ng-model="search.publication.input.issue" id=" pqs_issue" type="text" autocomplete="off" placeholder="Issue" aria-invalid="false" />
+					</span>
+					<span class="pure-u-1-5">
+						<label for="pqs_spage" class="overlabel">Start Page</label>
+						<input class="stats-pub-page-input ng-pristine ng-untouched ng-valid ng-empty" ng-model="search.publication.input.startPage" id="pqs_spage" type="text" autocomplete="off" placeholder="Start Page" aria-invalid="false" />
+					</span>
+				</div>
+			</fieldset>
+		</div>
+		<div class="pure-u-1-6">
+			<button class="js-search Search-submit Button btn-search stats-search-submit" type="submit" aria-label="Search">
+				<i class="icon icon-search"></i>Search
+			</button>
+		</div>
+	</form>
+	<div role="navigation" class="pure-u-15-24">
+		<ul class="u-notList Search-controlGroup stats-search-menu">
+			<li class="Search-control active" ng-class="{'active': search.basic.isActive}" ng-click="onToggle(search.basic)" role="button" tabindex="0"><a>Basic Search</a></li>
+			<li class="Search-control" ng-class="{'active': search.author.isActive}" ng-click="onToggle(search.author)" role="button" tabindex="0"><a>Author Search</a></li>
+			<li class="Search-control" ng-class="{'active': search.publication.isActive}" ng-click="onToggle(search.publication)" role="button" tabindex="0"><a>Publication Search</a></li>
+		</ul>
+	</div>
+	<div class="pure-u-9-24">
+		<div class="Search-option stats-search-menu">
+			<a class="Search-option-title" href="/search/advsearch.jsp" target="_self" id="advancedSearch">Advanced Search</a>
+		</div>
+		<div class="Search-option Search-menu stats-search-menu" ng-class="{ 'active': showMenu} " ng-mouseleave="showMenu = false">
+			<a href="#" class="Search-option-title" id="otherSearchOptions" ng-click="showMenu = !showMenu">Other Search Options<i class="icon icon--flip icon-more-options-caret"></i></a>
+			<ul class="Menu Menu--overlay">
+				<li><a href="/search/advsearch.jsp?expression-builder" target="_self" class="CommandSearch" id="commandSearch">Command Search</a></li>
+				<li><a href="/search/advsearch.jsp?quick-search" target="_self" class="CitationSearch" id="citationSearch">Citation Search</a></li>
+				<li><a href="/search/savedsearches" target="_self" class="SAVEDSEARCHES" id="savedSearches">Search Alerts</a></li>
+				<li><a href="/search/searchHistoryMore.jsp" target="_self" class="searchhistory" id="searchHistory">Search History</a></li>
+			</ul>
+		</div>
+
+	</div>
+</div>
+	<div ng-show="stateIsLoading" class="Spinner ng-hide" aria-hidden="true"></div>
+	<!-- uiView: --><div ui-view="" class="" autoscroll="false"><div class="pure-g document stats-document ng-isolate-scope">
+
+	<section class="pure-u-1">
+		<!-- ngIf: !vm.loading && vm.showAd -->
+	</section>
+	
+	<!-- ngIf: !vm.loading --><section class="document-header pure-u-1-1 ng-scope" ng-if="!vm.loading">
+		<div class="bar"> 
+			<!-- ngIf: ::vm.browseBreadcrumbs --><div class="breadcrumbs ng-scope" ng-if="::vm.browseBreadcrumbs">
+				<!-- ngRepeat: breadcrumb in ::vm.browseBreadcrumbs --><span ng-repeat="breadcrumb in ::vm.browseBreadcrumbs" class="ng-binding ng-scope">
+					<a href="/browse/periodicals/title/" class="ng-binding">Browse  Journals &amp; Magazines</a>  &gt;
+				</span><!-- end ngRepeat: breadcrumb in ::vm.browseBreadcrumbs --><span ng-repeat="breadcrumb in ::vm.browseBreadcrumbs" class="ng-binding ng-scope">
+					<a href="/xpl/RecentIssue.jsp?punumber=7727" class="ng-binding">IEEE Antennas and Wireless Pr...</a>  &gt;
+				</span><!-- end ngRepeat: breadcrumb in ::vm.browseBreadcrumbs --><span ng-repeat="breadcrumb in ::vm.browseBreadcrumbs" class="ng-binding ng-scope">
+					<a href="/xpl/tocresult.jsp?isnumber=6478802" class="ng-binding">Volume: 12</a> 
+				</span><!-- end ngRepeat: breadcrumb in ::vm.browseBreadcrumbs -->
+				
+				<a id="help" target="blank" href="/Xplorehelp/#/ieee-xplore-training/working-with-documents#interactive-html" text="Help" class="icon-help-blue" ng-attr-title="{{::vm.helpText}}" ng-attr-aria-label="{{::vm.helpText}}" title="Help Working with Interactive HTML" aria-label="Help Working with Interactive HTML"></a>
+			</div><!-- end ngIf: ::vm.browseBreadcrumbs -->
+			<!-- ngIf: ::vm.document.backToResultsLink || vm.document.prevLink || vm.document.nextLink -->
+
+
+		</div>
+		<!-- ngIf: vm.showFullText --><div class="pure-g stats-document-header ng-scope" ng-if="vm.showFullText">
+			<div ng-class="(!vm.loadingRelated &amp;&amp; vm.relatedArticles.length &gt; 0) ? 'pure-u-17-24' : 'pure-u-1'" class="pure-u-17-24">
+				<div class="document-title-container ng-binding">
+					<h1 class="document-title">
+						<span ng-bind-html="vm.displayDocTitle" mathjax-bind="" class="ng-binding">A Compact and Broadband Microstrip Stacked Patch Antenna With Circular Polarization for 2.45-GHz Mobile RFID Reader</span>
+						<!-- ngIf: vm.titleContainsRedline -->
+					</h1>
+					
+					<!-- ngRepeat: versions in ::vm.document.versions -->
+					
+					
+					<!-- ngIf: vm.document.isStandard -->
+				</div>
+				<div class="document-banner stats-document-banner">
+					<!-- Show if user doesn't have access -->
+					<!-- ngIf: ::!vm.document.fullTextAccess || (vm.document.canAddToFileCabinet && vm.purchaseNow) -->
+					
+					<!-- Show if user has no access and can add to their file cabinet -->
+					<!-- ngIf: ::!vm.document.fullTextAccess && vm.document.canAddToFileCabinet -->
+					
+					<!-- Show if user has access and document is published by ACM -->
+					<!-- ngIf: ::vm.document.fullTextAccess && vm.document.isACM -->
+					
+					<!-- Show if user has access and document is NOT ACM -->
+					<!-- ngIf: ::vm.document.fullTextAccess && !vm.document.isACM --><button class="sip-modal-button stats-document-banner-viewDocument ng-scope" ng-click="vm.viewDocument()" ng-if="::vm.document.fullTextAccess &amp;&amp; !vm.document.isACM">
+						<div class="main-txt">
+							View Document
+						</div>
+					</button><!-- end ngIf: ::vm.document.fullTextAccess && !vm.document.isACM -->
+					
+					<!-- ngIf: ::vm.document.metrics.citationCountPaper || vm.document.metrics.citationCountPatent || vm.document.metrics.totalDownloads --><div class="document-banner-metric-container ng-scope" ng-if="::vm.document.metrics.citationCountPaper || vm.document.metrics.citationCountPatent || vm.document.metrics.totalDownloads">
+						<!-- ngIf: ::vm.document.metrics.citationCountPaper --><button class="document-banner-metric ng-scope" ng-if="::vm.document.metrics.citationCountPaper" ui-sref="document.full({tab:'citations', q:null, ctx:null, section:null, part:null, anchor:null, tabFilter: 'papers'})" href="/document/6513236/citations?tabFilter=papers">
+							<div class="document-banner-metric-count ng-binding">26</div>
+							<div>Paper</div>
+							<div class="ng-binding">Citations</div>
+						</button><!-- end ngIf: ::vm.document.metrics.citationCountPaper -->
+						<!-- ngIf: ::vm.document.metrics.citationCountPatent -->
+						<!-- ngIf: ::vm.document.metrics.totalDownloads --><button class="document-banner-metric ng-scope" ng-if="::vm.document.metrics.totalDownloads" ui-sref="document.full({tab:'metrics', q:null, ctx:null, section:null, part:null, anchor:null})" href="/document/6513236/metrics">
+							<div class="document-banner-metric-count ng-binding">2358</div>
+							<div>Full</div>
+							<div class="ng-binding">Text Views</div>
+						</button><!-- end ngIf: ::vm.document.metrics.totalDownloads -->
+					</div><!-- end ngIf: ::vm.document.metrics.citationCountPaper || vm.document.metrics.citationCountPatent || vm.document.metrics.totalDownloads -->
+					
+					<!-- ngIf: ::vm.document.isOpenAccess || vm.document.isPromo -->
+					
+					<!-- ngIf: ::vm.document.denialMessage -->
+				</div> <!-- End .document-banner -->
+			</div>
+			<!-- ngIf: !vm.loadingRelated && vm.relatedArticles.length > 0 --><div class="pure-u-7-24 stats-document-header-relatedArticles ng-scope" ng-if="!vm.loadingRelated &amp;&amp; vm.relatedArticles.length &gt; 0">
+				<div class="header-rel-art">
+					<div class="header-rel-art-title">
+						Related Articles
+					</div>
+					<div class="header-rel-art-list">
+						<!-- ngRepeat: art in vm.relatedArticles | limitTo:3 --><div class="header-rel-art-item ng-scope" ng-repeat="art in vm.relatedArticles | limitTo:3">
+							<a ng-href="/document/1406230" target="_self" href="/document/1406230">
+								<span ng-bind-html="::(vm.document.isStandard ? art.standardNumber + ' - ' + art.title : art.title) | charlimitHtml:80" mathjax-bind="" class="ng-binding">Bandwidth enhancement and size reduction of microstrip slot antennas</span>
+							</a>
+						</div><!-- end ngRepeat: art in vm.relatedArticles | limitTo:3 --><div class="header-rel-art-item ng-scope" ng-repeat="art in vm.relatedArticles | limitTo:3">
+							<a ng-href="/document/1351670" target="_self" href="/document/1351670">
+								<span ng-bind-html="::(vm.document.isStandard ? art.standardNumber + ' - ' + art.title : art.title) | charlimitHtml:80" mathjax-bind="" class="ng-binding">Experimental studies of printed wide-slot antenna for wide-band applications</span>
+							</a>
+						</div><!-- end ngRepeat: art in vm.relatedArticles | limitTo:3 --><div class="header-rel-art-item ng-scope" ng-repeat="art in vm.relatedArticles | limitTo:3">
+							<a ng-href="/document/1236125" target="_self" href="/document/1236125">
+								<span ng-bind-html="::(vm.document.isStandard ? art.standardNumber + ' - ' + art.title : art.title) | charlimitHtml:80" mathjax-bind="" class="ng-binding">Low-cost broadband circularly polarized patch antenna</span>
+							</a>
+						</div><!-- end ngRepeat: art in vm.relatedArticles | limitTo:3 -->
+					</div>
+					<div class="header-rel-art-action">
+						<a ng-click="vm.viewMoreRelated()">View All</a>
+					</div>					
+				</div>
+			</div><!-- end ngIf: !vm.loadingRelated && vm.relatedArticles.length > 0 -->
+		</div><!-- end ngIf: vm.showFullText -->
+	</section><!-- end ngIf: !vm.loading -->
+
+	<!-- ngIf: vm.showFullText && !vm.document.isStandard && vm.authors.length > 0 --><div class="document-authors-banner pure-u-1-1 stats-document-authors-banner ng-scope" ng-if="vm.showFullText &amp;&amp; !vm.document.isStandard &amp;&amp; vm.authors.length &gt; 0">
+		<div class="pure-g">
+			<div class="pure-u-2-24">
+				<div class="authors-count-container">
+					<div class="authors-count ng-binding">
+						6
+					</div>
+					<div>Author(s)</div>
+				</div>
+			</div>
+			<div class="pure-u-18-24">
+				<div class="authors-container stats-document-authors-banner-authorsContainer">
+					<div class="authors-info-container" overflow-ellipsis="">
+						<!-- ngRepeat: author in vm.authors --><span class="authors-info ng-binding ng-scope" ng-repeat="author in vm.authors">
+							<!-- ngIf: ::author.affiliation --><span ng-if="::author.affiliation" class="ng-scope">
+								<a qtip-popover="" qtip-event-show="hover" qtip-event-hide="mouseleave" qtip-text="school of University of Electronic Science and Technology of China, Chengdu, China" data-qtip-config="{&quot;style&quot;: {&quot;classes&quot;:&quot;qtip-author-info&quot;}, &quot;position&quot;: { &quot;my&quot;: &quot;top center&quot;, &quot;at&quot;: &quot;bottom center&quot; }}" ng-href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Tingqiang Wu.QT.&amp;newsearch=true" class="ng-isolate-scope" data-hasqtip="0" href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Tingqiang Wu.QT.&amp;newsearch=true">
+									<i class="author-info-icon"></i>
+									<span ng-bind-html="::author.name" class="ng-binding">Tingqiang Wu</span>
+									<!-- ngIf: ::author.nativeName -->
+								</a>
+							</span><!-- end ngIf: ::author.affiliation -->
+							<!-- ngIf: ::!author.affiliation -->
+							<!-- ngIf: ::author.orcid -->
+							; 
+						</span><!-- end ngRepeat: author in vm.authors --><span class="authors-info ng-binding ng-scope" ng-repeat="author in vm.authors">
+							<!-- ngIf: ::author.affiliation --><span ng-if="::author.affiliation" class="ng-scope">
+								<a qtip-popover="" qtip-event-show="hover" qtip-event-hide="mouseleave" qtip-text="School of University of Electronic Science and Technology of China, Chengdu, China" data-qtip-config="{&quot;style&quot;: {&quot;classes&quot;:&quot;qtip-author-info&quot;}, &quot;position&quot;: { &quot;my&quot;: &quot;top center&quot;, &quot;at&quot;: &quot;bottom center&quot; }}" ng-href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Hua Su.QT.&amp;newsearch=true" class="ng-isolate-scope" data-hasqtip="1" href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Hua Su.QT.&amp;newsearch=true">
+									<i class="author-info-icon"></i>
+									<span ng-bind-html="::author.name" class="ng-binding">Hua Su</span>
+									<!-- ngIf: ::author.nativeName -->
+								</a>
+							</span><!-- end ngIf: ::author.affiliation -->
+							<!-- ngIf: ::!author.affiliation -->
+							<!-- ngIf: ::author.orcid -->
+							; 
+						</span><!-- end ngRepeat: author in vm.authors --><span class="authors-info ng-binding ng-scope" ng-repeat="author in vm.authors">
+							<!-- ngIf: ::author.affiliation --><span ng-if="::author.affiliation" class="ng-scope">
+								<a qtip-popover="" qtip-event-show="hover" qtip-event-hide="mouseleave" qtip-text="School of University of Electronic Science and Technology of China, Chengdu, China" data-qtip-config="{&quot;style&quot;: {&quot;classes&quot;:&quot;qtip-author-info&quot;}, &quot;position&quot;: { &quot;my&quot;: &quot;top center&quot;, &quot;at&quot;: &quot;bottom center&quot; }}" ng-href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Liyun Gan.QT.&amp;newsearch=true" class="ng-isolate-scope" data-hasqtip="2" href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Liyun Gan.QT.&amp;newsearch=true">
+									<i class="author-info-icon"></i>
+									<span ng-bind-html="::author.name" class="ng-binding">Liyun Gan</span>
+									<!-- ngIf: ::author.nativeName -->
+								</a>
+							</span><!-- end ngIf: ::author.affiliation -->
+							<!-- ngIf: ::!author.affiliation -->
+							<!-- ngIf: ::author.orcid -->
+							; 
+						</span><!-- end ngRepeat: author in vm.authors --><span class="authors-info ng-binding ng-scope" ng-repeat="author in vm.authors">
+							<!-- ngIf: ::author.affiliation --><span ng-if="::author.affiliation" class="ng-scope">
+								<a qtip-popover="" qtip-event-show="hover" qtip-event-hide="mouseleave" qtip-text="School of University of Electronic Science and Technology of China, Chengdu, China" data-qtip-config="{&quot;style&quot;: {&quot;classes&quot;:&quot;qtip-author-info&quot;}, &quot;position&quot;: { &quot;my&quot;: &quot;top center&quot;, &quot;at&quot;: &quot;bottom center&quot; }}" ng-href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Huizhu Chen.QT.&amp;newsearch=true" class="ng-isolate-scope" data-hasqtip="3" href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Huizhu Chen.QT.&amp;newsearch=true">
+									<i class="author-info-icon"></i>
+									<span ng-bind-html="::author.name" class="ng-binding">Huizhu Chen</span>
+									<!-- ngIf: ::author.nativeName -->
+								</a>
+							</span><!-- end ngIf: ::author.affiliation -->
+							<!-- ngIf: ::!author.affiliation -->
+							<!-- ngIf: ::author.orcid -->
+							; 
+						</span><!-- end ngRepeat: author in vm.authors --><span class="authors-info ng-binding ng-scope" ng-repeat="author in vm.authors">
+							<!-- ngIf: ::author.affiliation --><span ng-if="::author.affiliation" class="ng-scope">
+								<a qtip-popover="" qtip-event-show="hover" qtip-event-hide="mouseleave" qtip-text="School of University of Electronic Science and Technology of China, Chengdu, China" data-qtip-config="{&quot;style&quot;: {&quot;classes&quot;:&quot;qtip-author-info&quot;}, &quot;position&quot;: { &quot;my&quot;: &quot;top center&quot;, &quot;at&quot;: &quot;bottom center&quot; }}" ng-href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Jingyao Huang.QT.&amp;newsearch=true" class="ng-isolate-scope" data-hasqtip="4" href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Jingyao Huang.QT.&amp;newsearch=true">
+									<i class="author-info-icon"></i>
+									<span ng-bind-html="::author.name" class="ng-binding">Jingyao Huang</span>
+									<!-- ngIf: ::author.nativeName -->
+								</a>
+							</span><!-- end ngIf: ::author.affiliation -->
+							<!-- ngIf: ::!author.affiliation -->
+							<!-- ngIf: ::author.orcid -->
+							; 
+						</span><!-- end ngRepeat: author in vm.authors --><span class="authors-info ng-binding ng-scope" ng-repeat="author in vm.authors">
+							<!-- ngIf: ::author.affiliation --><span ng-if="::author.affiliation" class="ng-scope">
+								<a qtip-popover="" qtip-event-show="hover" qtip-event-hide="mouseleave" qtip-text="School of University of Electronic Science and Technology of China, Chengdu, China" data-qtip-config="{&quot;style&quot;: {&quot;classes&quot;:&quot;qtip-author-info&quot;}, &quot;position&quot;: { &quot;my&quot;: &quot;top center&quot;, &quot;at&quot;: &quot;bottom center&quot; }}" ng-href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Huaiwu Zhang.QT.&amp;newsearch=true" class="ng-isolate-scope" data-hasqtip="5" href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Huaiwu Zhang.QT.&amp;newsearch=true">
+									<i class="author-info-icon"></i>
+									<span ng-bind-html="::author.name" class="ng-binding">Huaiwu Zhang</span>
+									<!-- ngIf: ::author.nativeName -->
+								</a>
+							</span><!-- end ngIf: ::author.affiliation -->
+							<!-- ngIf: ::!author.affiliation -->
+							<!-- ngIf: ::author.orcid -->
+							
+						</span><!-- end ngRepeat: author in vm.authors -->
+					</div>
+				</div>
+			</div>
+			<div class="pure-u-4-24">
+				<div class="authors-view-all-link-container">
+					<a ui-sref=".full({tab:'authors',q:null,ctx:'authors',section:null,part:null,anchor:null,tabfilter:null})" href="/document/6513236/authors?ctx=authors">View All Authors</a>
+				</div>
+			</div>
+		</div>
+	</div><!-- end ngIf: vm.showFullText && !vm.document.isStandard && vm.authors.length > 0 -->
+	
+	<!-- ngIf: vm.showFullText && vm.tabs.length > 0 --><nav ng-if="vm.showFullText &amp;&amp; vm.tabs.length &gt; 0" class="u-pt-1 pure-u-1-1 bg-ltgry tab-nav ng-scope">
+		<!-- Class 'browse-pub-tab' should be universal for this tab layout - not prefixed with 'browse-pub' -->
+		<ul id="document-tabs" ng-init="" class="stats-document-tabs">	
+			<!-- ngRepeat: tab in vm.tabs track by tab.state --><li class="browse-pub-tab ng-scope active" ng-class="{&#10;&#9;&#9;&#9;&#9;&quot;active&quot;: (tab.tabStateName === &quot;abstract&quot; &amp;&amp; &quot;document.abstract&quot;|includedByState) || (tab.tabStateName !== &quot;abstract&quot; &amp;&amp; vm.$state.includes(&quot;document.full&quot;, { tab:&quot;abstract&quot; }))}" ng-repeat="tab in vm.tabs track by tab.state">
+				<a ui-sref=".abstract({ctx:null})" title="Abstract" class="document-tab-link stats-document-tab-Abstract" href="/document/6513236/">Abstract</a>
+			</li><!-- end ngRepeat: tab in vm.tabs track by tab.state --><li class="browse-pub-tab ng-scope" ng-class="{&#10;&#9;&#9;&#9;&#9;&quot;active&quot;: (tab.tabStateName === &quot;abstract&quot; &amp;&amp; &quot;document.abstract&quot;|includedByState) || (tab.tabStateName !== &quot;abstract&quot; &amp;&amp; vm.$state.includes(&quot;document.full&quot;, { tab:&quot;authors&quot; }))}" ng-repeat="tab in vm.tabs track by tab.state">
+				<a ui-sref=".full({tab:&quot;authors&quot;, q:null, ctx:null, section:null, part:null, anchor:null, tabfilter:null})" title="Authors" class="document-tab-link stats-document-tab-Authors" href="/document/6513236/authors">Authors</a>
+			</li><!-- end ngRepeat: tab in vm.tabs track by tab.state --><li class="browse-pub-tab ng-scope" ng-class="{&#10;&#9;&#9;&#9;&#9;&quot;active&quot;: (tab.tabStateName === &quot;abstract&quot; &amp;&amp; &quot;document.abstract&quot;|includedByState) || (tab.tabStateName !== &quot;abstract&quot; &amp;&amp; vm.$state.includes(&quot;document.full&quot;, { tab:&quot;figures&quot; }))}" ng-repeat="tab in vm.tabs track by tab.state">
+				<a ui-sref=".full({tab:&quot;figures&quot;, q:null, ctx:null, section:null, part:null, anchor:null, tabfilter:null})" title="Figures" class="document-tab-link stats-document-tab-Figures" href="/document/6513236/figures">Figures</a>
+			</li><!-- end ngRepeat: tab in vm.tabs track by tab.state --><li class="browse-pub-tab ng-scope" ng-class="{&#10;&#9;&#9;&#9;&#9;&quot;active&quot;: (tab.tabStateName === &quot;abstract&quot; &amp;&amp; &quot;document.abstract&quot;|includedByState) || (tab.tabStateName !== &quot;abstract&quot; &amp;&amp; vm.$state.includes(&quot;document.full&quot;, { tab:&quot;references&quot; }))}" ng-repeat="tab in vm.tabs track by tab.state">
+				<a ui-sref=".full({tab:&quot;references&quot;, q:null, ctx:null, section:null, part:null, anchor:null, tabfilter:null})" title="References" class="document-tab-link stats-document-tab-References" href="/document/6513236/references">References</a>
+			</li><!-- end ngRepeat: tab in vm.tabs track by tab.state --><li class="browse-pub-tab ng-scope" ng-class="{&#10;&#9;&#9;&#9;&#9;&quot;active&quot;: (tab.tabStateName === &quot;abstract&quot; &amp;&amp; &quot;document.abstract&quot;|includedByState) || (tab.tabStateName !== &quot;abstract&quot; &amp;&amp; vm.$state.includes(&quot;document.full&quot;, { tab:&quot;citations&quot; }))}" ng-repeat="tab in vm.tabs track by tab.state">
+				<a ui-sref=".full({tab:&quot;citations&quot;, q:null, ctx:null, section:null, part:null, anchor:null, tabfilter:null})" title="Citations" class="document-tab-link stats-document-tab-Citations" href="/document/6513236/citations">Citations</a>
+			</li><!-- end ngRepeat: tab in vm.tabs track by tab.state --><li class="browse-pub-tab ng-scope" ng-class="{&#10;&#9;&#9;&#9;&#9;&quot;active&quot;: (tab.tabStateName === &quot;abstract&quot; &amp;&amp; &quot;document.abstract&quot;|includedByState) || (tab.tabStateName !== &quot;abstract&quot; &amp;&amp; vm.$state.includes(&quot;document.full&quot;, { tab:&quot;keywords&quot; }))}" ng-repeat="tab in vm.tabs track by tab.state">
+				<a ui-sref=".full({tab:&quot;keywords&quot;, q:null, ctx:null, section:null, part:null, anchor:null, tabfilter:null})" title="Keywords" class="document-tab-link stats-document-tab-Keywords" href="/document/6513236/keywords">Keywords</a>
+			</li><!-- end ngRepeat: tab in vm.tabs track by tab.state --><li class="browse-pub-tab ng-scope" ng-class="{&#10;&#9;&#9;&#9;&#9;&quot;active&quot;: (tab.tabStateName === &quot;abstract&quot; &amp;&amp; &quot;document.abstract&quot;|includedByState) || (tab.tabStateName !== &quot;abstract&quot; &amp;&amp; vm.$state.includes(&quot;document.full&quot;, { tab:&quot;metrics&quot; }))}" ng-repeat="tab in vm.tabs track by tab.state">
+				<a ui-sref=".full({tab:&quot;metrics&quot;, q:null, ctx:null, section:null, part:null, anchor:null, tabfilter:null})" title="Metrics" class="document-tab-link stats-document-tab-Metrics" href="/document/6513236/metrics">Metrics</a>
+			</li><!-- end ngRepeat: tab in vm.tabs track by tab.state --><li class="browse-pub-tab ng-scope" ng-class="{&#10;&#9;&#9;&#9;&#9;&quot;active&quot;: (tab.tabStateName === &quot;abstract&quot; &amp;&amp; &quot;document.abstract&quot;|includedByState) || (tab.tabStateName !== &quot;abstract&quot; &amp;&amp; vm.$state.includes(&quot;document.full&quot;, { tab:&quot;media&quot; }))}" ng-repeat="tab in vm.tabs track by tab.state">
+				<a ui-sref=".full({tab:&quot;media&quot;, q:null, ctx:null, section:null, part:null, anchor:null, tabfilter:null})" title="Media" class="document-tab-link stats-document-tab-Media" href="/document/6513236/media">Media</a>
+			</li><!-- end ngRepeat: tab in vm.tabs track by tab.state -->
+		</ul>
+	</nav><!-- end ngIf: vm.showFullText && vm.tabs.length > 0 -->
+	<section class="tab-pane pure-u-1-1 u-printing-display-inline-ie u-printing-display-inline-ff">
+		<!-- ngIf: vm.loading -->
+		<!-- ngIf: !vm.loading --><div ng-if="!vm.loading" class="ng-scope">
+			<!-- uiView: --><div ui-view="" class="ng-scope"><section class="pure-u-1-1 document-abstract document-tab u-p-2 ng-isolate-scope" mathjax-bind="" id="6513236">
+
+	<div class="pure-g">
+		<!-- ngIf: ::vm.details.impactStatement || vm.details.abstract || vm.details.scope || vm.details.purpose  || vm.details.previewImage --><div ng-if="::vm.details.impactStatement || vm.details.abstract || vm.details.scope || vm.details.purpose  || vm.details.previewImage" ng-class="vm.details.graphicalAbstract ? 'pure-u-14-24 u-pr-1' : 'pure-u-1-1'" class="ng-scope pure-u-1-1">
+			<!-- ngIf: ::vm.details.impactStatement -->
+		<!--/div-->
+		<!--div ng-class="{'pure-u-14-24 u-pr-1':  vm.details.graphicalAbstract, 'pure-u-1-1': ! vm.details.graphicalAbstract}"-->
+			<!-- ngIf: ::vm.details.abstract --><div ng-if="::vm.details.abstract" class="ng-scope">
+				<strong>Abstract:</strong>
+				<div class="abstract-text ng-binding" ng-bind-html="::vm.details.abstract">A compact and broadband microstrip stacked patch antenna with circular polarization (CP) for a mobile 2.45-GHz passive radio frequency identification (RFID) reader is presented. The proposed antenna consists of two stacked patches fed with an S-shaped impedance-matching network (IMN), which is connected by a probe. With the proposed S-shaped IMN feed technique, a good impedance matching and symmetrical broadside radiation patterns could be obtained. The CP operation could be attained simply by the upper parasitic patch rotating 90° sequentially based on the lower patch and truncating corners. Additionally, with four symmetric-L narrow slots on the patches, the compact operation could be obtained. The proposed reader antenna matching is optimized by regulating the sizes of the S-shaped IMN: S<sub>x</sub> and S<sub>y</sub>. Experimental results show that the reader antenna of size 58 × 58 × 11 mm<sup>3</sup> has a 3-dB beamwidth of more than 91°. The peak gain is optimized in the frequency range from 2.31 to 2.56 GHz of larger than 6 dBi, and it achieves 6.32 dBi in the center frequency 2.45 GHz. The voltage standing wave ratio (VSWR) &lt;; 2 impedance bandwidth is larger than 15.1%.</div>
+			</div><!-- end ngIf: ::vm.details.abstract -->			
+			<!-- ngIf: ::vm.details.scope -->
+			<!-- ngIf: ::vm.details.purpose -->
+		</div><!-- end ngIf: ::vm.details.impactStatement || vm.details.abstract || vm.details.scope || vm.details.purpose  || vm.details.previewImage -->
+		<!-- ngIf: ::vm.jwpOptions && vm.details.graphicalAbstract -->
+	</div>
+
+	<!-- ngIf: ::vm.details.xploreNote -->
+	<!-- ngIf: ::vm.details.publicationTitle && vm.details.isJournal --><div class="u-pb-1 stats-document-abstract-publishedIn ng-scope" data-tealium_data="{&quot;docType&quot;: &quot;Journal&quot;}" ng-if="::vm.details.publicationTitle &amp;&amp; vm.details.isJournal">
+				<strong>Published in: </strong>
+				<a href="/xpl/RecentIssue.jsp?punumber=7727" class="stats-document-abstract-publishedIn ng-binding">IEEE Antennas and Wireless Propagation Letters</a> 
+				<!-- ngIf: (vm.details.volume  || vm.details.issue) --><span ng-if="(vm.details.volume  || vm.details.issue)" class="ng-scope"> (
+				<!-- ngIf: ::vm.details.volume --><span ng-if="::vm.details.volume" class="ng-binding ng-scope">Volume: 12</span><!-- end ngIf: ::vm.details.volume --><!-- ngIf: ::vm.details.issue -->
+				)
+				</span><!-- end ngIf: (vm.details.volume  || vm.details.issue) -->
+	</div><!-- end ngIf: ::vm.details.publicationTitle && vm.details.isJournal -->
+	<!-- ngIf: ::vm.details.publicationTitle && vm.details.isConference -->
+	<!-- ngIf: vm.details.virtualJournals -->
+	<div class="pure-g u-pt-1">
+		<div class="pure-u-1-2">
+			
+			<!-- ngIf: ::vm.details.externalId -->		
+			<!-- ngIf: ::vm.details.startPage && vm.details.isJournal && !vm.details.externalId --><div class="u-pb-1 ng-binding ng-scope" ng-if="::vm.details.startPage &amp;&amp; vm.details.isJournal &amp;&amp; !vm.details.externalId">
+				<strong>Page(s): </strong>
+				623 <!-- ngIf: ::vm.details.endPage --><span ng-if="::vm.details.endPage" class="ng-binding ng-scope">- 626</span><!-- end ngIf: ::vm.details.endPage -->
+			</div><!-- end ngIf: ::vm.details.startPage && vm.details.isJournal && !vm.details.externalId -->
+	
+			<!-- ngIf: ::vm.details.isJournal == true --><div class="u-pb-1 doc-abstract-pubdate ng-binding ng-scope" ng-if="::vm.details.isJournal == true"> <!-- Do not remove class 'doc-abstract-pubdate' bc it's used for regression testing -->
+				<strong>Date of Publication:</strong>
+				03 May 2013 
+				<a href="http://ieeexplore.ieee.org/Xplorehelp/Help_Pubdates.html" target="_blank" aria-label="Get help with using Publication Dates" title="Get help with using Publication Dates">
+					<i class="doc-abs-pubdate-help"></i>
+				</a>
+			</div><!-- end ngIf: ::vm.details.isJournal == true -->
+			
+			<!-- ngIf: ::vm.details.isStandard == true -->
+			
+			<!-- ngIf: ::vm.details.isConference == true -->
+			
+			<!-- ngIf: ::vm.details.isConference == true -->
+			
+			<!-- ngIf: ::vm.details.ISSN -->
+
+			<!-- ngIf: ::vm.details.isbn -->
+			
+			<!-- ngIf: ::vm.details.issn --><div class="u-pb-1 ng-scope" ng-if="::vm.details.issn"> 
+				<div ng-click="vm.toggleControls.issn.toggleViewAll()" ng-show="vm.toggleControls.issn.showToggle" role="button" tabindex="0" aria-hidden="false" class="">
+					<strong>
+						<i ng-class="vm.toggleControls.issn.viewAll ? 'icon-caret-down' : 'icon-caret-abstract'" class="icon-caret-abstract"></i>
+						<span>ISSN Information:</span>
+					</strong>
+				</div>
+				<div ng-show="vm.toggleControls.issn.viewAll" aria-hidden="true" class="ng-hide">
+					<!-- ngRepeat: issn in ::vm.details.issn --><div ng-repeat="issn in ::vm.details.issn" class="ng-binding ng-scope">
+						<strong class="ng-binding">Print ISSN:</strong> 1536-1225
+					</div><!-- end ngRepeat: issn in ::vm.details.issn --><div ng-repeat="issn in ::vm.details.issn" class="ng-binding ng-scope">
+						<strong class="ng-binding">Online ISSN:</strong> 1548-5757
+					</div><!-- end ngRepeat: issn in ::vm.details.issn -->
+				</div>
+			</div><!-- end ngIf: ::vm.details.issn -->
+
+<!-- 		<div class="u-pb-1" ng-if="::vm.details.citationCount">
+				<strong>References Cited: </strong>
+				{{::vm.details.citationCount}}
+			</div>
+			-->
+			<!-- ngIf: ::vm.details.pubMedId -->
+
+		</div>
+		<div class="pure-u-1-2">
+		
+			<!-- ngIf: ::vm.details.accessionNumber --><div class="u-pb-1 ng-binding ng-scope" ng-if="::vm.details.accessionNumber">
+				<strong>INSPEC Accession Number: </strong>
+				13498008
+			</div><!-- end ngIf: ::vm.details.accessionNumber -->
+		
+			<!-- ngIf: ::vm.details.doi --><div class="u-pb-1 stats-document-abstract-doi ng-scope" ng-if="::vm.details.doi">
+				<strong>DOI: </strong>
+				<a href="https://doi.org/10.1109/LAWP.2013.2261651" target="_blank" class="ng-binding">10.1109/LAWP.2013.2261651</a>
+			</div><!-- end ngIf: ::vm.details.doi -->
+
+		
+			<!-- ngIf: ::vm.details.icsCodes -->
+			<!-- ngIf: ::(vm.details.isStandard && vm.details.persistentLink) -->
+			<!-- ngIf: ::vm.details.year -->			
+			<!-- ngIf: ::(!vm.details.isStandard && vm.details.publisher) --><div class="u-pb-1 doc-abstract-publisher ng-binding ng-scope" ng-if="::(!vm.details.isStandard &amp;&amp; vm.details.publisher)"> <!-- Do not remove class 'doc-abstract-publisher' bc it's used for regression testing -->
+				<strong>Publisher: </strong>
+				IEEE
+			</div><!-- end ngIf: ::(!vm.details.isStandard && vm.details.publisher) -->
+			<!-- ngIf: ::(vm.details.confLoc) -->
+			<!-- ngIf: ::((!vm.details.isStandard || (vm.details.isStandard && vm.details.isSMPTE)) && vm.details.sponsors) --><div class="u-pb-1 stats-document-abstract-sponsoredBy ng-scope" ng-if="::((!vm.details.isStandard || (vm.details.isStandard &amp;&amp; vm.details.isSMPTE)) &amp;&amp; vm.details.sponsors)">
+				<strong>Sponsored by: </strong>	
+				<!-- ngRepeat: x in vm.details.sponsors --><span ng-repeat="x in vm.details.sponsors" class="ng-scope">			
+					<!-- ngIf: x.url --><a ng-if="x.url" href="http://www.ieeeaps.org/" target="_blank" ng-bind="x.name" class="ng-binding ng-scope">IEEE Antennas and Propagation Society</a><!-- end ngIf: x.url -->
+					<!-- ngIf: !x.url -->
+					<!-- ngIf: !$last -->
+				</span><!-- end ngRepeat: x in vm.details.sponsors -->
+			</div><!-- end ngIf: ::((!vm.details.isStandard || (vm.details.isStandard && vm.details.isSMPTE)) && vm.details.sponsors) -->
+			<!-- ngIf: ::(vm.details.fundingAgencies) -->
+		</div>
+	</div>
+	
+
+	
+	<!-- Need a place for list of files -->
+	<!-- ngIf: vm.details.previewImage -->
+</section></div>
+			
+			<!-- ngIf: !vm.loading --><div class="Ads-leaderboard middle ng-scope ng-isolate-scope" xpl-google-ad-services="" google-ad-targeting="vm.googleAdTargeting" ng-if="!vm.loading">
+	<div class="ad-leaderboard-title">Advertisement</div>
+	<div class="ad-leaderboard-ad-container">
+		<div class="Ads-leaderBoardMiddle ng-isolate-scope" xpl-google-ad="" google-ad-targeting="vm.googleAdTargeting"><script type="text/javascript">Xplore = Xplore || {}; Xplore.googleAdSlotsStore = Xplore.googleAdSlotsStore || {}; googletag.cmd.push(function() {Xplore.googleAdSlotsStore["div-gpt-ad-1485377759460-0"] = googletag.defineSlot("/3890430/xplore_leaderboard_articledetails_slot2", [728,90], "div-gpt-ad-1485377759460-0").addService(googletag.pubads()).setTargeting("usertype", "inst").setTargeting("sub_type", "IOJ|ISOL9|").setTargeting("cust_type", "Corporate").setTargeting("geoip", "").setTargeting("userid", "77418").setTargeting("isinst", "true").setTargeting("search", "['A','compact','and','broadband','microstrip','stacked','patch','antenna','with','circular','polarization','CP','for','a','mobile','245-GHz','passive','radio','frequency','identification','RFID','reader','is','presented','The','proposed','antenna','consists','of','two','stacked','patches','fed','with','an','S-shaped','impedance-matching','network','IMN','which','is','connected','by','a','probe','With','the','proposed','S-shaped','IMN','feed','technique','a','good','impedance','matching','and','symmetrical','broadside','radiation','patterns','could','be','obtained','The','CP','operation','could','be','attained','simply','by','the','upper','parasitic','patch','rotating','90x00B0','sequentially','based','on','the','lower','patch','and','truncating','corners','Additionally','with','four','symmetric-L','narrow','slots','on','the','patches','the','compact','operation','could','be','obtained','The','proposed','reader','antenna','matching','is','optimized','by','regulating','the','sizes','of','the','S-shaped','IMN','Ssubxsub','and','Ssubysub','Experimental','results','show','that','the','reader','antenna','of','size','58','x00D7','58','x00D7','11','mmsup3sup','has','a','3-dB','beamwidth','of','more','than','91x00B0','The','peak','gain','is','optimized','in','the','frequency','range','from','231','to','256','GHz','of','larger','than','6','dBi','and','it','achieves','632','dBi','in','the','center','frequency','245','GHz','The','voltage','standing','wave','ratio','VSWR','lt','2','impedance','bandwidth','is','larger','than','151','Radiofrequency identification','Antenna measurements','Bandwidth','Microstrip antennas','Impedance','Dipole antennas','UHF antennas','antenna feeds','antenna radiation patterns','broadband antennas','electromagnetic wave polarisation','impedance matching','microstrip antennas','mobile radio','radiofrequency identification','frequency 2.31 GHz to 2.56 GHz','broadband microstrip stacked patch antenna','circular polarization','mobile RFID reader','CP','passive radio frequency identification reader','S-shaped impedance-matching network','S-shaped IMN feed technique','symmetrical broadside radiation patterns','truncating corners','symmetric-L narrow slots','reader antenna matching','voltage standing wave ratio','VSWR','radio frequency identification (RFID) reader antenna','Broadband','circular polarization (CP)','micro strip antenna']").setTargeting("pu_number", "7727").setTargeting("content_ID", "Journals &amp; Magazines").setTargeting("publisher",["IEEE"]);googletag.pubads().addEventListener('slotRenderEnded', function googleTagSuccessCallback(event){if (event.slot['B'].indexOf("/3890430/") &gt; -1) {if (event.slot['B'] == "/3890430/xplore_leaderboard_articledetails_slot2") {angular.element(".Ads-leaderboard.middle").show();}} else {console.error("DoubleClick (googleTag) loading callback unsuccessful because the `slotNamePrefix` value was not found in the `slotRenderEnded` event's 'slot.B' property.");}});googletag.pubads().collapseEmptyDivs();googletag.pubads().enableSingleRequest();googletag.enableServices();});</script><div id="div-gpt-ad-1485377759460-0" style="width: 728px; display: none;" data-google-query-id="CKXTlvP80tQCFYd7vQodkNwNgw"><script type="text/javascript">googletag.cmd.push(function() { googletag.display("div-gpt-ad-1485377759460-0"); });</script><div id="google_ads_iframe_/3890430/xplore_leaderboard_articledetails_slot2_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/3890430/xplore_leaderboard_articledetails_slot2_0" title="3rd party ad content" name="google_ads_iframe_/3890430/xplore_leaderboard_articledetails_slot2_0" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div><iframe id="google_ads_iframe_/3890430/xplore_leaderboard_articledetails_slot2_0__hidden__" title="" name="google_ads_iframe_/3890430/xplore_leaderboard_articledetails_slot2_0__hidden__" width="0" height="0" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom; visibility: hidden; display: none;"></iframe></div></div> <!-- xpl-google-ad directive expects 'Ads-leaderBoardMiddle' class name -->
+		<div class="ads-close-container">
+			<i class="ads-close-button" aria-hidden="true" ng-click="vm.closeAds()" role="button" tabindex="0"></i>
+		</div>
+	</div>	
+</div><!-- end ngIf: !vm.loading -->
+			
+			<!-- ngIf: vm.showFullText --><section ng-if="vm.showFullText" article="vm.document" query-text="" context="" section="" current-part-sec="" related-articles="vm.relatedArticles" view-at-acm="vm.showACMContent(vm.document.acmLink, vm.document.title)" class="ng-scope ng-isolate-scope">
+	<!-- ngIf: ::!ft.article.isDynamicHtml -->
+	<!-- ngIf: ::ft.article.isDynamicHtml --><div xpl-scroll-snap="" scroll-reset-event-name="document.event.ft.header.resetScroll" ng-if="::ft.article.isDynamicHtml" scroll-from-element-id="full-text-header" scroll-from-offset="-75" scroll-till-element-id="full-text-footer" scroll-till-offset="800" css-class="document-toc-stick" class="pure-g u-mb-1 previous-next-nav-ctrl ng-scope ng-isolate-scope">
+		<div class="pure-u-1-3 u-pl-1 col-prev">
+			<!-- ngIf: ft.showPrevious && ft.article.fullTextAccess -->
+		</div>
+		
+		<!--nav-toc-->
+		<div class="pure-u-1-3 u-align-center col-toc">
+			<div>
+				<!-- ngIf: ft.loading.toc -->
+				<!-- ngIf: !ft.loading.toc --><div class="toc-container ng-scope ng-isolate-scope" ng-if="!ft.loading.toc" toc="ft.toc" current-part="1" popover-direction="bottom">
+	<a id="toc-link" class="toc-link" ng-class="{'disabled': !toc.toc}" data-hasqtip="12">
+		<img src="/assets/img/document/toc-icon.png" />
+		Contents
+	</a>
+	<div hidden="">
+		<div class="pure-g">
+			<section class="pure-u-1-1">
+				<ul>
+					<!-- ngRepeat: item in toc.toc --><li ng-repeat="item in toc.toc" class="ng-scope">
+						<!-- ngIf: ::vm.fullTextAccess --><a ng-click="vm.scrollTo(item.id,item.part,'toc-link')" ng-if="::vm.fullTextAccess" class="ng-binding ng-scope">I. Introduction</a><!-- end ngIf: ::vm.fullTextAccess -->
+						<!-- ngIf: ::!vm.fullTextAccess -->
+						<section class="pure-u-1-1">
+							<!-- ngIf: item.entry --><ul class="toc-sublist ng-scope" ng-if="item.entry">
+								<!-- ngRepeat: child in item.entry -->
+							</ul><!-- end ngIf: item.entry -->
+						</section>
+					</li><!-- end ngRepeat: item in toc.toc --><li ng-repeat="item in toc.toc" class="ng-scope">
+						<!-- ngIf: ::vm.fullTextAccess --><a ng-click="vm.scrollTo(item.id,item.part,'toc-link')" ng-if="::vm.fullTextAccess" class="ng-binding ng-scope">II. Design of Compact RFID Antenna</a><!-- end ngIf: ::vm.fullTextAccess -->
+						<!-- ngIf: ::!vm.fullTextAccess -->
+						<section class="pure-u-1-1">
+							<!-- ngIf: item.entry --><ul class="toc-sublist ng-scope" ng-if="item.entry">
+								<!-- ngRepeat: child in item.entry -->
+							</ul><!-- end ngIf: item.entry -->
+						</section>
+					</li><!-- end ngRepeat: item in toc.toc --><li ng-repeat="item in toc.toc" class="ng-scope">
+						<!-- ngIf: ::vm.fullTextAccess --><a ng-click="vm.scrollTo(item.id,item.part,'toc-link')" ng-if="::vm.fullTextAccess" class="ng-binding ng-scope">III. Experimental Result</a><!-- end ngIf: ::vm.fullTextAccess -->
+						<!-- ngIf: ::!vm.fullTextAccess -->
+						<section class="pure-u-1-1">
+							<!-- ngIf: item.entry --><ul class="toc-sublist ng-scope" ng-if="item.entry">
+								<!-- ngRepeat: child in item.entry -->
+							</ul><!-- end ngIf: item.entry -->
+						</section>
+					</li><!-- end ngRepeat: item in toc.toc --><li ng-repeat="item in toc.toc" class="ng-scope">
+						<!-- ngIf: ::vm.fullTextAccess --><a ng-click="vm.scrollTo(item.id,item.part,'toc-link')" ng-if="::vm.fullTextAccess" class="ng-binding ng-scope">IV. Conclusion</a><!-- end ngIf: ::vm.fullTextAccess -->
+						<!-- ngIf: ::!vm.fullTextAccess -->
+						<section class="pure-u-1-1">
+							<!-- ngIf: item.entry --><ul class="toc-sublist ng-scope" ng-if="item.entry">
+								<!-- ngRepeat: child in item.entry -->
+							</ul><!-- end ngIf: item.entry -->
+						</section>
+					</li><!-- end ngRepeat: item in toc.toc -->
+				</ul>
+			</section>
+		</div>
+	</div>
+</div><!-- end ngIf: !ft.loading.toc -->
+			</div>
+		</div>
+		
+		<div class="pure-u-1-3 u-pr-1 col-next">
+			<!-- ngIf: ft.showNext && ft.article.fullTextAccess -->
+		</div>
+	</div><!-- end ngIf: ::ft.article.isDynamicHtml -->
+	<hr />
+	<div class="pure-g document-full-text-content">
+		<div class="pure-u-4-24 u-pl-1 u-pr-1 col-actions stats-document-container-lh u-printing-invisible-ie u-printing-invisible-ff">
+			<div>
+				<ul class="doc-actions stats-document-lh-actions">
+					<li class="large doc-actions-item" ng-class="{'disabled-look': !ft.article.fullTextAccess || ft.article.isACM}">
+						<!-- ngIf: ::!ft.article.fullTextAccess && ft.article.canAddToFileCabinet -->
+						<!-- ngIf: ft.article.fullTextAccess --><a class="doc-actions-link stats-document-lh-action-downloadPdf_2 ng-scope" ng-href="/stamp/stamp.jsp?arnumber=6513236" ng-if="ft.article.fullTextAccess" href="/stamp/stamp.jsp?arnumber=6513236">
+							<i class="icon doc-act-icon-pdf"></i> Download PDF
+						</a><!-- end ngIf: ft.article.fullTextAccess -->
+						<!-- TODO: Check if this needs SIP directive because it might just be disabled and not clickable -->
+						<!-- ngIf: ::!ft.article.fullTextAccess && !ft.article.canAddToFileCabinet -->
+					</li>
+					<li class="doc-actions-item">
+						<a class="doc-actions-link stats-document-lh-action-downloadCitations ng-isolate-scope" qtip-popover="" content="download-citations-popover" data-qtip-config="{&quot;style&quot;: {&quot;classes&quot;:&quot;qtip-popover qtip-document download-citations-popover&quot;}, &quot;position&quot;: { &quot;my&quot;: &quot;top left&quot;, &quot;at&quot;: &quot;bottom left&quot; }}" href="#" data-hasqtip="6">
+							<i class="icon doc-act-icon-citations"></i> Download Citations
+						</a>
+					</li>
+					<li class="doc-actions-item">
+						<a class="doc-actions-link stats-document-lh-action-viewReferences" ng-href="/xpl/dwnldReferences?arnumber=6513236" target="blank" href="/xpl/dwnldReferences?arnumber=6513236">
+							<i class="icon doc-act-icon-references"></i>View References
+						</a>
+					</li>
+					<li class="doc-actions-item">
+						<a class="doc-actions-link stats-document-lh-action-email ng-isolate-scope" qtip-popover="" content="email-popover" data-qtip-config="{&quot;style&quot;: {&quot;classes&quot;:&quot;qtip-popover qtip-document email-popover&quot;}, &quot;position&quot;: { &quot;my&quot;: &quot;top left&quot;, &quot;at&quot;: &quot;bottom left&quot; }}" qtip-button-close="true" href="#" data-hasqtip="7">
+							<i class="icon doc-act-icon-email"></i> Email
+						</a>
+					</li>
+					<!--  <li class="doc-actions-item">
+							<a class="doc-actions-link" href="/assets/html/email_document-v2.html"><i class="icon doc-act-icon-email" ></i> Email</a>
+						</li> -->
+					<li class="doc-actions-item">
+						<a class="doc-actions-link stats-document-lh-action-print" ng-click="ft.printWindow()" href="#">
+							<i class="icon doc-act-icon-print"></i> Print
+						</a>
+					</li>
+					<li class="stats-permission doc-actions-item" ng-class="{'disabled-look enable-hover': ft.article.publisher !== 'IEEE'}">
+						<a class="doc-actions-link stats-document-lh-action-requestPermissions_1" href="#" ng-show="::ft.article.publisher==='IEEE'" title="Request permission for commercial reuse." ng-click="ft.openRightsLink()" aria-hidden="false">
+							<i class="icon doc-act-icon-copyright"></i> Request Permissions
+						</a>
+						<a class="doc-actions-link stats-document-lh-action-requestPermissions_2 ng-hide" href="#" ng-show="::ft.article.publisher!='IEEE'" title="IEEE is not the copyright holder of this material." aria-hidden="true">
+							<i class="icon doc-act-icon-copyright"></i> Request Permissions
+						</a>
+					</li>
+					<li class="doc-actions-item disabled-look enable-hover" ng-class="{'disabled-look enable-hover': !ft.article.userInfo.individual}">
+						<a class="doc-actions-link stats-document-lh-action-export_1 ng-isolate-scope ng-hide" ng-show="::ft.article.userInfo.individual" href="#" content="collabratec-export" selected-items="[ft.article.articleNumber]" ng-click="collabratec.onExportClick()" qtip-popover="" data-hasqtip="8" oldtitle="Export to IEEE Collabratec™" title="" aria-hidden="true">
+							<i class="icon doc-act-icon-export"></i> Export to Collabratec
+						</a>
+						<a class="doc-actions-link stats-document-lh-action-export_2" ng-show="::!ft.article.userInfo.individual" title="Sign In with personal account required for export." href="#" aria-hidden="false">
+							<i class="icon doc-act-icon-export"></i> Export to Collabratec
+						</a>
+					</li>
+					<!-- Removed due to network issues when loading in China -->
+					<!--<li class="doc-actions-item tools-addthis" addthis-toolbox share="{title:'IEEE Xplore Full-Text HTML : '+ft.article.title}">
+						<a class="doc-actions-link addthis_button_compact document-share-popover stats-document-lh-action-Share" href="#">
+							<i class="icon doc-act-icon-share" ></i> Share
+						</a>
+					</li>-->
+					<li class="doc-actions-item">
+						<a class="doc-actions-link stats-document-lh-action-alerts ng-isolate-scope" qtip-popover="" artnum="6513236" content="manage-alerts-popover" data-qtip-config="{&quot;style&quot;: {&quot;classes&quot;:&quot;qtip-popover qtip-document manage-alerts-popover&quot;}, &quot;position&quot;: { &quot;my&quot;: &quot;top left&quot;, &quot;at&quot;: &quot;bottom left&quot; }}" href="#" data-hasqtip="9">
+							<i class="icon doc-act-icon-alert"></i> Alerts
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+		
+		<!--Section Text-->
+		<div class="pure-u-16-24 col-text stats-document-container-fullTextSection u-printing-display-inline-ie u-printing-display-inline-ff" id="full-text-section">
+			<span id="full-text-header"><!-- This Exists for scroll bar limit You may use the ID and fill  it if you need the header--></span>
+			
+			<!-- ngIf: ft.loading.main -->
+			
+			<!-- ngIf: !ft.loading.main --><div ng-if="!ft.loading.main" class="ng-scope">
+				<!--xpl-document-search-items is for Search within full text functionality results-->
+				<!-- ngIf: ft.searchReferences -->
+				
+				<!-- Doesn't have dynamic HTML full text, has ICP, and not "View All ___" context - Use ICP Link -->
+				<!-- ngIf: ::!ft.article.isDynamicHtml && ft.article.isStaticHtml && !ft.contextData && !ft.article.isACM -->
+				
+				<!-- Doesn't have dynamic HTML full text, doesn't have ICP, and not "View All ___" context - Use PDF Links -->
+				<!-- ngIf: ::!ft.article.isDynamicHtml && !ft.article.isStaticHtml && !ft.contextData && !ft.article.isACM -->
+				
+				<!-- User has access, article is ACM published, and not "View All ___" context - Use "viewAtAcm" Link -->
+				<!-- ngIf: ::(ft.article.fullTextAccess || ft.isFreeDocument) && ft.article.isACM && !ft.contextData -->
+				
+				<!-- Notice disclaimer for Standards when showing any standards dynamic HTML text -->
+				<!-- ngIf: ::ft.sectionText && ft.article.isStandard && ft.article.isDynamicHtml -->
+				
+				<!-- xpl-dynamic-content is for regular dynamic full text OR snippet -->
+				<!-- ngIf: ft.sectionText --><div ng-if="ft.sectionText" class="document-text stats-document-dynamicFullTextOrSnippet-container ng-scope" ng-class="{'snippet-text' : ft.showSnippet}" xpl-dynamic-content="" current-part="1" reference-data="{&quot;userInfo&quot;:{&quot;institute&quot;:true,&quot;member&quot;:false,&quot;individual&quot;:false,&quot;guest&quot;:false,&quot;subscribedContent&quot;:false,&quot;fileCabinetContent&quot;:false,&quot;fileCabinetUser&quot;:false,&quot;institutionalFileCabinetUser&quot;:false,&quot;products&quot;:&quot;IOJ|ISOL9|&quot;,&quot;instType&quot;:&quot;Corporate&quot;,&quot;userIds&quot;:[77418],&quot;showPatentCitations&quot;:true,&quot;showGet802Link&quot;:false,&quot;openUrlImgLoc&quot;:&quot;http://staticieeexplore.ieee.org/assets/img/btn.find-in-library.png&quot;,&quot;openUrlLink&quot;:&quot;NA&quot;,&quot;showOpenUrlLink&quot;:false},&quot;references&quot;:[{&quot;order&quot;:&quot;1&quot;,&quot;text&quot;:&quot;Y. Gao, D. Yang, W. Ning, \&quot;RFID application in tire manufacturing logistics\&quot;, &lt;em&gt;Proc. IEEE Int. Conf. Adv. Manage. Sci.&lt;/em&gt;, pp. 109-112, 2010.&quot;,&quot;title&quot;:&quot;RFID application in tire manufacturing logistics&quot;,&quot;context&quot;:[{&quot;sec&quot;:&quot;sec1&quot;,&quot;text&quot;:&quot;Radio frequency identification (RFID) has become a mainstream, and its various applications can be found in many industries ranging from defense to healthcare, from customer to enterprise, and from supply chain to value chain [1].&quot;,&quot;part&quot;:&quot;1&quot;}],&quot;refType&quot;:&quot;biblio&quot;,&quot;id&quot;:&quot;ref1&quot;},{&quot;order&quot;:&quot;2&quot;,&quot;text&quot;:&quot;W. Son, H. Lee, M. Lee, S. Min, J. Yu, \&quot;Compact square quadrifilar spiral antenna with circular polarization for UHF mobile RFID reader\&quot;, &lt;em&gt;Proc. Asia-Pacific Microw. Conf.&lt;/em&gt;, pp. 2271-2274, 2010.&quot;,&quot;title&quot;:&quot;Compact square quadrifilar spiral antenna with circular polarization for UHF mobile RFID reader&quot;,&quot;context&quot;:[{&quot;sec&quot;:&quot;sec1&quot;,&quot;text&quot;:&quot;Generally, the antennas for the Microwave RFID reader should be characterized by high-quality circular polarization(CP) characteristic, high gain, wide impedance bandwidth, and beamwidth [2].&quot;,&quot;part&quot;:&quot;1&quot;}],&quot;refType&quot;:&quot;biblio&quot;,&quot;id&quot;:&quot;ref2&quot;},{&quot;order&quot;:&quot;3&quot;,&quot;text&quot;:&quot;Z. N. Chen, X. Qing, H. L. Chung, \&quot;A universal UHF RFID reader antenna\&quot;, &lt;em&gt;IEEE Trans. Microw. Theory Tech.&lt;/em&gt;, vol. 57, no. 5, pp. 1275-1282, May 2009.&quot;,&quot;title&quot;:&quot;A universal UHF RFID reader antenna&quot;,&quot;context&quot;:[{&quot;sec&quot;:&quot;sec1&quot;,&quot;text&quot;:&quot; Thus, many researchers are currently studying ceramic and microstrip antennas, spiral antennas, dipole antennas, and inverted-F antennas for RFID readers [3]–[7].&quot;,&quot;part&quot;:&quot;1&quot;}],&quot;links&quot;:{&quot;documentLink&quot;:&quot;/document/4806172&quot;,&quot;pdfLink&quot;:&quot;/stamp/stamp.jsp?tp=&amp;arnumber=4806172&quot;,&quot;abstract&quot;:&quot;A broadband circularly polarized patch antenna is proposed for universal ultra-high-frequency (UHF) RF identification (RFID) applications. The antenna is composed of two corner-truncated patches and a suspended microstrip line with open-circuited termination. The main patch is fed by four probes which are sequentially connected to the suspended microstrip feed line. The measurement shows that the antenna achieves a return loss of -15 dB, gain of 8.3 dBic, axial ratio (AR) of 3 dB, and 3-dB AR be...&quot;,&quot;pdfSize&quot;:&quot;987KB&quot;,&quot;openUrlImgLoc&quot;:&quot;http://staticieeexplore.ieee.org/assets/img/btn.find-in-library.png&quot;},&quot;refType&quot;:&quot;biblio&quot;,&quot;id&quot;:&quot;ref3&quot;},{&quot;order&quot;:&quot;4&quot;,&quot;text&quot;:&quot;T. N. Chang, J. M. Lin, \&quot;A novel circularly polarized patch antenna with a serial multislot type of loading\&quot;, &lt;em&gt;IEEE Trans. Antennas Propag.&lt;/em&gt;, vol. 55, no. 11, pp. 3345-3348, Nov. 2007.&quot;,&quot;title&quot;:&quot;A novel circularly polarized patch antenna with a serial multislot type of loading&quot;,&quot;context&quot;:[{&quot;sec&quot;:&quot;sec1&quot;,&quot;text&quot;:&quot; Thus, many researchers are currently studying ceramic and microstrip antennas, spiral antennas, dipole antennas, and inverted-F antennas for RFID readers [3]–[4][7].&quot;,&quot;part&quot;:&quot;1&quot;}],&quot;links&quot;:{&quot;documentLink&quot;:&quot;/document/4380529&quot;,&quot;pdfLink&quot;:&quot;/stamp/stamp.jsp?tp=&amp;arnumber=4380529&quot;,&quot;abstract&quot;:&quot;A compact circularly polarized patch antenna excited by an open circular ring microstrip line through multiple slots is investigated. The lengths of the slots were chosen equal to the diameter of the ring. It was observed that circular polarization (CP) performance and input impedance bandwidth can be improved with the number of slots. A radio frequency identification reader (RFID) antenna with 36 slots and operating at 902-928 MHz was designed and tested. Measured impedance bandwidth of 75 MHz ...&quot;,&quot;pdfSize&quot;:&quot;1673KB&quot;,&quot;openUrlImgLoc&quot;:&quot;http://staticieeexplore.ieee.org/assets/img/btn.find-in-library.png&quot;},&quot;refType&quot;:&quot;biblio&quot;,&quot;id&quot;:&quot;ref4&quot;},{&quot;order&quot;:&quot;5&quot;,&quot;text&quot;:&quot;W. G. Lim, W. I. Son, K. S. Oh, W. K. Kim, J. W. Yu, \&quot;Compact integrated antenna with circulator for UHF RFID system\&quot;, &lt;em&gt;IEEE Antennas Wireless Propag. Lett.&lt;/em&gt;, vol. 7, pp. 673-675, 2008.&quot;,&quot;title&quot;:&quot;Compact integrated antenna with circulator for UHF RFID system&quot;,&quot;context&quot;:[{&quot;sec&quot;:&quot;sec1&quot;,&quot;text&quot;:&quot; Thus, many researchers are currently studying ceramic and microstrip antennas, spiral antennas, dipole antennas, and inverted-F antennas for RFID readers [3]–[5][7].&quot;,&quot;part&quot;:&quot;1&quot;}],&quot;refType&quot;:&quot;biblio&quot;,&quot;id&quot;:&quot;ref5&quot;},{&quot;order&quot;:&quot;6&quot;,&quot;text&quot;:&quot;R. C. Hua, T. G. Ma, \&quot;A printed dipole antenna for ultra high frequency (UHF) radio frequency identification (RFID) handheld reader\&quot;, &lt;em&gt;IEEE Trans. Antennas Propag.&lt;/em&gt;, vol. 55, no. 12, pp. 3742-3745, Dec. 2007.&quot;,&quot;title&quot;:&quot;A printed dipole antenna for ultra high frequency (UHF) radio frequency identification (RFID) handheld reader&quot;,&quot;context&quot;:[{&quot;sec&quot;:&quot;sec1&quot;,&quot;text&quot;:&quot; Thus, many researchers are currently studying ceramic and microstrip antennas, spiral antennas, dipole antennas, and inverted-F antennas for RFID readers [3]–[6][7].&quot;,&quot;part&quot;:&quot;1&quot;}],&quot;links&quot;:{&quot;documentLink&quot;:&quot;/document/4388111&quot;,&quot;pdfLink&quot;:&quot;/stamp/stamp.jsp?tp=&amp;arnumber=4388111&quot;,&quot;abstract&quot;:&quot;We propose a new printed dipole antenna for ultra high frequency (UHF) radio frequency identification (RFID) systems in North America. The antenna consists of a microstrip-to-coplanar stripline transition, a meandered driven dipole, a closely-coupled parasitic element, and a folded finite-size ground plane. The antenna geometry, design concept, simulated and measured results are carefully discussed throughout the paper. The experimental results demonstrate that the proposed antenna features a co...&quot;,&quot;pdfSize&quot;:&quot;1884KB&quot;,&quot;openUrlImgLoc&quot;:&quot;http://staticieeexplore.ieee.org/assets/img/btn.find-in-library.png&quot;},&quot;refType&quot;:&quot;biblio&quot;,&quot;id&quot;:&quot;ref6&quot;},{&quot;order&quot;:&quot;7&quot;,&quot;text&quot;:&quot;J. S. Kim, K. H. Shin, S. M. Park, W. K. Choi, N. S. Seong, \&quot;Polarization and space diversity antenna using inverted-F antennas for RFID reader applications\&quot;, &lt;em&gt;IEEE Antennas Wireless Propag. Lett.&lt;/em&gt;, vol. 5, pp. 265-268, 2006.&quot;,&quot;title&quot;:&quot;Polarization and space diversity antenna using inverted-F antennas for RFID reader applications&quot;,&quot;context&quot;:[{&quot;sec&quot;:&quot;sec1&quot;,&quot;text&quot;:&quot; Thus, many researchers are currently studying ceramic and microstrip antennas, spiral antennas, dipole antennas, and inverted-F antennas for RFID readers [3]–[7].&quot;,&quot;part&quot;:&quot;1&quot;}],&quot;links&quot;:{&quot;documentLink&quot;:&quot;/document/1645103&quot;,&quot;pdfLink&quot;:&quot;/stamp/stamp.jsp?tp=&amp;arnumber=1645103&quot;,&quot;abstract&quot;:&quot;An orthogonal antenna is presented for reader applications of radio frequency identification (RFID) at 433 MHz. The antenna is composed of two 1 times 2 subarrays orthogonally placed on a ground plane. Two different feeding networks are introduced to control horizontal and vertical radiation current flows for each subarray, respectively. An inverted-F structure is used as a radiation element with vertical and horizontal currents flowing on the radiator, thereby obtaining two linear polarizations...&quot;,&quot;pdfSize&quot;:&quot;597KB&quot;,&quot;openUrlImgLoc&quot;:&quot;http://staticieeexplore.ieee.org/assets/img/btn.find-in-library.png&quot;},&quot;refType&quot;:&quot;biblio&quot;,&quot;id&quot;:&quot;ref7&quot;},{&quot;order&quot;:&quot;8&quot;,&quot;text&quot;:&quot;S. L. S. Yang, A. A. Kishk, K. F. Lee, \&quot;Frequency reconfigurable U-slot microstrip patch antenna\&quot;, &lt;em&gt;IEEE Antennas Wireless Propag. Lett.&lt;/em&gt;, vol. 7, pp. 127-129, 2008.&quot;,&quot;title&quot;:&quot;Frequency reconfigurable U-slot microstrip patch antenna&quot;,&quot;context&quot;:[{&quot;sec&quot;:&quot;sec1&quot;,&quot;text&quot;:&quot; Microstrip antennas are popular for the well-known attractive features, such as low profile, light weight, low cost, and ease of fabrication and conformity [8].&quot;,&quot;part&quot;:&quot;1&quot;}],&quot;links&quot;:{&quot;documentLink&quot;:&quot;/document/4473039&quot;,&quot;pdfLink&quot;:&quot;/stamp/stamp.jsp?tp=&amp;arnumber=4473039&quot;,&quot;abstract&quot;:&quot;A frequency reconfigurable microstrip patch antenna is presented. It is found that the incorporation of a U-slot in the patch can provide a flat input resistance and a linear input reactance across a wider bandwidth than the conventional patch antenna. By placing a variable capacitor and an inductor at the antenna input, the impedance matching frequency of the antenna can be varied. The fabricated prototype antenna attains a tunable frequency range from 2.6 to 3.35 GHz. The proposed antenna is s...&quot;,&quot;pdfSize&quot;:&quot;341KB&quot;,&quot;openUrlImgLoc&quot;:&quot;http://staticieeexplore.ieee.org/assets/img/btn.find-in-library.png&quot;},&quot;refType&quot;:&quot;biblio&quot;,&quot;id&quot;:&quot;ref8&quot;},{&quot;order&quot;:&quot;9&quot;,&quot;text&quot;:&quot;S. D. Targonski, R. B. Waterhouse, \&quot;Design of wide-band aperture-stacked patch microstrip antennas\&quot;, &lt;em&gt;IEEE Trans. Antennas Propag.&lt;/em&gt;, vol. 46, no. 9, pp. 1245-1251, Sep. 1998.&quot;,&quot;title&quot;:&quot;Design of wide-band aperture-stacked patch microstrip antennas&quot;,&quot;context&quot;:[{&quot;sec&quot;:&quot;sec1&quot;,&quot;text&quot;:&quot; With the additional S-shaped IMN and two stacked patches [9], the antenna could obtain impedance bandwidth larger than 15.1%.&quot;,&quot;part&quot;:&quot;1&quot;}],&quot;links&quot;:{&quot;documentLink&quot;:&quot;/document/719966&quot;,&quot;pdfLink&quot;:&quot;/stamp/stamp.jsp?tp=&amp;arnumber=719966&quot;,&quot;abstract&quot;:&quot;A variation of the aperture-coupled stacked patch microstrip antenna is presented, which greatly enhances its bandwidth. Bandwidths of up to one octave have been achieved. The impedance behavior of this antenna is compared with that of other wide-band microstrip radiators. Matching techniques for the antenna are presented and their relative merits discussed. The effects of varying several key physical parameters of the antenna are investigated, lending some insight into its wide-band operation. ...&quot;,&quot;pdfSize&quot;:&quot;327KB&quot;,&quot;openUrlImgLoc&quot;:&quot;http://staticieeexplore.ieee.org/assets/img/btn.find-in-library.png&quot;},&quot;refType&quot;:&quot;biblio&quot;,&quot;id&quot;:&quot;ref9&quot;},{&quot;order&quot;:&quot;10&quot;,&quot;text&quot;:&quot;X. Li, Microwave Technology and Microwave Circuit, Guangzhou, China:South China Univ. Technol. Press, pp. 71-71, 2011.&quot;,&quot;title&quot;:&quot;Microwave Technology and Microwave Circuit&quot;,&quot;context&quot;:[{&quot;sec&quot;:&quot;sec2&quot;,&quot;text&quot;:&quot; In general, we should determine the width \\$W_{\\rm s}\\$ of the 50-\\$\\Omega\\$ S-shaped IMN feeder first, and the \\$W_{\\rm s}\\$ could be obtained from [10] where \\$Z_{\\rm c}\\$ is the characteristic impedance of the microstrip S-shaped IMN feeder, and \\$\\varepsilon _{\\rm r1}\\$ and \\$h1\\$ denote the dielectric constant and substrate thickness of the first dielectric layer, respectively.&quot;,&quot;part&quot;:&quot;1&quot;}],&quot;refType&quot;:&quot;biblio&quot;,&quot;id&quot;:&quot;ref10&quot;}],&quot;articleNumber&quot;:&quot;6513236&quot;,&quot;formulaStrippedArticleTitle&quot;:&quot;A Compact and Broadband Microstrip Stacked Patch Antenna With Circular Polarization for 2.45-GHz Mobile RFID Reader&quot;,&quot;title&quot;:&quot;A Compact and Broadband Microstrip Stacked Patch Antenna With Circular Polarization for 2.45-GHz Mobile RFID Reader&quot;,&quot;rightsLink&quot;:&quot;http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&amp;publication=&amp;title=A+Compact+and+Broadband+Microstrip+Stacked+Patch+Antenna+With+Circular+Polarization+for+2.45-GHz+Mobile+RFID+Reader&amp;isbn=&amp;publicationDate=&amp;author=&amp;ContentID=&amp;orderBeanReset=true&quot;,&quot;allowComments&quot;:false,&quot;pubLink&quot;:&quot;/xpl/RecentIssue.jsp?punumber=7727&quot;,&quot;issueLink&quot;:&quot;/xpl/tocresult.jsp?isnumber=null&quot;,&quot;standardTitle&quot;:&quot;A Compact and Broadband Microstrip Stacked Patch Antenna With Circular Polarization for 2.45-GHz Mobile RFID Reader&quot;,&quot;isJournal&quot;:true,&quot;isConference&quot;:false,&quot;dateOfInsertion&quot;:&quot;14 May 2013&quot;,&quot;htmlLink&quot;:&quot;/document/6513236/&quot;,&quot;publisher&quot;:&quot;IEEE&quot;,&quot;isEphemera&quot;:false,&quot;isOpenAccess&quot;:false,&quot;isEarlyAccess&quot;:false,&quot;isBook&quot;:false,&quot;isSMPTE&quot;:false,&quot;isDynamicHtml&quot;:true,&quot;isFreeDocument&quot;:false,&quot;isCustomDenial&quot;:false,&quot;persistentLink&quot;:&quot;http://ieeexplore.ieee.org/servlet/opac?punumber=7727&quot;,&quot;isStaticHtml&quot;:true,&quot;isNotDynamicOrStatic&quot;:false,&quot;htmlAbstractLink&quot;:&quot;/document/6513236/&quot;,&quot;isPromo&quot;:false,&quot;journalDisplayDateOfPublication&quot;:&quot;03 May 2013&quot;,&quot;chronOrPublicationDate&quot;:&quot;2013&quot;,&quot;isACM&quot;:false,&quot;isStandard&quot;:false,&quot;onlineDate&quot;:&quot;03 May 2013&quot;,&quot;ml_html_flag&quot;:&quot;true&quot;,&quot;html_flag&quot;:&quot;true&quot;,&quot;content_type&quot;:&quot;Journals &amp; Magazines&quot;,&quot;chronDate&quot;:&quot;2013&quot;,&quot;mlTime&quot;:&quot;PT0.142831S&quot;,&quot;publicationYear&quot;:&quot;2013&quot;,&quot;lastupdate&quot;:&quot;2016-11-12T00:18:33&quot;,&quot;mediaPath&quot;:&quot;/mediastore/IEEE/content/media/7727/6478802/6513236&quot;,&quot;contentType&quot;:&quot;periodicals&quot;,&quot;publicationNumber&quot;:&quot;7727&quot;}" bind-events="ft.sectionText" mathjax-bind="ft.sectionText"><!--?xml version="1.0" encoding="UTF-8"?-->
+<div id="BodyWrapper" class="ArticlePage" xmlns:ieee="http://www.ieeexplore.ieee.org"><div id="article">
+<div class="section" id="sec1"><div class="header article-hdr"><div class="kicker">		                        SECTION I.</div><h2>Introduction</h2></div><p>Radio frequency identification (RFID) has become a mainstream, and its various applications can be found in many industries ranging from defense to healthcare, from customer to enterprise, and from supply chain to value chain <a ref-type="bibr" anchor="ref1" id="context_ref_1_1">[1]</a>. Compared to other means of identification, RFID has many advantages, such as the high recognition accuracy, high speed, and the ability to adapt to the environment. RFID can be classified into low frequency (LF), high frequency (HF), ultrahigh frequency (UHF), and microwave RFID systems, according to its use in different frequency bands. In recent years, RFID has developed rapidly especially in HF and UHF (it has been gradually moving toward the civilian). However, it is also in the positive of exploration to the microwave RFID, it needs the farther operating distance. Meanwhile, currently the use of wireless fidelity (Wi-Fi, indoor communication) will undoubtedly increase as smartphones and iPads become more and more popular. Therefore, it is also necessary to investigate antennas for these domains.</p><p>Generally, the antennas for the Microwave RFID reader should be characterized by high-quality circular polarization(CP) characteristic, high gain, wide impedance bandwidth, and beamwidth <a ref-type="bibr" anchor="ref2" id="context_ref_2_1">[2]</a>. For mobile environment, the above characteristics should still be satisfied although the antenna size gets significantly smaller. Thus, many researchers are currently studying ceramic and microstrip antennas, spiral antennas, dipole antennas, and inverted-F antennas for RFID readers <a ref-type="bibr" anchor="ref3" id="context_ref_3_1">[3]</a>–<a ref-type="bibr" anchor="ref4" id="context_ref_4_1">[4]</a><a ref-type="bibr" anchor="ref5" id="context_ref_5_1">[5]</a><a ref-type="bibr" anchor="ref6" id="context_ref_6_1">[6]</a><a ref-type="bibr" anchor="ref7" id="context_ref_7_1">[7]</a>. Hence, the significance of high gain and broad band is highlighted. Microstrip antennas are popular for the well-known attractive features, such as low profile, light weight, low cost, and ease of fabrication and conformity <a ref-type="bibr" anchor="ref8" id="context_ref_8_1">[8]</a>. The main disadvantage is the limitation of impedance bandwidth.</p><p>In this letter, we propose a new type of feed technology for a microstrip antenna, which is the S-shaped impedance matching network (IMN) technology. A good impedance matching and symmetrical broadside radiation patterns could be attained with the S-shaped IMN. With the additional S-shaped IMN and two stacked patches <a ref-type="bibr" anchor="ref9" id="context_ref_9_1">[9]</a>, the antenna could obtain impedance bandwidth larger than 15.1%. The stacked patches have two resonance frequency points. When the two resonant frequency points are closed properly, the resonant circuit could be formed, and the bandwidth is enhanced greatly. Meanwhile, we regulate the S-shaped IMN's critical dimensions (feeder width <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">W_{\rm s}, S_{\rm x}</span><script type="math/tex">W_{\rm s}, S_{\rm x}</script></tex-math></inline-formula>, and <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">S_{\rm y}</span><script type="math/tex">S_{\rm y}</script></tex-math></inline-formula>) to make the input impedance of the radiating patches and feeder's characteristic impedance matching in order to further expand antenna bandwidth. However, the introduced S-shaped IMN would lead to power loss, which meant the reduction of gain. An air dielectric layer and the parasitic patch with a lower dielectric substrate could improve the gain effectively. Thus, we think the reader antenna can be used in mobile vehicle identification, such as the community parking management system.</p></div>
+<div class="section" id="sec2"><div class="header article-hdr"><div class="kicker">		                        SECTION II.</div><h2>Design of Compact RFID Antenna</h2></div><p><a ref-type="fig" anchor="fig1" class="fulltext-link">Fig. 1</a> shows the prototype of the proposed compact RFID antenna for the ISM 2.45-GHz band (ISO 18000-4) in a well-matched condition. The conductor was fabricated on the three-layers square substrate, whose width was <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{G}=58</span><script type="math/tex">{G}=58</script></tex-math></inline-formula> mm, with a dielectric constant of <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">\varepsilon _{\rm r1} =10</span><script type="math/tex">\varepsilon _{\rm r1} =10</script></tex-math></inline-formula>, and substrate thickness of <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{h}1 =1.57</span><script type="math/tex">{h}1 =1.57</script></tex-math></inline-formula> mm for the first and second dielectric layers. The dielectric constant of the third dielectric layer was <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">\varepsilon _{\rm r2} =2.65</span><script type="math/tex">\varepsilon _{\rm r2} =2.65</script></tex-math></inline-formula>, and the thickness of the substrate was <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{h}2=0.51</span><script type="math/tex">{h}2=0.51</script></tex-math></inline-formula> mm. In addition, with an additional air layer of the thickness <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">h</span><script type="math/tex">h</script></tex-math></inline-formula> between the second layer and the third layer, and by adjusting the thickness <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">h</span><script type="math/tex">h</script></tex-math></inline-formula>, the wider impedance bandwidth and higher gain could be obtained, as shown in <a ref-type="fig" anchor="fig1" class="fulltext-link">Fig. 1(a)</a>. The antenna was fed by an additional S-shaped IMN (implemented on the first dielectric substrate), which had a signal strip of width <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">W_{\rm s}</span><script type="math/tex">W_{\rm s}</script></tex-math></inline-formula> and <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">x</span><script type="math/tex">x</script></tex-math></inline-formula>-direction length <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">S_{\rm x}</span><script type="math/tex">S_{\rm x}</script></tex-math></inline-formula> and <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">y</span><script type="math/tex">y</script></tex-math></inline-formula>-direction length <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">S_{\rm y}</span><script type="math/tex">S_{\rm y}</script></tex-math></inline-formula>, as shown in <a ref-type="fig" anchor="fig1" class="fulltext-link">Fig. 1(b)</a>, respectively. One end of the S-shaped IMN was connected to the main radiating patch by a probe, whereas the other end was connected to a coaxial connector. We could obtain a wide impedance bandwidth and good impedance matching by regulating the sizes of the S-shaped MIN: <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">S_{\rm x}</span><script type="math/tex">S_{\rm x}</script></tex-math></inline-formula> and <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">S_{\rm y}</span><script type="math/tex">S_{\rm y}</script></tex-math></inline-formula>.</p><p>The lower square radiation patch (implemented on the second dielectric substrate) was connected to the S-shaped IMN by a probe, as shown in <a ref-type="fig" anchor="fig1" class="fulltext-link">Fig. 1(c)</a>. The width of the patch A1 was to resonate at the center frequency of 2.45 GHz and two centrosymmetric diagonal comers of the right-angled isosceles triangle with the edge length <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">C1</span><script type="math/tex">C1</script></tex-math></inline-formula> were truncated. Four additional symmetrical-L narrow slots placed on the patch with the width <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">W1</span><script type="math/tex">W1</script></tex-math></inline-formula>, length <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">L1</span><script type="math/tex">L1</script></tex-math></inline-formula>, and gap of width <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">S1</span><script type="math/tex">S1</script></tex-math></inline-formula> were centrosymmetric. Meanwhile, the upper parasitic patch (implemented on the third dielectric substrate) of width A2 had a similar structure with the lower patch, as shown in <a ref-type="fig" anchor="fig1" class="fulltext-link">Fig. 1(d)</a>. The additional four symmetrical-L narrow slots with the width <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">W2</span><script type="math/tex">W2</script></tex-math></inline-formula>, length <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">L2</span><script type="math/tex">L2</script></tex-math></inline-formula>, and gap of width <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">S2</span><script type="math/tex">S2</script></tex-math></inline-formula> were placed on the patch center symmetrically. However, with the edge length <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">C2</span><script type="math/tex">C2</script></tex-math></inline-formula> truncated, the two centrosymmetric diagonal comers were rotated 90° sequentially based on the lower patch. This could improve the circular polarization characteristic. With the structure, the proposed antenna obtained a wide impedance bandwidth and a high gain performance.
+</p><div class="figure figure-full" id="fig1"><!--          Workaround for combined images.Eg.- 1000116 Fig. 5        --><div class="img-wrap"><a href="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-fig-1-large.gif"><img src="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-fig-1-small.gif" alt="Figure 1" /><div class="zoom" title="View Larger Image"></div></a></div><div class="figcaption"><b class="title">Fig. 1. </b><fig><p>(a)–(d) Geometry of the proposed compact antenna with circular polarization.</p></fig></div><p class="links"><a href="/document/6513236/all-figures" class="all">View All</a></p></div>
+<p></p><p>With the additional S-shaped IMN, the impedance matching condition was not only related to the antenna itself, but also to the microstrip feeder's matching condition. Thus, the conventional <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">\Gamma</span><script type="math/tex">\Gamma</script></tex-math></inline-formula>-matching technique used for a single-feed antenna could no longer be used. That is, we regulated the antenna's impedance matching mainly by adjusting the size of the S-shaped MIN: <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">W_{\rm s}, S_{\rm x},</span><script type="math/tex">W_{\rm s}, S_{\rm x},</script></tex-math></inline-formula> and <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">S_{\rm y}</span><script type="math/tex">S_{\rm y}</script></tex-math></inline-formula>. In general, we should determine the width <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">W_{\rm s}</span><script type="math/tex">W_{\rm s}</script></tex-math></inline-formula> of the 50-<inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">\Omega</span><script type="math/tex">\Omega</script></tex-math></inline-formula> S-shaped IMN feeder first, and the <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">W_{\rm s}</span><script type="math/tex">W_{\rm s}</script></tex-math></inline-formula> could be obtained from <a ref-type="bibr" anchor="ref10" id="context_ref_10_2">[10]</a> <disp-formula id="deqn1-2" class="display-formula"><tex-math notation="TeX"><span class="MathJax_Preview">\eqalignno{{A}&amp; = {Z_{c} \sqrt {2(\varepsilon _{\rm r1} + 1)} \over 119.9} + {\varepsilon _{\rm r1} - 1 \over 2(\varepsilon _{\rm r1} + 1)} \left(\ln {\pi \over 2} + {1 \over \varepsilon _{\rm r1}}\ln {4 \over \pi}\right)\cr &amp;&amp;\hbox{(1)}\cr {W_{\rm s}}&amp; = \left({1 \over 8}e^{A} - {1 \over 4e^{A}}\right)^{- 1}h1 &amp;\hbox{(2)}}</span><script type="math/tex; mode=display">\eqalignno{{A}&amp; = {Z_{c} \sqrt {2(\varepsilon _{\rm r1} + 1)} \over 119.9} + {\varepsilon _{\rm r1} - 1 \over 2(\varepsilon _{\rm r1} + 1)} \left(\ln {\pi \over 2} + {1 \over \varepsilon _{\rm r1}}\ln {4 \over \pi}\right)\cr &amp;&amp;\hbox{(1)}\cr {W_{\rm s}}&amp; = \left({1 \over 8}e^{A} - {1 \over 4e^{A}}\right)^{- 1}h1 &amp;\hbox{(2)}}</script></tex-math><span class="formula"><span class="link">View Source</span><img aria-describedby="qtip-0" style="display:inline;" title="Right-click on figure or equation for MathML and additional features." data-hasqtip="0" class="qtooltip moreInfo" alt="Right-click on figure for MathML and additional features." src="/assets/img/icon.support.gif" border="0" height="20" width="24" /><span class="tex tex2jax_ignore" style="display:none;">\eqalignno{{A}&amp; = {Z_{c} \sqrt {2(\varepsilon _{\rm r1} + 1)} \over 119.9} + {\varepsilon _{\rm r1} - 1 \over 2(\varepsilon _{\rm r1} + 1)} \left(\ln {\pi \over 2} + {1 \over \varepsilon _{\rm r1}}\ln {4 \over \pi}\right)\cr &amp;&amp;\hbox{(1)}\cr {W_{\rm s}}&amp; = \left({1 \over 8}e^{A} - {1 \over 4e^{A}}\right)^{- 1}h1 &amp;\hbox{(2)}}</span></span></disp-formula>where <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">Z_{\rm c}</span><script type="math/tex">Z_{\rm c}</script></tex-math></inline-formula> is the characteristic impedance of the microstrip S-shaped IMN feeder, and <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">\varepsilon _{\rm r1}</span><script type="math/tex">\varepsilon _{\rm r1}</script></tex-math></inline-formula> and <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">h1</span><script type="math/tex">h1</script></tex-math></inline-formula> denote the dielectric constant and substrate thickness of the first dielectric layer, respectively. We observed the relationship between reflection coefficient and the length of the S-shaped IMN (<inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">S_{\rm x}</span><script type="math/tex">S_{\rm x}</script></tex-math></inline-formula> and <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">S_{\rm y}</span><script type="math/tex">S_{\rm y}</script></tex-math></inline-formula>) in frequency response near the center frequency of 2.45 GHz, as shown in <a ref-type="fig" anchor="fig2" class="fulltext-link">Fig. 2(a) and (b)</a>. In the simulated return loss of the proposed antenna with different <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">S_{\rm x}</span><script type="math/tex">S_{\rm x}</script></tex-math></inline-formula>, we observed that with <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">S_{\rm x}</span><script type="math/tex">S_{\rm x}</script></tex-math></inline-formula> decreasing (<inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{S_{\rm y}}=8</span><script type="math/tex">{S_{\rm y}}=8</script></tex-math></inline-formula> mm is constant.) the antenna's impedance matching was better and better and the voltage standing wave ratio (VSWR) &lt; 2 impedance bandwidth was wider and wider. Also, in the return loss of the proposed antenna with different <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">S_{\rm y}</span><script type="math/tex">S_{\rm y}</script></tex-math></inline-formula>, we observed that with <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">S_{\rm y}</span><script type="math/tex">S_{\rm y}</script></tex-math></inline-formula> increasing (<inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{S_{\rm x}}=2.5</span><script type="math/tex">{S_{\rm x}}=2.5</script></tex-math></inline-formula> mm is constant), the antenna's impedance matching was better and better, but the <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{\rm VSWR}&lt;2</span><script type="math/tex">{\rm VSWR}&lt;2</script></tex-math></inline-formula> impedance bandwidth was narrower and narrower. Therefore, the <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">S_{\rm x}</span><script type="math/tex">S_{\rm x}</script></tex-math></inline-formula> and <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">S_{\rm y}</span><script type="math/tex">S_{\rm y}</script></tex-math></inline-formula> mainly influenced the antenna's matching characteristic and impedance bandwidth and had a little effect on the resonant frequency.
+</p><div class="figure figure-full" id="fig2"><!--          Workaround for combined images.Eg.- 1000116 Fig. 5        --><div class="img-wrap"><a href="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-fig-2-large.gif"><img src="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-fig-2-small.gif" alt="Figure 2" /><div class="zoom" title="View Larger Image"></div></a></div><div class="figcaption"><b class="title">Fig. 2. </b><fig><p>Simulated reflection coefficient in frequency response of the proposed compact antenna with different (a) <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">S_{\rm x}</span><script type="math/tex">S_{\rm x}</script></tex-math></inline-formula> and (b) <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">S_{\rm y}</span><script type="math/tex">S_{\rm y}</script></tex-math></inline-formula> (<inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{W_{\rm s}} = 1.5</span><script type="math/tex">{W_{\rm s}} = 1.5</script></tex-math></inline-formula> mm, <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{A}1=16.5</span><script type="math/tex">{A}1=16.5</script></tex-math></inline-formula> mm, <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{C}1=5</span><script type="math/tex">{C}1=5</script></tex-math></inline-formula> mm, <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{L}1 = 7.1</span><script type="math/tex">{L}1 = 7.1</script></tex-math></inline-formula> mm, <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{W} 1 = 0.5</span><script type="math/tex">{W} 1 = 0.5</script></tex-math></inline-formula> mm, <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{S}1 = 1.6</span><script type="math/tex">{S}1 = 1.6</script></tex-math></inline-formula> mm, <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{A}2=36.3</span><script type="math/tex">{A}2=36.3</script></tex-math></inline-formula> mm, <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{C}2 = 3</span><script type="math/tex">{C}2 = 3</script></tex-math></inline-formula> mm, <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{L}2=15.5</span><script type="math/tex">{L}2=15.5</script></tex-math></inline-formula> mm, <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{W}2 = 1</span><script type="math/tex">{W}2 = 1</script></tex-math></inline-formula> mm, <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{S}2 = 3.6</span><script type="math/tex">{S}2 = 3.6</script></tex-math></inline-formula> mm).</p></fig></div><p class="links"><a href="/document/6513236/all-figures" class="all">View All</a></p></div>
+<p></p><p>For some simulated antennas (Antenna 1–5), <a ref-type="table" anchor="table1" class="fulltext-link">Table I</a> shows the effects of <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">S_{\rm x}</span><script type="math/tex">S_{\rm x}</script></tex-math></inline-formula> and <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">S_{\rm y}</span><script type="math/tex">S_{\rm y}</script></tex-math></inline-formula> on the <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{\rm VSWR}&lt;2</span><script type="math/tex">{\rm VSWR}&lt;2</script></tex-math></inline-formula> impedance bandwidth. From the obtained results, it implied that the proposed antenna could get a better impedance matching and a wider bandwidth by choosing <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{S_{\rm x}}=2.5</span><script type="math/tex">{S_{\rm x}}=2.5</script></tex-math></inline-formula> mm, <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{S_{\rm y}}=7.5</span><script type="math/tex">{S_{\rm y}}=7.5</script></tex-math></inline-formula> mm. The additional air layer with the proper thickness <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">h</span><script type="math/tex">h</script></tex-math></inline-formula> could improve the impedance bandwidth further; the optimized thickness <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">h</span><script type="math/tex">h</script></tex-math></inline-formula> was 7 mm. The parameters of the proposed antenna are presented in <a ref-type="table" anchor="table2" class="fulltext-link">Table II</a>. <a ref-type="fig" anchor="fig3" class="fulltext-link">Fig. 3</a> shows the simulated antenna input impedance <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">({Z}_{\rm in})</span><script type="math/tex">({Z}_{\rm in})</script></tex-math></inline-formula> versus frequency with the optimized parameters. We can observe that the presented antenna really obtained a good impedance matching in the wide frequency region.
+</p><div class="figure figure-full" id="fig3"><!--          Workaround for combined images.Eg.- 1000116 Fig. 5        --><div class="img-wrap"><a href="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-fig-3-large.gif"><img src="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-fig-3-small.gif" alt="Figure 3" /><div class="zoom" title="View Larger Image"></div></a></div><div class="figcaption"><b class="title">Fig. 3. </b><fig><p>Simulated antenna input impedance versus frequency with the optimized parameters.</p></fig></div><p class="links"><a href="/document/6513236/all-figures" class="all">View All</a></p></div>
+<div class="figure figure-full table" id="table1"><div class="figcaption"><b class="title">Table I </b>Effects of <span class="MathJax_Preview">S_{\rm x}</span><script type="math/tex">S_{\rm x}</script> and <span class="MathJax_Preview">S_{\rm y}</span><script type="math/tex">S_{\rm y}</script> on the <span class="MathJax_Preview">{\rm VSWR} &lt; 2</span><script type="math/tex">{\rm VSWR} &lt; 2</script> Impedance Bandwidth<div class="zoom" title="View Larger Image"></div></div><div class="img-wrap"><a href="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-table-1-large.gif"><img src="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-table-1-small.gif" alt="Table " /><div class="zoom" title="View Larger Image"></div></a></div></div>
+<div class="figure figure-full table" id="table2"><div class="figcaption"><b class="title">Table II </b>Parameters of the Proposed Compact Antenna for 2.45-GHz RFID Reader<div class="zoom" title="View Larger Image"></div></div><div class="img-wrap"><a href="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-table-2-large.gif"><img src="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-table-2-small.gif" alt="Table " /><div class="zoom" title="View Larger Image"></div></a></div></div>
+<div class="figure figure-full" id="fig4"><!--          Workaround for combined images.Eg.- 1000116 Fig. 5        --><div class="img-wrap"><a href="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-fig-4-large.gif"><img src="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-fig-4-small.gif" alt="Figure 4" /><div class="zoom" title="View Larger Image"></div></a></div><div class="figcaption"><b class="title">Fig. 4. </b><fig><p>Implemented compact antenna optimized with <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{S_{\rm x}}= 2.5</span><script type="math/tex">{S_{\rm x}}= 2.5</script></tex-math></inline-formula> mm, <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{S_{\rm y}} = 7.5</span><script type="math/tex">{S_{\rm y}} = 7.5</script></tex-math></inline-formula> mm, <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{W_{\rm s}} = 1.5</span><script type="math/tex">{W_{\rm s}} = 1.5</script></tex-math></inline-formula> mm, <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{A} 1 = 16.5</span><script type="math/tex">{A} 1 = 16.5</script></tex-math></inline-formula> mm, <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{C} 1 = 5</span><script type="math/tex">{C} 1 = 5</script></tex-math></inline-formula> mm, <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{A}2 = 36.3</span><script type="math/tex">{A}2 = 36.3</script></tex-math></inline-formula> mm, <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{C}2 = 3</span><script type="math/tex">{C}2 = 3</script></tex-math></inline-formula> mm.</p></fig></div><p class="links"><a href="/document/6513236/all-figures" class="all">View All</a></p></div>
+<div class="figure figure-full" id="fig5"><!--          Workaround for combined images.Eg.- 1000116 Fig. 5        --><div class="img-wrap"><a href="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-fig-5-large.gif"><img src="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-fig-5-small.gif" alt="Figure 5" /><div class="zoom" title="View Larger Image"></div></a></div><div class="figcaption"><b class="title">Fig. 5. </b><fig><p>Measured return loss of the proposed compact antenna.</p></fig></div><p class="links"><a href="/document/6513236/all-figures" class="all">View All</a></p></div>
+<p></p></div>
+<div class="section" id="sec3"><div class="header article-hdr"><div class="kicker">		                        SECTION III.</div><h2>Experimental Result</h2></div><p><a ref-type="fig" anchor="fig4" class="fulltext-link">Fig. 4</a> shows the implemented compact antenna for the 2.45-GHz RFID reader that had been optimized. <a ref-type="fig" anchor="fig5" class="fulltext-link">Fig. 5</a> shows the measured return loss of the proposed compact antenna. The antenna had the resonance at the center frequency of 2.45 GHz and obtained the reflection characteristic of less than −10 dB in the bandwidth of about 370 MHz or 15.1%. This wideband characteristic of the measured return loss was obtained by the S-shaped IMN technology and the stacked patches. The peak gain (total gain) and axial ratio (AR) of the proposed compact antenna for the 2.45-GHz RFID reader were also measured in an authorized anechoic chamber, as shown in <a ref-type="fig" anchor="fig6" class="fulltext-link">Figs. 6</a> and <a ref-type="fig" anchor="fig7" class="fulltext-link">7</a>. The proposed antenna had the peak gain about 6.32 dBi at the center frequency of 2.45 GHz and 3-dB gain bandwidth about 600 MHz, as shown in <a ref-type="fig" anchor="fig6" class="fulltext-link">Fig. 6</a>. The high gain characteristic of the measured was caused by the additional air dielectric layer and the parasitic patch with the lower dielectric substrate. The axial ratio was less than about 5 dB in the measured frequency range from 2.41 to 2.49 GHz as shown in <a ref-type="fig" anchor="fig7" class="fulltext-link">Fig. 7</a>, and with a minimum AR of 0.53 dB. Thus, we could observe that we can get the better circular polarization property indeed with the upper parasitic patch rotating 90° sequentially based on the lower patch. The bandwidth of the peak gain was quite wide, but the bandwidth of the axial ratio was narrower than the bandwidth of the return loss. Although the bandwidth of the axial ratio was narrower, it could sufficiently be used in the 2.45-GHz RFID band.
+</p><div class="figure figure-full" id="fig6"><!--          Workaround for combined images.Eg.- 1000116 Fig. 5        --><div class="img-wrap"><a href="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-fig-6-large.gif"><img src="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-fig-6-small.gif" alt="Figure 6" /><div class="zoom" title="View Larger Image"></div></a></div><div class="figcaption"><b class="title">Fig. 6. </b><fig><p>Measured peak gain of the proposed compact antenna optimized in frequency range from 2.1 GHz to 2.7 GHz.</p></fig></div><p class="links"><a href="/document/6513236/all-figures" class="all">View All</a></p></div>
+<div class="figure figure-full" id="fig7"><!--          Workaround for combined images.Eg.- 1000116 Fig. 5        --><div class="img-wrap"><a href="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-fig-7-large.gif"><img src="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-fig-7-small.gif" alt="Figure 7" /><div class="zoom" title="View Larger Image"></div></a></div><div class="figcaption"><b class="title">Fig. 7. </b><fig><p>Measured axial ratio of the proposed compact antenna optimized in frequency range from 2.41 to 2.49 GHz.</p></fig></div><p class="links"><a href="/document/6513236/all-figures" class="all">View All</a></p></div>
+<div class="figure figure-full" id="fig8"><!--          Workaround for combined images.Eg.- 1000116 Fig. 5        --><div class="img-wrap"><a href="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-fig-8-large.gif"><img src="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-fig-8-small.gif" alt="Figure 8" /><div class="zoom" title="View Larger Image"></div></a></div><div class="figcaption"><b class="title">Fig. 8. </b><fig><p>Measured radiation patterns in (a) <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">xz</span><script type="math/tex">xz</script></tex-math></inline-formula>- and (b) <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">yz</span><script type="math/tex">yz</script></tex-math></inline-formula>-direction of the proposed compact antenna optimized at center frequency 2.45 GHz.</p></fig></div><p class="links"><a href="/document/6513236/all-figures" class="all">View All</a></p></div>
+<p></p><p><a ref-type="fig" anchor="fig8" class="fulltext-link">Fig. 8</a> shows radiation patterns of the proposed antenna in both <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">xz</span><script type="math/tex">xz</script></tex-math></inline-formula>- and <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">yz</span><script type="math/tex">yz</script></tex-math></inline-formula>-planes at the center frequency 2.45 GHz, respectively. The antenna radiated almost the same amount of energy into both sides, which was obtained by S-shaped impedance matching network technology. Also, the proposed antenna had the directivity in zenith direction and the 3-dB beamwidth about 91° at the center frequency of 2.45 GHz. The measured antenna efficiency (we used the radiation power ratio the input power to calculate antenna efficiency, and two orthogonal dipole antennas as the receiving antenna were used to measure radiation power in the authorized anechoic chamber) confirmed rather than 80% from 2.25 to 2.52 GHz, as shown in <a ref-type="fig" anchor="fig9" class="fulltext-link">Fig. 9</a>. The peak efficiency reached to 87%. The high efficiency could be reflected by the obtained high gain. Thus, the proposed antenna is suitable for a RFID reader antenna.
+</p><div class="figure figure-full" id="fig9"><!--          Workaround for combined images.Eg.- 1000116 Fig. 5        --><div class="img-wrap"><a href="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-fig-9-large.gif"><img src="/mediastore/IEEE/content/media/7727/6478802/6513236/6513236-fig-9-small.gif" alt="Figure 9" /><div class="zoom" title="View Larger Image"></div></a></div><div class="figcaption"><b class="title">Fig. 9. </b><fig><p>Measured antenna efficiency of the proposed compact antenna optimized in frequency range from 2.1 to 2.7 GHz.</p></fig></div><p class="links"><a href="/document/6513236/all-figures" class="all">View All</a></p></div>
+<p></p></div>
+<div class="section" id="sec4"><div class="header article-hdr"><div class="kicker">		                        SECTION IV.</div><h2>Conclusion</h2></div><p>A compact and broadband antenna for 2.45-GHz RFID reader was presented. Based on the matching condition with the S-shaped IMN technology, the compact antenna was optimized to obtain a high performance. Excellent matching and optimal performance of the fabricated antenna were verified by experiment as well. The optimized antenna had a peak gain of 6.32dBi, a <inline-formula id=""><tex-math notation="TeX"><span class="MathJax_Preview">{\rm VSWR} &lt; 2</span><script type="math/tex">{\rm VSWR} &lt; 2</script></tex-math></inline-formula> impedance bandwidth of larger than 15.1%, a 3-dB beamwidth of more than 91°, and an effective antenna efficiency of larger than 87%. The antenna also had a compact size of 58×58×11 mm<sup>3</sup>. The antenna had an excellent performance of high gain and wide bandwidth. Hence, it also has the potential to be used in other wireless communication systems, such as Wi-Fi.</p></div>
+</div></div>
+</div><!-- end ngIf: ft.sectionText -->
+				
+				<!-- To go along with snippet text -->
+				<!-- ngIf: ::ft.article.isDynamicHtml && ft.showSnippet -->
+				
+				<!--xpl-document-context is for "View All ___" sections-->
+				<!-- ngIf: ft.contextData -->
+				
+				<!-- Load Keywords and Authors in full text section, as long as not viewing a context already (eg View All Authors) or using "Search Within" -->
+				<!-- ngIf: !ft.searchReferences --><div ng-if="!ft.searchReferences" class="ng-scope">
+					<section class="doc-ft-extra ng-isolate-scope" article-number="6513236">
+	<!-- ngIf: !vm.loading.keywords && vm.data.keywords --><!-- ngInclude: getContextUrl() --><div ng-include="getContextUrl()" ng-if="!vm.loading.keywords &amp;&amp; vm.data.keywords" article-number="6513236" context="keywords" context-data="vm.data.keywords" class="ng-scope"><section class="document-all-keywords ng-scope">
+	<h2 class="document-ft-section-header">Keywords</h2>
+	
+	<!-- ngIf: !vm.contextData.keywords.length -->
+	
+	<!-- ngIf: vm.contextData.keywords.length --><div class="stats-keywords-container ng-scope" ng-if="vm.contextData.keywords.length">
+		<ul class="doc-all-keywords-list">
+			<!-- ngRepeat: keyword in vm.contextData.keywords --><li class="doc-all-keywords-list-item ng-scope" ng-repeat="keyword in vm.contextData.keywords">
+				<strong class="ng-binding">IEEE Keywords</strong>
+				<div>
+					<!-- ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.Radiofrequency identification.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;IEEE Keywords&quot;}" class="ng-binding">Radiofrequency identification</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.Antenna measurements.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;IEEE Keywords&quot;}" class="ng-binding">Antenna measurements</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.Bandwidth.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;IEEE Keywords&quot;}" class="ng-binding">Bandwidth</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.Microstrip antennas.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;IEEE Keywords&quot;}" class="ng-binding">Microstrip antennas</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.Impedance.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;IEEE Keywords&quot;}" class="ng-binding">Impedance</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.Dipole antennas.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;IEEE Keywords&quot;}" class="ng-binding">Dipole antennas</a>
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index -->
+				</div>
+			</li><!-- end ngRepeat: keyword in vm.contextData.keywords --><li class="doc-all-keywords-list-item ng-scope" ng-repeat="keyword in vm.contextData.keywords">
+				<strong class="ng-binding">INSPEC: Controlled Indexing</strong>
+				<div>
+					<!-- ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.UHF antennas.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Controlled Indexing&quot;}" class="ng-binding">UHF antennas</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.antenna feeds.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Controlled Indexing&quot;}" class="ng-binding">antenna feeds</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.antenna radiation patterns.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Controlled Indexing&quot;}" class="ng-binding">antenna radiation patterns</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.broadband antennas.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Controlled Indexing&quot;}" class="ng-binding">broadband antennas</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.electromagnetic wave polarisation.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Controlled Indexing&quot;}" class="ng-binding">electromagnetic wave polarisation</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.impedance matching.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Controlled Indexing&quot;}" class="ng-binding">impedance matching</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.microstrip antennas.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Controlled Indexing&quot;}" class="ng-binding">microstrip antennas</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.mobile radio.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Controlled Indexing&quot;}" class="ng-binding">mobile radio</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.radiofrequency identification.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Controlled Indexing&quot;}" class="ng-binding">radiofrequency identification</a>
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index -->
+				</div>
+			</li><!-- end ngRepeat: keyword in vm.contextData.keywords --><li class="doc-all-keywords-list-item ng-scope" ng-repeat="keyword in vm.contextData.keywords">
+				<strong class="ng-binding">INSPEC: Non-Controlled Indexing</strong>
+				<div>
+					<!-- ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.frequency 2.31 GHz to 2.56 GHz.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Non-Controlled Indexing&quot;}" class="ng-binding">frequency 2.31 GHz to 2.56 GHz</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.broadband microstrip stacked patch antenna.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Non-Controlled Indexing&quot;}" class="ng-binding">broadband microstrip stacked patch antenna</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.circular polarization.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Non-Controlled Indexing&quot;}" class="ng-binding">circular polarization</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.mobile RFID reader.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Non-Controlled Indexing&quot;}" class="ng-binding">mobile RFID reader</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.CP.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Non-Controlled Indexing&quot;}" class="ng-binding">CP</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.passive radio frequency identification reader.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Non-Controlled Indexing&quot;}" class="ng-binding">passive radio frequency identification reader</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.S-shaped impedance-matching network.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Non-Controlled Indexing&quot;}" class="ng-binding">S-shaped impedance-matching network</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.S-shaped IMN feed technique.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Non-Controlled Indexing&quot;}" class="ng-binding">S-shaped IMN feed technique</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.symmetrical broadside radiation patterns.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Non-Controlled Indexing&quot;}" class="ng-binding">symmetrical broadside radiation patterns</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.truncating corners.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Non-Controlled Indexing&quot;}" class="ng-binding">truncating corners</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.symmetric-L narrow slots.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Non-Controlled Indexing&quot;}" class="ng-binding">symmetric-L narrow slots</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.reader antenna matching.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Non-Controlled Indexing&quot;}" class="ng-binding">reader antenna matching</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.voltage standing wave ratio.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Non-Controlled Indexing&quot;}" class="ng-binding">voltage standing wave ratio</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.VSWR.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;INSPEC: Non-Controlled Indexing&quot;}" class="ng-binding">VSWR</a>
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index -->
+				</div>
+			</li><!-- end ngRepeat: keyword in vm.contextData.keywords --><li class="doc-all-keywords-list-item ng-scope" ng-repeat="keyword in vm.contextData.keywords">
+				<strong class="ng-binding">Author Keywords </strong>
+				<div>
+					<!-- ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.radio frequency identification .LB.RFID.RB. reader antenna.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;Author Keywords &quot;}" class="ng-binding">radio frequency identification (RFID) reader antenna</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.Broadband.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;Author Keywords &quot;}" class="ng-binding">Broadband</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.circular polarization .LB.CP.RB..QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;Author Keywords &quot;}" class="ng-binding">circular polarization (CP)</a>, 
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index --><span ng-repeat="term in ::keyword.kwd track by $index" class="ng-binding ng-scope">
+						<a href="/search/searchresult.jsp?matchBoolean=true&amp;queryText=&quot;Index%20Terms&quot;:.QT.micro strip antenna.QT.&amp;newsearch=true" ng-bind-html="::term" data-tealium_data="{&quot;keywordType&quot;: &quot;Author Keywords &quot;}" class="ng-binding">micro strip antenna</a>
+					</span><!-- end ngRepeat: term in ::keyword.kwd track by $index -->
+				</div>
+			</li><!-- end ngRepeat: keyword in vm.contextData.keywords -->
+		</ul>
+	</div><!-- end ngIf: vm.contextData.keywords.length -->
+</section>
+</div><!-- end ngIf: !vm.loading.keywords && vm.data.keywords -->
+	
+	<!-- ngIf: vm.data.keywords && vm.data.authors --><div class="u-mt-2 ng-scope" ng-if="vm.data.keywords &amp;&amp; vm.data.authors"></div><!-- end ngIf: vm.data.keywords && vm.data.authors -->
+	
+	<!-- ngIf: !vm.loading.authors && vm.data.authors --><!-- ngInclude: getContextUrl() --><div ng-include="getContextUrl()" ng-if="!vm.loading.authors &amp;&amp; vm.data.authors" article-number="6513236" context="authors" context-data="vm.data.authors" class="ng-scope"><section class="document-all-authors ng-scope"> 
+	<h2 class="document-ft-section-header">Authors</h2>
+	
+	<!-- ngIf: !vm.contextData.authors.length -->
+	
+	<!-- ngIf: vm.contextData.authors.length > 0 --><div ng-if="vm.contextData.authors.length &gt; 0" class="ng-scope">
+		<div>
+			<!-- ngRepeat: item in vm.contextData.authors --><div class="author-container stats-author-container ng-scope" ng-repeat="item in vm.contextData.authors" id="">
+				<div class="pure-g">
+					<!-- ngIf: ::item.bio.graphic -->
+					<div class="pure-u-18-24">
+						<div>
+							<a href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Tingqiang Wu.QT.&amp;newsearch=true"><span ng-bind-html="::item.name" class="ng-binding">Tingqiang Wu</span><!-- ngIf: ::item.nativeName --></a>
+							<!-- ngIf: ::item.orcid -->
+						</div>
+						<div ng-bind-html="::item.affiliation" class="ng-binding">school of University of Electronic Science and Technology of China, Chengdu, China</div>
+					</div>
+				</div>
+				<div class="pure-g">
+					<!-- ngRepeat: biop in ::item.bio.p -->
+				</div>
+			</div><!-- end ngRepeat: item in vm.contextData.authors --><div class="author-container stats-author-container ng-scope" ng-repeat="item in vm.contextData.authors" id="">
+				<div class="pure-g">
+					<!-- ngIf: ::item.bio.graphic -->
+					<div class="pure-u-18-24">
+						<div>
+							<a href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Hua Su.QT.&amp;newsearch=true"><span ng-bind-html="::item.name" class="ng-binding">Hua Su</span><!-- ngIf: ::item.nativeName --></a>
+							<!-- ngIf: ::item.orcid -->
+						</div>
+						<div ng-bind-html="::item.affiliation" class="ng-binding">School of University of Electronic Science and Technology of China, Chengdu, China</div>
+					</div>
+				</div>
+				<div class="pure-g">
+					<!-- ngRepeat: biop in ::item.bio.p -->
+				</div>
+			</div><!-- end ngRepeat: item in vm.contextData.authors --><div class="author-container stats-author-container ng-scope" ng-repeat="item in vm.contextData.authors" id="">
+				<div class="pure-g">
+					<!-- ngIf: ::item.bio.graphic -->
+					<div class="pure-u-18-24">
+						<div>
+							<a href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Liyun Gan.QT.&amp;newsearch=true"><span ng-bind-html="::item.name" class="ng-binding">Liyun Gan</span><!-- ngIf: ::item.nativeName --></a>
+							<!-- ngIf: ::item.orcid -->
+						</div>
+						<div ng-bind-html="::item.affiliation" class="ng-binding">School of University of Electronic Science and Technology of China, Chengdu, China</div>
+					</div>
+				</div>
+				<div class="pure-g">
+					<!-- ngRepeat: biop in ::item.bio.p -->
+				</div>
+			</div><!-- end ngRepeat: item in vm.contextData.authors --><div class="author-container stats-author-container ng-scope" ng-repeat="item in vm.contextData.authors" id="">
+				<div class="pure-g">
+					<!-- ngIf: ::item.bio.graphic -->
+					<div class="pure-u-18-24">
+						<div>
+							<a href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Huizhu Chen.QT.&amp;newsearch=true"><span ng-bind-html="::item.name" class="ng-binding">Huizhu Chen</span><!-- ngIf: ::item.nativeName --></a>
+							<!-- ngIf: ::item.orcid -->
+						</div>
+						<div ng-bind-html="::item.affiliation" class="ng-binding">School of University of Electronic Science and Technology of China, Chengdu, China</div>
+					</div>
+				</div>
+				<div class="pure-g">
+					<!-- ngRepeat: biop in ::item.bio.p -->
+				</div>
+			</div><!-- end ngRepeat: item in vm.contextData.authors --><div class="author-container stats-author-container ng-scope" ng-repeat="item in vm.contextData.authors" id="">
+				<div class="pure-g">
+					<!-- ngIf: ::item.bio.graphic -->
+					<div class="pure-u-18-24">
+						<div>
+							<a href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Jingyao Huang.QT.&amp;newsearch=true"><span ng-bind-html="::item.name" class="ng-binding">Jingyao Huang</span><!-- ngIf: ::item.nativeName --></a>
+							<!-- ngIf: ::item.orcid -->
+						</div>
+						<div ng-bind-html="::item.affiliation" class="ng-binding">School of University of Electronic Science and Technology of China, Chengdu, China</div>
+					</div>
+				</div>
+				<div class="pure-g">
+					<!-- ngRepeat: biop in ::item.bio.p -->
+				</div>
+			</div><!-- end ngRepeat: item in vm.contextData.authors --><div class="author-container stats-author-container ng-scope" ng-repeat="item in vm.contextData.authors" id="">
+				<div class="pure-g">
+					<!-- ngIf: ::item.bio.graphic -->
+					<div class="pure-u-18-24">
+						<div>
+							<a href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Huaiwu Zhang.QT.&amp;newsearch=true"><span ng-bind-html="::item.name" class="ng-binding">Huaiwu Zhang</span><!-- ngIf: ::item.nativeName --></a>
+							<!-- ngIf: ::item.orcid -->
+						</div>
+						<div ng-bind-html="::item.affiliation" class="ng-binding">School of University of Electronic Science and Technology of China, Chengdu, China</div>
+					</div>
+				</div>
+				<div class="pure-g">
+					<!-- ngRepeat: biop in ::item.bio.p -->
+				</div>
+			</div><!-- end ngRepeat: item in vm.contextData.authors -->
+		</div>
+	</div><!-- end ngIf: vm.contextData.authors.length > 0 -->
+</section></div><!-- end ngIf: !vm.loading.authors && vm.data.authors -->
+	
+	<!-- ngIf: !vm.loading.relatedArticles --><!-- ngInclude: getContextUrl() --><div ng-include="getContextUrl()" class="u-mt-2 ng-scope" ng-if="!vm.loading.relatedArticles" article-number="6513236" context="related-articles" context-data="vm.data.relatedArticles"><section id="fullTextRelatedArticles" class="document-all-related-articles ng-scope">
+	<h2 class="document-ft-section-header">Related Articles</h2>
+	
+	<!-- ngIf: !vm.contextData.similar.length -->
+	
+	<!-- ngIf: vm.contextData.similar.length --><div class="stats-document-relatedArticles ng-scope" ng-if="vm.contextData.similar.length">
+		<!-- ngRepeat: article in vm.contextData.similar --><div class="doc-all-related-articles-list-item ng-scope" ng-repeat="article in vm.contextData.similar"> 
+			<a ng-href="/document/1406230" title="Bandwidth enhancement and size reduction of microstrip slot antennas" target="_self" href="/document/1406230">
+				<span ng-bind-html="::(vm.contextData.isStandard ? article.standardNumber + ' - ' + article.title : article.title) | charlimitHtml:185" mathjax-bind="" class="ng-binding">Bandwidth enhancement and size reduction of microstrip slot antennas</span>
+			</a>
+			<div class="ng-binding">S.I. Latif; L. Shafai; S.K. Sharma</div>
+		</div><!-- end ngRepeat: article in vm.contextData.similar --><div class="doc-all-related-articles-list-item ng-scope" ng-repeat="article in vm.contextData.similar"> 
+			<a ng-href="/document/1351670" title="Experimental studies of printed wide-slot antenna for wide-band applications" target="_self" href="/document/1351670">
+				<span ng-bind-html="::(vm.contextData.isStandard ? article.standardNumber + ' - ' + article.title : article.title) | charlimitHtml:185" mathjax-bind="" class="ng-binding">Experimental studies of printed wide-slot antenna for wide-band applications</span>
+			</a>
+			<div class="ng-binding"> Liu;  Lau;  Xue;  Chan</div>
+		</div><!-- end ngRepeat: article in vm.contextData.similar --><div class="doc-all-related-articles-list-item ng-scope" ng-repeat="article in vm.contextData.similar"> 
+			<a ng-href="/document/1236125" title="Low-cost broadband circularly polarized patch antenna" target="_self" href="/document/1236125">
+				<span ng-bind-html="::(vm.contextData.isStandard ? article.standardNumber + ' - ' + article.title : article.title) | charlimitHtml:185" mathjax-bind="" class="ng-binding">Low-cost broadband circularly polarized patch antenna</span>
+			</a>
+			<div class="ng-binding"> Fa-Shian Chang;  Kin-Lu Wong;  Tzung-Wern Chiou</div>
+		</div><!-- end ngRepeat: article in vm.contextData.similar --><div class="doc-all-related-articles-list-item ng-scope" ng-repeat="article in vm.contextData.similar"> 
+			<a ng-href="/document/4806172" title="A Universal UHF RFID Reader Antenna" target="_self" href="/document/4806172">
+				<span ng-bind-html="::(vm.contextData.isStandard ? article.standardNumber + ' - ' + article.title : article.title) | charlimitHtml:185" mathjax-bind="" class="ng-binding">A Universal UHF RFID Reader Antenna</span>
+			</a>
+			<div class="ng-binding">Zhi Ning Chen; Xianming Qing; Hang Leong Chung</div>
+		</div><!-- end ngRepeat: article in vm.contextData.similar --><div class="doc-all-related-articles-list-item ng-scope" ng-repeat="article in vm.contextData.similar"> 
+			<a ng-href="/document/1179402" title="3-D FDTD design analysis of a 2.4-GHz polarization-diversity printed dipole antenna with integrated balun and polarization-switching circuit for WLAN and wireless communication applications" target="_self" href="/document/1179402">
+				<span ng-bind-html="::(vm.contextData.isStandard ? article.standardNumber + ' - ' + article.title : article.title) | charlimitHtml:185" mathjax-bind="" class="ng-binding">3-D FDTD design analysis of a 2.4-GHz polarization-diversity printed dipole antenna with integrated balun and polarization-switching circuit for WLAN and wireless communication applicat...</span>
+			</a>
+			<div class="ng-binding"> Huey-Ru Chuang;  Liang-Chen Kuo</div>
+		</div><!-- end ngRepeat: article in vm.contextData.similar --><div class="doc-all-related-articles-list-item ng-scope" ng-repeat="article in vm.contextData.similar"> 
+			<a ng-href="/document/4286018" title="Probe Fed Stacked Patch Antenna for Wideband Applications" target="_self" href="/document/4286018">
+				<span ng-bind-html="::(vm.contextData.isStandard ? article.standardNumber + ' - ' + article.title : article.title) | charlimitHtml:185" mathjax-bind="" class="ng-binding">Probe Fed Stacked Patch Antenna for Wideband Applications</span>
+			</a>
+			<div class="ng-binding">M. A. Matin; B. S. Sharif; C. C. Tsimenidis</div>
+		</div><!-- end ngRepeat: article in vm.contextData.similar --><div class="doc-all-related-articles-list-item ng-scope" ng-repeat="article in vm.contextData.similar"> 
+			<a ng-href="/document/4636826" title="Printed Wide-Slot Antenna for Wideband Applications" target="_self" href="/document/4636826">
+				<span ng-bind-html="::(vm.contextData.isStandard ? article.standardNumber + ' - ' + article.title : article.title) | charlimitHtml:185" mathjax-bind="" class="ng-binding">Printed Wide-Slot Antenna for Wideband Applications</span>
+			</a>
+			<div class="ng-binding">Aliakbar Dastranj; Ali Imani; Mohammad Naser-Moghaddasi</div>
+		</div><!-- end ngRepeat: article in vm.contextData.similar --><div class="doc-all-related-articles-list-item ng-scope" ng-repeat="article in vm.contextData.similar"> 
+			<a ng-href="/document/5725144" title="Single-Fed Broadband Circularly Polarized Stacked Patch Antenna With Horizontally Meandered Strip for Universal UHF RFID Applications" target="_self" href="/document/5725144">
+				<span ng-bind-html="::(vm.contextData.isStandard ? article.standardNumber + ' - ' + article.title : article.title) | charlimitHtml:185" mathjax-bind="" class="ng-binding">Single-Fed Broadband Circularly Polarized Stacked Patch Antenna With Horizontally Meandered Strip for Universal UHF RFID Applications</span>
+			</a>
+			<div class="ng-binding">Zhongbao Wang; Shaojun Fang; Shiqiang Fu; Shouli Jia</div>
+		</div><!-- end ngRepeat: article in vm.contextData.similar --><div class="doc-all-related-articles-list-item ng-scope" ng-repeat="article in vm.contextData.similar"> 
+			<a ng-href="/document/1593612" title="Bandwidth Enhancement of Wide-Slot Antenna Fed by CPW and Microstrip Line" target="_self" href="/document/1593612">
+				<span ng-bind-html="::(vm.contextData.isStandard ? article.standardNumber + ' - ' + article.title : article.title) | charlimitHtml:185" mathjax-bind="" class="ng-binding">Bandwidth Enhancement of Wide-Slot Antenna Fed by CPW and Microstrip Line</span>
+			</a>
+			<div class="ng-binding">S.-w. Qu; C. Ruan; B.-z. Wang</div>
+		</div><!-- end ngRepeat: article in vm.contextData.similar --><div class="doc-all-related-articles-list-item ng-scope" ng-repeat="article in vm.contextData.similar"> 
+			<a ng-href="/document/1377625" title="A wide-band slot antenna design employing a fictitious short circuit concept" target="_self" href="/document/1377625">
+				<span ng-bind-html="::(vm.contextData.isStandard ? article.standardNumber + ' - ' + article.title : article.title) | charlimitHtml:185" mathjax-bind="" class="ng-binding">A wide-band slot antenna design employing a fictitious short circuit concept</span>
+			</a>
+			<div class="ng-binding">N. Behdad; K. Sarabandi</div>
+		</div><!-- end ngRepeat: article in vm.contextData.similar -->
+	</div><!-- end ngIf: vm.contextData.similar.length -->
+</section>
+</div><!-- end ngIf: !vm.loading.relatedArticles -->
+	
+	<!-- ngIf: vm.loading.keywords || vm.loading.authors -->
+</section>
+				</div><!-- end ngIf: !ft.searchReferences -->
+			</div><!-- end ngIf: !ft.loading.main -->
+			
+			<span id="full-text-footer"><!-- This Exists for scroll bar limit You may use the ID and fill  it if you need the footer--></span>
+			
+		</div>
+		
+		<div class="pure-u-4-24 u-pr-1 u-pl-1 col-buttons stats-document-container-rh u-printing-invisible-ie u-printing-invisible-ff">
+			<div xpl-scroll-snap="" scroll-reset-event-name="document.event.ft.rightrail.resetScroll" scroll-from-offset="-75" scroll-from-element-id="full-text-header" scroll-till-element-id="full-text-footer" scroll-till-offset="500" css-class="document-side-menu-stick" class="document-doc-buttons stats-document-container-buttons ng-isolate-scope">   
+	<ul class="tools">
+		<li>
+			<a ng-show="vm.fullText.article.isNotDynamicOrStatic || ((ft.article.chargeBackInfo &amp;&amp; ft.article.chargeBackInfo.showChgbkModal)?true:false)" class="btn-search  tl-save disabled ng-hide" aria-hidden="true">
+				<i></i>
+			</a>
+			 <a ng-show="!vm.fullText.article.isNotDynamicOrStatic &amp;&amp; !((ft.article.chargeBackInfo &amp;&amp; ft.article.chargeBackInfo.showChgbkModal)?true:false)" class="btn-search ng-isolate-scope" qtip-popover="" content="document-search" data-qtip-config="{&quot;style&quot;: {&quot;classes&quot;:&quot;qtip-popover qtip-document qtip-popover-search&quot;}, &quot;position&quot;: { &quot;my&quot;: &quot;top right&quot; }}" data-hasqtip="10" aria-hidden="false">
+				<i></i>
+			</a>
+		</li><!-- please leave this comment so that it prevents </li><li> from having a newline/space
+		-->
+		
+		<li>
+		 	<a ng-show="::vm.fullText.article.isNotDynamicOrStatic" class="btn-resize  tl-save disabled ng-hide" aria-hidden="true">
+				<i></i>
+			</a>
+			<a ng-show="::!vm.fullText.article.isNotDynamicOrStatic" class="btn-resize ng-isolate-scope" qtip-popover="" content="document-text-resizer" content-selector="#full-text-section" min-size="10" max-size="20" data-qtip-config="{&quot;style&quot;: {&quot;classes&quot;:&quot;qtip-popover qtip-document&quot;}, &quot;position&quot;: { &quot;my&quot;: &quot;top right&quot; }}" data-hasqtip="11" aria-hidden="false">
+				<i></i>
+			</a>
+		</li>
+	</ul>
+
+	<ul class="document-buttons stats-document-buttons" id="document-buttons">
+		<!-- ngIf: vm.queryText && vm.part -->
+		<li>
+			<!--TODO: Might not need if removing Full Text button. ng-class="{'active': ('document.full({part: 1})'|includedByState) || ('document.abstract'|includedByState)}"-->
+			<!-- ngIf: ::vm.fullText.article.isDynamicHtml==true --><a class="btn-document stats-document-button-fullText ng-scope" ng-click="vm.loadFullText()" ng-if="::vm.fullText.article.isDynamicHtml==true">Full Text</a><!-- end ngIf: ::vm.fullText.article.isDynamicHtml==true -->
+		</li>
+		<li>
+			<a class="btn-document stats-document-button-abstract active" ng-class="{'active': vm.$state.includes('document.abstract') &amp;&amp; !vm.$state.includes('document', {ctx: 'footnotes'}) &amp;&amp; !vm.$state.includes('document', {ctx: 'corrections'}) &amp;&amp; !vm.$state.includes('document', {ctx: 'disclaimer'})}" ui-sref="document.abstract({q:null,ctx:null,part:null,section:'abstract',tabfilter:null})" ui-sref-opts="{refresh: true}" href="/document/6513236/?section=abstract">Abstract</a>
+		</li>
+		<!-- ngIf: !vm.fullText.article.isStandard --><li ng-if="!vm.fullText.article.isStandard" class="ng-scope">
+			<a class="btn-document stats-document-button-authors" ng-class="{'active': vm.$state.includes('document.full', {tab: 'authors'})  &amp;&amp; !vm.$state.includes('document', {ctx: 'footnotes'}) &amp;&amp; !vm.$state.includes('document', {ctx: 'corrections'}) &amp;&amp; !vm.$state.includes('document', {ctx: 'disclaimer'})}" ui-sref="document.full({q:null,ctx:null,part:null,section:null,tab:'authors',anchor:null,tabfilter:null})" href="/document/6513236/authors">Authors</a>
+		</li><!-- end ngIf: !vm.fullText.article.isStandard -->
+	   <li>
+			<a class="btn-document stats-document-button-figures" ng-class="{'active': vm.$state.includes('document.full', {tab: 'figures'}) &amp;&amp; !vm.$state.includes('document', {ctx: 'footnotes'}) &amp;&amp; !vm.$state.includes('document', {ctx: 'corrections'}) &amp;&amp; !vm.$state.includes('document', {ctx: 'disclaimer'})}" ui-sref="document.full({q:null,ctx:null,part:null,section:null,tab:'figures',anchor:null,tabfilter:null})" href="/document/6513236/figures">Figures</a>
+		</li>
+		<li>
+			<a class="btn-document stats-document-button-references" ng-class="{'active': vm.$state.includes('document.full', {tab: 'references'}) &amp;&amp; !vm.$state.includes('document', {ctx: 'footnotes'}) &amp;&amp; !vm.$state.includes('document', {ctx: 'corrections'}) &amp;&amp; !vm.$state.includes('document', {ctx: 'disclaimer'})}" ui-sref="document.full({q:null,ctx:null,part:null,section:null,tab:'references',anchor:null,tabfilter:null})" href="/document/6513236/references">References</a>
+		</li>
+		<li>
+			<a class="btn-document stats-document-button-citations" ng-class="{'active': vm.$state.includes('document.full', {tab: 'citations'}) &amp;&amp; !vm.$state.includes('document', {ctx: 'footnotes'}) &amp;&amp; !vm.$state.includes('document', {ctx: 'corrections'}) &amp;&amp; !vm.$state.includes('document', {ctx: 'disclaimer'})}" ui-sref="document.full({q:null,ctx:null,part:null,section:null,tab:'citations',anchor:null,tabfilter:null})" href="/document/6513236/citations">Citations</a>
+		</li>
+		<li>
+			<a class="btn-document stats-document-button-keywords" ng-class="{'active': vm.$state.includes('document.full', {tab: 'keywords'}) &amp;&amp; !vm.$state.includes('document', {ctx: 'footnotes'}) &amp;&amp; !vm.$state.includes('document', {ctx: 'corrections'}) &amp;&amp; !vm.$state.includes('document', {ctx: 'disclaimer'})}" ui-sref="document.full({q:null,ctx:null,part:null,section:null,tab:'keywords',anchor:null,tabfilter:null})" href="/document/6513236/keywords">Keywords</a>
+		</li>
+		<!-- ngIf: vm.fullText.article.sections.footnotes==='true' -->
+		<!-- ngIf: vm.fullText.article.sections.corrections==='true' -->
+		  <!-- ngIf: vm.fullText.article.sections.disclaimer==='true' && vm.fullText.article.fullTextAccess -->
+		<li>
+			<a class="btn-document stats-document-button-backToTop" ui-sref-active="active" ng-click="vm.scrollTo('full-text-section')">Back to Top</a>
+		</li>
+	</ul>
+</div>
+		</div>
+	</div>
+	<div class="pure-g u-mb-1 previous-next-nav-ctrl bottom">
+		<div class="pure-u-1-3 u-pl-1 col-prev">
+			<!-- ngIf: ft.showPrevious && ft.article.fullTextAccess -->
+		</div>
+			
+		<div class="pure-u-2-3 u-pr-1 col-next">
+			<!-- ngIf: ft.showNext && ft.article.fullTextAccess -->
+		</div>
+	</div>  
+</section><!-- end ngIf: vm.showFullText -->
+		</div><!-- end ngIf: !vm.loading -->
+	</section>
+	<section class="pure-u-1 doc-disqus-container u-printing-display-inline-ie u-printing-display-inline-ff">
+		<!-- ngIf: vm.document.allowComments -->
+	</section>
+</div></div>
+</div>
+
+
+			
+
+
+
+
+
+<div class="Footer stats-footer" id="xploreFooter">
+	<div class="pure-g Footer-sections u-mt-1">
+		<div class="pure-u-1-4">
+			<h3 class="Footer-header">IEEE Account</h3>
+			<ul class="Footer-list">
+				<li><a href="https://www.ieee.org/profile/changeusrpwd/showChangeUsrPwdPage.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE Xplore">Change Username/Password</a></li>
+				<li><a href="https://www.ieee.org/profile/address/getAddrInfoPage.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE Xplore">Update Address</a></li>
+			</ul>
+		</div>
+		<div class="pure-u-1-4">
+			<h3 class="Footer-header">Purchase Details</h3>
+			<ul class="Footer-list">
+				<li><a href="https://www.ieee.org/profile/payment/showPaymentHome.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE Xplore">Payment Options</a></li>
+				<li><a href="https://www.ieee.org/profile/vieworder/showOrderHistory.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE Xplore">Order History</a></li>
+				<li><a href="/articleSale/purchaseHistory.jsp">View Purchased Documents</a></li>
+			</ul>
+		</div>
+		<div class="pure-u-1-4">
+			<h3 class="Footer-header">Profile Information</h3>
+			<ul class="Footer-list">
+				<li><a href="https://www.ieee.org/profile/commprefs/showcommPrefpage.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE Xplore">Communications Preferences</a></li>
+				<li><a href="https://www.ieee.org/profile/profedu/getProfEduInformation.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE Xplore">Profession and Education</a></li>
+				<li><a href="https://www.ieee.org/profile/tips/getTipsInfo.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE Xplore">Technical Interests</a></li>
+			</ul>
+		</div>
+		<div class="pure-u-1-4">
+			<h3 class="Footer-header">Need Help?</h3>
+			<ul class="Footer-list">
+				<li><strong>US &amp; Canada:</strong> +1 800 678 4333</li>
+				<li><strong>Worldwide: </strong> +1 732 981 0060<br />
+				</li>
+				<li><a href="/xpl/techform.jsp">Contact &amp; Support</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="pure-g">
+		<div class="pure-u-1 Footer-bottom">
+			<div class="logo-ieee-white u-pullRight"></div>
+			<ul class="Menu Menu--horizontal Menu--dividers u-mb-1">
+				<li class="Menu-item"><a href="/Xplorehelp/about-ieee-xplore.html">About IEEE <em>Xplore</em></a></li>
+				<li class="Menu-item"><a href="/xpl/techform.jsp">Contact Us</a></li>
+				<li class="Menu-item"><a href="/Xplorehelp/Help_start.html" target="blank">Help</a></li>
+				<li class="Menu-item"><a href="/xpl/termsOfUse.jsp">Terms of Use</a></li>
+				<li class="Menu-item"><a href="http://www.ieee.org/web/aboutus/whatis/policies/p9-26.html">Nondiscrimination Policy</a></li>
+				<li class="Menu-item"><a href="/xpl/sitemap.jsp">Sitemap</a></li>
+				<li class="Menu-item"><a href="http://www.ieee.org/about/help/security_privacy.html" target="blank">Privacy &amp; Opting Out of Cookies</a></li>
+			</ul>
+			<p class="Footer-bottom-terms">
+				A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.<br />© Copyright 2017 IEEE - All rights reserved. Use of this web site signifies your agreement to the terms and conditions.
+			</p>
+		</div>
+	</div>
+</div>
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="http://staticieeexplore.ieee.org/assets/css/ie7Sniffer.css" />
+
+
+	
+
+		
+		
+		
+		
+		
+
+
+		
+			
+		
+		
+
+		
+
+		
+		
+
+
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+
+
+
+
+
+
+<div style="width: 1263px;" id="popup_overlay"></div>
+
+<g:compress>
+
+
+
+
+
+
+
+
+		
+		
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/vendor/modernizr/modernizr.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/js/vendor.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+						
+
+
+
+
+
+
+
+
+
+<script>
+	var $j = jQuery.noConflict();
+	var j$ = jQuery.noConflict();
+	var membershipIncomplete;
+    var IS_INDIVIDUAL_USER=false;
+
+	var searchPropertiesParamQueryText = 'queryText';
+	var searchPropertiesParamNewSearch = 'newsearch';
+	var searchPropertiesParamMatchBoolean = 'matchBoolean';
+	var searchPropertiesParamSearchWithin = 'searchWithin';
+	var searchInterfaceArticleIndexTermReference = 'Search_Index_Terms';
+	var searchPropertiesParamRecordsPerPage = 'rowsPerPage';
+	var searchPropertiesParamPageNumber = 'pageNumber';
+	var searchPropertiesParamRemoveRefinement = 'removeRefinement';
+	
+	var authorsGetDisplay = 'Authors';
+	var authorsFirstNameProperty = 'First Name';
+	var authorsLastNameProperty = 'Last Name';
+	var authorsMiddleNameProperty = 'Middle Name';
+	var pubTitleDispNameProperty = 'Publication Title';
+	var volumeDispNameProperty = 'Volume';
+	var issueDispNameProperty = 'Issue';
+	var startPageDispNameProperty = 'Start Page';
+	var endPageDispNameProperty = 'Start Page';
+
+	var searchIcsTermProperty = 'Standards ICS Terms';
+	var searchPropertiesParamSearchField = 'searchField';
+	
+	var searchPropertiesParamNewSearch = 'newsearch';
+	var searchPropertiesParamArticleNumber = 'arnumber';
+	var authorsGetReference = 'p_Authors';
+	var authorsGetDisplay = 'Authors';
+	var authorIdReference = 'p_Author_Ids';
+	var NTPT_IMAGE_LOCATION = 'http://tagxplore.ieee.org/';
+	var XPLORE_HOST = 'ieeexplore.ieee.org';
+	var XPLORE_SSL_HOST = 'https://'+XPLORE_HOST;	
+	var SSL_YES_NO = 'yes';
+	if (SSL_YES_NO.toUpperCase() == "NO"){
+		var XPLORE_SSL_YES_NO = false;
+	}else{
+		var XPLORE_SSL_YES_NO = true;
+	}
+	var WEBSERVICES_SSL_YES_NO = 'yes';
+	if (WEBSERVICES_SSL_YES_NO.toUpperCase() == "NO"){
+		var XPLORE_WEBSERV_YES_NO = false;
+	}else{
+		var XPLORE_WEBSERV_YES_NO = true;
+	}
+	var IBP_MEMBEER_SIGNIN_TIME_WAIT_IN_MILLIES = '800';
+	var ASSETS_RELATIVE_PATH = 'http://staticieeexplore.ieee.org/assets';
+	var ASSETS_RELATIVE_PATH_NO_SERVER = '/assets';
+	var IBP_WS_ASSETS='https://www.ieee.org';
+	var IBP_WS_ENABLED_FLAG = true;
+	var ENTERPRISE_CART_URL = 'https://www.ieee.org/cart/public/myCart/page.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE%20Xplore';
+
+	var SPECIAL_CHARACTER_MAPS = '&amp;:.AND.,=:.EQ.,+:.PLS.,#:.HSH.,(:.LB.,):.RB.,":.QT.,&lt;:.LT.,&gt;:.GT.';
+	var SPECIAL_CHARACTERS = new Array();
+	var SPECIAL_CHARACTER_REPLACEMENTS = new Array();
+	var characterMaps = SPECIAL_CHARACTER_MAPS.split(",");
+	for (var i = 0; i &lt; characterMaps.length; i++) {
+		parts = characterMaps[i].split(":");
+		SPECIAL_CHARACTERS[i] = parts[0];
+		SPECIAL_CHARACTER_REPLACEMENTS[i] = parts[1];
+	}
+
+	var ALL_SEARCH_FIELDS = 'Search_Index_Terms:Index Terms,Search_All_Text:Full Text &amp; Metadata,Search_All:Metadata Only,Search_Publication_Title:Search Publication Title,Search_Publication_Title_ICS_Terms:Search Publication Title ICS Terms,Search_Related_Terms:Search Related Terms,Search_Authors:Author Name,p_Id:Article Number,ID:,p_Module_Number:Module Number,p_Part_Num:Part Num,p_ISSN:ISSN,p_ISBN:ISBN,p_EISBN:EISBN,p_IS_Number:IS Number,p_Accession_Number:Accession Number,p_Article_Number:Article Number,p_Copyright_Holder:Copyright Holder,p_Copyright_Year:Copyright Year,p_Copyright_Type:License,p_Title:Document Title,p_Abstract:Abstract,p_Publication_Number:Publication Number,p_Parent_Publication_Number:Parent Publication Number,p_Parent_Publication_Title:Parent Publication Title,p_Publication_Title:Publication Title,p_Publication_Display_Title:Publication Display Title,p_Volume:Volume,p_Issue:Issue,p_Padded_Issue_Number:Padded Issue Number,p_Part:Part,p_Start_Page:Start Page,p_End_Page:End Page,p_File_Path:File Path,p_Publication_Date:Publication Date,p_Publication_Year:Year,p_Online_Date:Online Date,p_Month:Month,p_Author_Pref_Names:Author Pref Names,p_Author_Norm_Names:Author Norm Names,p_Authors:Authors,p_Author_Ids:Author Ids,p_First_Names:First Name,p_Middle_Names:Middle Name,p_Last_Names:Last Name,p_Author_Affiliations:Author Affiliations,p_Author_Bio:Author Bio,p_Author_Img:Author Img,p_Reference_Count:Reference Count,p_Citation_Count:Citation Count,p_Patent_Count:Patent Count,p_Multimedia_Flag:Multimedia Flag,p_Biomedical_Eng_Flag:Biomedical Eng Flag,p_Non_IEEE:Non IEEE,p_STDS_Product_Number:STDS Product Number,p_Status:Status,p_DOI:DOI,p_Pdf_Path:Pdf Path,p_Pdf_Size:Pdf Size,p_Content_Type:Content Type,p_Publisher:Publisher,p_Controlled_Terms:INSPEC Controlled Terms,p_Free_Terms:INSPEC Non-Controlled Terms,p_IEEE_Terms:IEEE Terms,p_Author_Terms:Author Keywords,p_Mesh_Terms:MeSH Terms,p_PACS_Terms:PACS Terms,p_Insert_Date:Insert Date,Conference_Location:nference Location,p_Index_Content:Index Content,p_CODEN:CODEN,p_Document_Text:Document Text,p_Standard_Number:Standard Number,p_Preprint_Flag:Preprint Flag,p_Rapid_Post_Flag:Rapid Post Flag,p_Last_Update:Last Update,p_New_Flag:New Flag,p_Open_Access_Flag:Open Access Flag,p_Promo_Flag:Promo Flag,p_Pubmed_Id:Pubmed Id,p_Duration:Duration,p_Society:Society,p_Conference:Conference,p_Society_URL:Society URL,p_Id_Subject:Id Subject,p_Book_Number:Book Number,p_Pages:Pages,p_Edition_Number:Edition Number,p_Sequence:Sequence,p_Related_Info_Type:Related Info Type,p_Related_Info:Related Info,p_Format_ISBN:Format ISBN,p_Meeting_Date:Meeting Date,p_Course_level:Course level,p_Course_ID:Course ID,p_About_Url:About Url,p_Additional_Url:Additional Url,p_Authors_Url:Authors Url,p_Open_Access_Url:Open Access Url,p_Open_Access_flag:Open Access flag,p_Partnum_VendorURL_MediaType:Partnum VendorURL MediaType,p_Branding_Image_File:Branding Image File,p_Cover_Image_File:Cover Image File,p_Frequency:Frequency,p_Field_Of_Interest:Field Of Interest,p_G_Parent_Publication_Number:G Parent Publication Number,p_Ms_Url:Ms Url,p_Relationship:Relationship,p_Society_Image:Society Image,p_Visit_Url:Visit Url,p_Visit_Website:Visit Website,p_Start_Year:Start Year,p_End_Year:End Year,p_Record_Type:Record Type,p_Rollup_Key:Rollup Key,p_Epub:Epub,p_Pic_Code_Description:Pic Code Description,p_Pic_Code:Pic Code,p_Sponsors:Sponsors,p_Notes:Notes,p_Conference_Date:Conference Date,p_Publication_Contact:Publication Contact,p_isBuyable:isBuyable,p_Publication_Files:Publication Files,p_Map_Pricing_Key:Map Pricing Key,p_Unavailable_for_Sale:Unavailable for Sale,p_Publication_Sort:Publication Sort,p_Standard_Family:Standard Family,p_Standard_Group:Standard Group,p_Product_Url:Product Url,p_ISBN_MediaType:ISBN MediaType,p_Html_Flag:Html Flag,p_Rightslink_Flag:Rightslink Flag,p_Page_Count:Page Count,p_Name:Name,p_Table_of_Contents:Table of Contents,p_Time_Stamp:Time Stamp,p_Sub_Title:Sub Title,p_Related_Item:Related Item,p_Reference_Material:Reference Material,p_Latest_Issue_Time:Latest Issue Time,p_Search_Latest_Date:Search Latest Date,p_Pbd_Flag:Pbd Flag,p_Lms_Url:Lms Url,p_Current_Volume:Current Volume,p_Graphical_File:Graphical File,p_Graphical_Image:Graphical Cover Image,p_Graphical_Summary:Graphical Summary,p_Graphical_Type:Graphical Type,p_Native_Names:Native Name,p_External_Id:Article Page Number,p_Standard_Bundles:Standard Bundles,p_Standard_Bundle_Parts:Standard Bundle Parts,p_Virtual_Title:Virtual Title,p_Series_Name:Series Name,p_Series_Id:Series Id,p_ML_Html_flag:ML Html flag,p_Promo_Start_Date:Promo Start Date,p_Promo_End_Date:Promo End Date,p_Issue_Complete_Flag:Issue Complete Flag,p_Scope:Scope,p_Purpose:Purpose,p_Standard_Family_Title:Standard Family Title,p_Thumbnail_Img:Thumbnail Img,p_Supplement_File:Supplement File,p_Pdhs:Pdhs,p_Ceus:Ceus,p_FirstFrame_Img:FirstFrame Img,p_Id_Sub_Topic:Id Sub Topic,p_Certificate_Url:Certificate Url,p_Standard_Root:Standard Root,p_ICS_Terms:Standards ICS Terms,p_Impact_Statement:Impact Statement,p_Plagiarized_Flag:Plagiarized Flag,p_Course_Affirmed_Date:Affirmed Date,p_Pdf_Source_Name:Source Pdf,p_Orcid:Author ORCID,p_Algorithm_Flag:Algorithm Flag,p_Funding_Agency:Funding Agency,Type_Ahead_Terms:Type Ahead Terms,IEEE_Term:IEEE Term,Content_Type:Content Type,Author:Author,Affiliation:Affiliation,Topic:Topic,Publication_Title:Publication Title,Publication_Year:Year,Publisher:Publisher,Conference_Country:Conference Country,Conference_Location:Conference Location,Standard_Status:Standard Status,Conference_Year:Conference Year,Publication_Package:Subscribed Content,Standard_Package:Standard Package,Standard_Title:Standard Title,Standard_Term:Standards Dictionary Terms,Publication_Range:Publication Range,Standard_Range:Standard Range,Record_Type:Record Type,Media_Type:Media Type,Book_Type:Book Type,Course_Type:Course Type,Publication_Standard_Range:Publication Standard Range,Perpetual_Year:Perpetual Year,Opac_Title_Range:Opac Title Range,Book_Series:Book Series,Subject_Category:Subject Category,Type_Ahead_Publication:Type Ahead Publication,Sub_Topic:Sub Topic,Course_Duration:Course Duration,Course_Level:Course Level,Standard_Type:Standard Type,Standard_SubType:Standard SubType,Standard_Topic:Standard Topic,Standard_Modifier:Standard Modifier,Ics_Terms_1:Ics Terms 1,Ics_Terms_2:Ics Terms 2,Ics_Terms_3:Ics Terms 3,Supplemental_Items:Supplemental Items';
+	var SEARCH_FIELD_REFERENCES = new Array();
+	var SEARCH_FIELD_DISPLAYS = new Array();
+	var searchFields = ALL_SEARCH_FIELDS.split(",");
+	for (var j = 0; j &lt; searchFields.length; j++) {
+		parts = searchFields[j].split(":");
+		SEARCH_FIELD_REFERENCES[j] = parts[0];
+		SEARCH_FIELD_DISPLAYS[j] = parts[1];
+	}
+	
+	var TEMP_PAGE_TAGGING = 'ON';
+	var wt_domain = 'statse.webtrendslive.com';
+	var wt_dcsid = 'dcs7nlnxvuz5bdjhyiihzogfg_6x8o';
+	var TEMP_SAT_PAGE_TAGGING = 'ON';
+	
+	if(TEMP_PAGE_TAGGING &amp;&amp; TEMP_PAGE_TAGGING == 'ON') {
+		var PAGE_TAGGING = true;
+	} else {
+		var PAGE_TAGGING = false;
+	}
+	
+	if(SAT_PAGE_TAGGING &amp;&amp; SAT_PAGE_TAGGING == 'ON') {
+		var SAT_PAGE_TAGGING = true;
+	} else {
+		var SAT_PAGE_TAGGING = false;
+	}
+	
+	var refSite='http://ieeexplore.ieee.org';
+	var refSiteName="IEEE Xplore";
+	var applicationName = 'Xplore';
+	var MC_OPERATION_DELAY_TIMEOUT='5000';
+	var MC_ADDING_DELAY_MSG='Please wait.The selected item(s) is being added to the cart.';
+	var MC_TIMEOUT='60000';
+	var MC_OPERATION_DELAY_MSG_FLAG='true';
+	
+	//content types
+	var CONTENT_TYPE_PARAM = 'contentType';
+	var CONTENT_TYPE_BOOKS = 'Books &amp; eBooks';
+	var CONTENT_TYPE_COURSES = 'Courses';
+	var CONTENT_TYPE_STANDARDS = 'Standards';
+	var CONTENT_TYPE_CONFERENCES = 'Conference Publications';
+	var CONTENT_TYPE_JOURNALS = 'Journals &amp; Magazines';
+	var CONTENT_TYPE_EARLY_ACCESS = 'Early Access Articles';
+	
+	//User Preferences
+	var citFormat = "";
+	var dlFormat = "";
+</script>
+
+					
+					
+								
+			
+				
+					
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/js/history.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/js/lib/conditional/minicart.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/js/core.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/ng/xpl.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/ng/xpl.product.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/ng/xpl.search.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/ng/xpl.document.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/ng/templates.xpl.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/ng/templates.xpl.product.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/ng/templates.xpl.search.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/ng/templates.xpl.document.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/js/ads.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+				
+					
+					
+								<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/dist/js/master.js?cv=20170523_000000" charset="utf-8"></script>
+					
+								
+			
+		
+	
+
+
+
+
+
+<script>
+
+function getCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i &lt; ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+j$('document').ready(function(){
+	if(getCookie('legacyUserName')!=null)
+	{
+		if(IBP_WS_ENABLED_FLAG){
+		Modal.refreshLegacyAccountTransition('/xpl/mwLegacyAccountTransition.jsp');
+		}
+	}
+});
+
+</script>
+
+
+
+
+
+
+
+
+
+
+<input type="hidden" id="PAGE_TAGGING" value="true" />
+ 
+
+			
+			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			
+
+			<!-- BEGIN: Unica Page Tag -->
+			<!-- Copyright 2004-2006 Unica Corporation.  All rights reserved. -->
+			<script language="JavaScript">
+			var unValue =  '77418';
+			var sid =  '';
+			if (sid){
+				var NTPT_PGEXTRA="un="+unValue+"&amp;ip="+'218.106.154.158'+"&amp;un3="+ sid;
+			} else {
+				var NTPT_PGEXTRA="un="+unValue+"&amp;ip="+'218.106.154.158';
+			}
+			</script>
+
+			<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/js/analytics/customTracking.js?cv=20170523_000000"></script>
+			
+			<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/js/analytics/pagetagPlugin.js?cv=20170523_000000"></script>
+			<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/js/analytics/pagetagEvent.js?cv=20170523_000000"></script>
+
+
+			<!-- END: Unica Page Tag -->
+
+		
+		<!-- BEGIN: ScoutAnalytics -->
+		
+
+
+
+
+
+		<!-- BEGIN: ScoutAnalytics -->
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+					
+			 
+
+		<!-- END: ScoutAnalytics -->
+
+
+</g:compress>
+
+
+
+
+
+
+
+
+		
+			
+					
+			
+					
+			
+					
+			
+				
+					
+
+
+
+
+
+
+
+
+
+<script>
+	// Get/Set XPL namespace.
+	window.xpl = window.xpl || {};
+	
+	// Set constants/application properties.
+	xpl.properties = { 
+			collabratec: { 
+					url: 'https://ieee-collabratec.ieee.org/app/library'
+			}
+	};
+	
+	xpl.properties.details = {
+			oqs: ''
+	};
+</script>
+					
+			
+					
+			
+				
+					
+
+
+
+<script type="text/javascript">
+var body_rightsLink ="", body_publisher = "";
+var recordId = "";
+
+var global = {
+	document: {
+		disqus:{
+			remote_auth_s3 : 'KHt9KQ== fc598d33aa4b56e51e634890d08646f9403dd1f3 1498186793',
+			public_api_key:'1lxKgMbpNIbQvfk2tqLcWeSVloE8rgIY2CV1tCu3Vp641oL4eEITYBbkViJJGNYY',
+			short_name:'ieeexplore',
+			client_url:'http://ieeexplore.ieee.org',
+			sso_enabled:'{$sessionProfile.provisioned}'
+		},
+
+		fullTextAccess: true
+		
+		
+	}
+};
+	
+	global.document.metadata={"userInfo":{"institute":true,"member":false,"individual":false,"guest":false,"subscribedContent":false,"fileCabinetContent":false,"fileCabinetUser":false,"institutionalFileCabinetUser":false,"products":"IOJ|ISOL9|","instType":"Corporate","userIds":[77418],"showPatentCitations":true,"showGet802Link":false,"openUrlImgLoc":"http://staticieeexplore.ieee.org/assets/img/btn.find-in-library.png","openUrlLink":"NA","showOpenUrlLink":false},"authors":[{"name":"Tingqiang Wu","affiliation":"school of University of Electronic Science and Technology of China, Chengdu, China","affiliation":"school of University of Electronic Science and Technology of China, Chengdu, China"},{"name":"Hua Su","affiliation":"School of University of Electronic Science and Technology of China, Chengdu, China","affiliation":"School of University of Electronic Science and Technology of China, Chengdu, China"},{"name":"Liyun Gan","affiliation":"School of University of Electronic Science and Technology of China, Chengdu, China","affiliation":"School of University of Electronic Science and Technology of China, Chengdu, China"},{"name":"Huizhu Chen","affiliation":"School of University of Electronic Science and Technology of China, Chengdu, China","affiliation":"School of University of Electronic Science and Technology of China, Chengdu, China"},{"name":"Jingyao Huang","affiliation":"School of University of Electronic Science and Technology of China, Chengdu, China","affiliation":"School of University of Electronic Science and Technology of China, Chengdu, China"},{"name":"Huaiwu Zhang","affiliation":"School of University of Electronic Science and Technology of China, Chengdu, China","affiliation":"School of University of Electronic Science and Technology of China, Chengdu, China"}],"issn":[{"format":"Print ISSN","value":"1536-1225"},{"format":"Online ISSN","value":"1548-5757"}],"articleNumber":"6513236","dbTime":"3 ms","metrics":{"citationCountPaper":26,"citationCountPatent":0,"totalDownloads":2358},"sponsors":[{"name":"IEEE Antennas and Propagation Society","url":"http://www.ieeeaps.org/"}],"pdfUrl":"/stamp/stamp.jsp?tp=&amp;arnumber=6513236","purchaseOptions":{"showOtherFormatPricingTab":false,"showPdfFormatPricingTab":true,"pdfPricingInfoAvailable":true,"otherPricingInfoAvailable":false,"mandatoryBundle":false,"optionalBundle":false,"pdfPricingInfo":[{"memberPrice":"$14.95","nonMemberPrice":"$33.00","partNumber":"6513236","type":"PDF/HTML"}]},"formulaStrippedArticleTitle":"A Compact and Broadband Microstrip Stacked Patch Antenna With Circular Polarization for 2.45-GHz Mobile RFID Reader","title":"A Compact and Broadband Microstrip Stacked Patch Antenna With Circular Polarization for 2.45-GHz Mobile RFID Reader","abstract":"A compact and broadband microstrip stacked patch antenna with circular polarization (CP) for a mobile 2.45-GHz passive radio frequency identification (RFID) reader is presented. The proposed antenna consists of two stacked patches fed with an S-shaped impedance-matching network (IMN), which is connected by a probe. With the proposed S-shaped IMN feed technique, a good impedance matching and symmetrical broadside radiation patterns could be obtained. The CP operation could be attained simply by the upper parasitic patch rotating 90&amp;#x00B0; sequentially based on the lower patch and truncating corners. Additionally, with four symmetric-L narrow slots on the patches, the compact operation could be obtained. The proposed reader antenna matching is optimized by regulating the sizes of the S-shaped IMN: S&lt;sub&gt;x&lt;/sub&gt; and S&lt;sub&gt;y&lt;/sub&gt;. Experimental results show that the reader antenna of size 58 &amp;#x00D7; 58 &amp;#x00D7; 11 mm&lt;sup&gt;3&lt;/sup&gt; has a 3-dB beamwidth of more than 91&amp;#x00B0;. The peak gain is optimized in the frequency range from 2.31 to 2.56 GHz of larger than 6 dBi, and it achieves 6.32 dBi in the center frequency 2.45 GHz. The voltage standing wave ratio (VSWR) &amp;lt;; 2 impedance bandwidth is larger than 15.1%.","rightsLink":"http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&amp;publication=1536-1225&amp;title=A+Compact+and+Broadband+Microstrip+Stacked+Patch+Antenna+With+Circular+Polarization+for+2.45-GHz+Mobile+RFID+Reader&amp;isbn=&amp;publicationDate=2013&amp;author=Tingqiang+Wu&amp;ContentID=10.1109/LAWP.2013.2261651&amp;orderBeanReset=true&amp;startPage=623&amp;endPage=626&amp;volumeNum=12","displayPublicationTitle":"IEEE Antennas and Wireless Propagation Letters","keywords":[{"type":"IEEE Keywords","kwd":["Radiofrequency identification","Antenna measurements","Bandwidth","Microstrip antennas","Impedance","Dipole antennas"]},{"type":"INSPEC: Controlled Indexing","kwd":["UHF antennas","antenna feeds","antenna radiation patterns","broadband antennas","electromagnetic wave polarisation","impedance matching","microstrip antennas","mobile radio","radiofrequency identification"]},{"type":"INSPEC: Non-Controlled Indexing","kwd":["frequency 2.31 GHz to 2.56 GHz","broadband microstrip stacked patch antenna","circular polarization","mobile RFID reader","CP","passive radio frequency identification reader","S-shaped impedance-matching network","S-shaped IMN feed technique","symmetrical broadside radiation patterns","truncating corners","symmetric-L narrow slots","reader antenna matching","voltage standing wave ratio","VSWR"]},{"type":"Author Keywords ","kwd":["radio frequency identification (RFID) reader antenna","Broadband","circular polarization (CP)","micro strip antenna"]}],"pdfPath":"/iel7/7727/6478802/06513236.pdf","allowComments":false,"pubLink":"/xpl/RecentIssue.jsp?punumber=7727","issueLink":"/xpl/tocresult.jsp?isnumber=6478802","standardTitle":"A Compact and Broadband Microstrip Stacked Patch Antenna With Circular Polarization for 2.45-GHz Mobile RFID Reader","publicationTitle":"IEEE Antennas and Wireless Propagation Letters","endPage":"626","startPage":"623","doi":"10.1109/LAWP.2013.2261651","isJournal":true,"isConference":false,"dateOfInsertion":"14 May 2013","accessionNumber":"13498008","htmlLink":"/document/6513236/","publisher":"IEEE","isEphemera":false,"isOpenAccess":false,"isEarlyAccess":false,"isBook":false,"isSMPTE":false,"isDynamicHtml":true,"isFreeDocument":false,"isCustomDenial":false,"persistentLink":"http://ieeexplore.ieee.org/servlet/opac?punumber=7727","isStaticHtml":true,"isNotDynamicOrStatic":false,"htmlAbstractLink":"/document/6513236/","isPromo":false,"journalDisplayDateOfPublication":"03 May 2013","chronOrPublicationDate":"2013","publicationDate":"2013","conferenceDate":" ","isACM":false,"volume":"12","isStandard":false,"startPage":"623","openAccessFlag":"no","ephemeraFlag":"false","title":"A Compact and Broadband Microstrip Stacked Patch Antenna With Circular Polarization for 2.45-GHz Mobile RFID Reader","confLoc":"","accessionNumber":"13498008","ml_html_flag":"true","html_flag":"true","content_type":"Journals &amp; Magazines","mlTime":"PT0.088283S","chronDate":"2013","xplore-pub-id":"7727","pdfPath":"/iel7/7727/6478802/06513236.pdf","isNumber":"6478802","copyrightYear":"2013","dateOfInsertion":"14 May 2013","contentType":"periodicals","publicationDate":"2013","publicationNumber":"7727","citationCount":"26","copyrightOwner":"IEEE","xplore-issue":"6478802","issue":"","articleId":"6513236","publicationTitle":"IEEE Antennas and Wireless Propagation Letters","sections":{"abstract":"true","authors":"true","figures":"true","multimedia":"false","references":"true","citedby":"true","keywords":"true","algorithm":"false","supplements":"false","footnotes":"false","disclaimer":"false"},"volume":"12","onlineDate":"03 May 2013","conferenceDate":" ","publisher":"IEEE","publicationYear":"2013","subType":"IEEE IEEE Letter","lastupdate":"2016-11-12T00:18:33","mediaPath":"/mediastore/IEEE/content/media/7727/6478802/6513236","endPage":"626","doi":"10.1109/LAWP.2013.2261651"};
+
+
+	global.document.userLoggedIn=true;
+
+
+
+
+
+
+
+</script>
+					
+			
+					
+			
+					
+			
+					
+			
+					
+			
+					
+			
+					
+			
+					
+			
+					
+			
+					
+			
+					
+			
+					
+			
+					
+			
+		
+		
+	
+
+
+
+
+
+	<!--Begin Optional Configuration-->
+	<script type="text/javascript" src="https://www.ieee.org/ieee-mashup/js/common/jquery.json-2.2.min.js"></script>
+	<script type="text/javascript" src="https://www.ieee.org/ieee-mashup/js/common/postmessage.js"></script>
+	<script type="text/javascript" src="https://www.ieee.org/ieee-mashup/js/common/jquery.cookie.js"></script>
+	<script type="text/javascript" src="https://www.ieee.org/ieee-mashup/js/auth/ieee-auth-constants.js"></script>
+	<script type="text/javascript" src="https://www.ieee.org/ieee-mashup/js/auth/ieee-auth-include.js"></script>
+	<script type="text/javascript" src="https://www.ieee.org/ieee-mashup/js/minicart/ieee-mini-cart-constants.js"></script>
+
+
+	<script type="text/javascript" src="https://www.ieee.org/ieee-mashup/js/minicart/ieee-mashup-util.js"></script>
+	<script type="text/javascript" src="https://www.ieee.org/ieee-mashup/js/common/jquery.ba-jqmq.js"></script>
+	<script type="text/javaScript" src="https://www.ieee.org/ieee-mashup/js/minicart/ieee-minicart-include.js"> </script>
+
+	<!--End Optional Configuration-->
+
+
+<!-- Removed due to network issues when loading in China -->
+<!-- <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-5005a435228f9245" async="async"></script>-->
+
+<!-- Load Mathjax and process the document for Mathjax characters -->
+
+
+<script type="text/javascript" src="http://staticieeexplore.ieee.org/xploreAssets/MathJax-2.6.1/MathJax.js?config=default"></script>
+
+
+<script defer="">
+	MathJax.Hub.Queue(["Typeset", MathJax.Hub, document.body]);
+</script>
+
+
+
+
+			<!-- BEGIN: tealium in v2/common/template.jsp. NOTE since we need jQuery in tealiumAnalytics.js, let this include be here after commonjs.jsp include above -->
+			
+
+
+
+
+
+
+		<!-- BEGIN: TealiumAnalytics.jsp -->
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+			
+			
+			
+				
+			
+		
+		
+		
+		
+		
+		
+			
+				
+			
+		
+			
+				
+					
+					
+				
+			
+	
+			
+	
+			
+				
+			
+		
+		
+
+			<script type="text/javascript">
+ 				// tealium config vars
+				var TEALIUM_CONFIG_TAGGING_ENABLED = true;		
+				var TEALIUM_CONFIG_CDN_URL = '//tags.tiqcdn.com/utag/';
+				var TEALIUM_CONFIG_ACCOUNT_PROFILE_ENV = 'ieeexplore/main/prod';
+				
+				// tealium utag_data values for user 
+				var TEALIUM_userType = 'Institute';
+				var TEALIUM_userInstitutionId = '77418';
+				var TEALIUM_userId = '';
+				var TEALIUM_user_third_party = '';
+				
+				var TEALIUM_products = 'IOJ|ISOL9|';
+			</script>
+
+
+			<script type="text/javascript">
+			// asynchronously load tealium's utag.js , which declares tealium JS variables like; utag_data, utag
+			(function(a,b,c,d){
+			
+				a=TEALIUM_CONFIG_CDN_URL + TEALIUM_CONFIG_ACCOUNT_PROFILE_ENV + '/utag.js';
+				b=document;c='script';d=b.createElement(c);d.src=a;
+				d.type='text/java'+c;d.async=true;
+				a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+			})();
+			</script>
+
+			<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/js/analytics/tealiumTagsData.js?cv=20170523_000000"></script>
+			<script type="text/javascript" src="http://staticieeexplore.ieee.org/assets/js/analytics/tealiumAnalytics.js?cv=20170523_000000"></script>
+
+
+		
+ 		
+		<!-- END: TealiumAnalytics.jsp -->
+			 
+
+			<!-- END: tealium in v2/common/template.jsp -->
+
+
+			
+				<script>
+					// set $ alias back to jQuery because noConflict mode is used in legacy pages
+					window.$ = jQuery;
+				</script>
+			
+		</div><!-- /#LayoutWrapper -->
+	
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div><script src="http://staticieeexplore.ieee.org/assets/js/analytics/ntpagetag.min.js" id="ntpagetag"></script><div id="ref_popup" class="ref"></div><div style="position: absolute; width: 0px; height: 0px; overflow: hidden; padding: 0px; border: 0px; margin: 0px;"><div id="MathJax_Font_Test" style="position: absolute; visibility: hidden; top: 0px; left: 0px; width: auto; padding: 0px; border: 0px; margin: 0px; white-space: nowrap; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; font-size: 40px; font-weight: normal; font-style: normal; font-family: MathJax_Size4, monospace;"></div></div></body></html>

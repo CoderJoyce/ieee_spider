@@ -35,7 +35,7 @@ class SpiderMain(object):
         except Exception as e:
             print 'mysql commit failed'
             logging.warning("【【mysql commit failed】】:%s"%str(e))
-            conn.rollback()   #回滚
+#             conn.rollback()   #回滚
                        
         #开始爬取        
         count = 1
@@ -115,7 +115,7 @@ class SpiderMain(object):
                 except Exception as e:
                     print 'mysql commit failed'
                     logging.warning("【【mysql commit failed】】:%s"%str(e))
-                    conn.rollback() #回滚       
+#                     conn.rollback() #回滚（是不是不需要回滚呢??）
 
                 #【用于测试】：控制执行的次数                
 #                 if count == 1:
