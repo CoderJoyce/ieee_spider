@@ -1,4 +1,5 @@
-http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=UHF%20RFID&pageNumber=69&newsearch=true<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class=" js postmessage history draganddrop borderimage borderradius boxshadow textshadow cssgradients csstransforms csstransforms3d csstransitions generatedcontent localstorage sessionstorage"><head><style type="text/css">.uib-position-measure{display:block !important;visibility:hidden !important;position:absolute !important;top:-9999px !important;left:-9999px !important;}.uib-position-scrollbar-measure{position:absolute !important;top:-9999px !important;width:50px !important;height:50px !important;overflow:scroll !important;}.uib-position-body-scrollbar-measure{overflow:scroll !important;}</style><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style><script src="http://pubads.g.doubleclick.net/gampad/ads?gdfp_req=1&amp;correlator=1353081111108800&amp;output=json_html&amp;callback=googletag.impl.pubads.callbackProxy2&amp;impl=fifs&amp;json_a=1&amp;eid=108809107&amp;sc=0&amp;sfv=1-0-9&amp;iu_parts=3890430%2Cxplore_third_party&amp;enc_prev_ius=%2F0%2F1&amp;prev_iu_szs=160x600&amp;prev_scp=usertype%3Dinst%26sub_type%3DIOJ%257CISOL9%257C%26cust_type%3DCorporate%26geoip%3D218.106.154.158%26userid%3D77418%26isinst%3Dtrue%26search%3DUHF%2520RFID%26pu_number%3D%26content_ID%3D&amp;eri=32&amp;cookie_enabled=1&amp;abxe=1&amp;lmt=1497974106&amp;dt=1497974106743&amp;frm=20&amp;biw=1017&amp;bih=691&amp;oid=3&amp;adxs=860&amp;adys=616&amp;adks=1701724687&amp;gut=v2&amp;ifi=3&amp;u_tz=480&amp;u_his=2&amp;u_h=900&amp;u_w=1600&amp;u_ah=860&amp;u_aw=1600&amp;u_cd=24&amp;u_nplug=5&amp;u_nmime=7&amp;u_sd=1&amp;flash=24.0.0&amp;url=http%3A%2F%2Fieeexplore.ieee.org%2Fsearch%2Fsearchresult.jsp%3Freload%3Dtrue%26queryText%3DUHF%2520RFID%26pageNumber%3D69%26newsearch%3Dtrue&amp;dssz=52&amp;icsg=0&amp;std=0&amp;vrg=122&amp;vrp=122&amp;ga_vid=877551852.1497974107&amp;ga_sid=1497974107&amp;ga_hid=1753741003"></script><script src="http://pubads.g.doubleclick.net/gampad/ads?gdfp_req=1&amp;correlator=1353081111108800&amp;output=json_html&amp;callback=googletag.impl.pubads.callbackProxy1&amp;impl=fifs&amp;json_a=1&amp;eid=108809107&amp;sc=0&amp;sfv=1-0-9&amp;iu_parts=3890430%2Cxplore_subscription_leadgen&amp;enc_prev_ius=%2F0%2F1&amp;prev_iu_szs=180x150&amp;prev_scp=usertype%3Dinst%26sub_type%3DIOJ%257CISOL9%257C%26cust_type%3DCorporate%26geoip%3D218.106.154.158%26userid%3D77418%26isinst%3Dtrue%26search%3DUHF%2520RFID%26pu_number%3D%26content_ID%3D&amp;eri=32&amp;cookie_enabled=1&amp;abxe=1&amp;lmt=1497974106&amp;dt=1497974106730&amp;frm=20&amp;biw=1017&amp;bih=691&amp;oid=3&amp;adxs=850&amp;adys=441&amp;adks=3637453152&amp;gut=v2&amp;ifi=1&amp;u_tz=480&amp;u_his=2&amp;u_h=900&amp;u_w=1600&amp;u_ah=860&amp;u_aw=1600&amp;u_cd=24&amp;u_nplug=5&amp;u_nmime=7&amp;u_sd=1&amp;flash=24.0.0&amp;url=http%3A%2F%2Fieeexplore.ieee.org%2Fsearch%2Fsearchresult.jsp%3Freload%3Dtrue%26queryText%3DUHF%2520RFID%26pageNumber%3D69%26newsearch%3Dtrue&amp;dssz=49&amp;icsg=0&amp;std=0&amp;vrg=122&amp;vrp=122&amp;ga_vid=877551852.1497974107&amp;ga_sid=1497974107&amp;ga_hid=1753741003"></script><script async="" src="http://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" charset="utf-8" id="tealium_cormetrics7" src="//libs.coremetrics.com/eluminate.js"></script><script src="//tags.tiqcdn.com/utag/ieeexplore/main/prod/utag.js" type="text/javascript" async=""></script><script async="" type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script><script>
+http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=UHF%20RFID&pageNumber=69&newsearch=true
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class=" js postmessage history draganddrop borderimage borderradius boxshadow textshadow cssgradients csstransforms csstransforms3d csstransitions generatedcontent localstorage sessionstorage"><head><style type="text/css">.uib-position-measure{display:block !important;visibility:hidden !important;position:absolute !important;top:-9999px !important;left:-9999px !important;}.uib-position-scrollbar-measure{position:absolute !important;top:-9999px !important;width:50px !important;height:50px !important;overflow:scroll !important;}.uib-position-body-scrollbar-measure{overflow:scroll !important;}</style><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style><script src="http://pubads.g.doubleclick.net/gampad/ads?gdfp_req=1&amp;correlator=253110969367269&amp;output=json_html&amp;callback=googletag.impl.pubads.callbackProxy2&amp;impl=fifs&amp;json_a=1&amp;eid=108809107%2C21060378&amp;sc=0&amp;sfv=1-0-9&amp;iu_parts=3890430%2Cxplore_third_party&amp;enc_prev_ius=%2F0%2F1&amp;prev_iu_szs=160x600&amp;prev_scp=usertype%3Dinst%26sub_type%3DIOJ%257CISOL9%257C%26cust_type%3DCorporate%26geoip%3D218.106.154.158%26userid%3D77418%26isinst%3Dtrue%26search%3DUHF%2520RFID%26pu_number%3D%26content_ID%3D&amp;eri=32&amp;cookie_enabled=1&amp;abxe=1&amp;lmt=1498248527&amp;dt=1498248527133&amp;frm=20&amp;biw=1017&amp;bih=691&amp;oid=3&amp;adxs=860&amp;adys=616&amp;adks=1701724687&amp;gut=v2&amp;ifi=3&amp;u_tz=480&amp;u_his=2&amp;u_h=900&amp;u_w=1600&amp;u_ah=860&amp;u_aw=1600&amp;u_cd=24&amp;u_nplug=5&amp;u_nmime=7&amp;u_sd=1&amp;flash=24.0.0&amp;url=http%3A%2F%2Fieeexplore.ieee.org%2Fsearch%2Fsearchresult.jsp%3Freload%3Dtrue%26queryText%3DUHF%2520RFID%26pageNumber%3D69%26newsearch%3Dtrue&amp;dssz=52&amp;icsg=0&amp;std=0&amp;vrg=121&amp;vrp=121&amp;ga_vid=1878566802.1498248527&amp;ga_sid=1498248527&amp;ga_hid=830240734"></script><script src="http://pubads.g.doubleclick.net/gampad/ads?gdfp_req=1&amp;correlator=253110969367269&amp;output=json_html&amp;callback=googletag.impl.pubads.callbackProxy1&amp;impl=fifs&amp;json_a=1&amp;eid=108809107%2C21060378&amp;sc=0&amp;sfv=1-0-9&amp;iu_parts=3890430%2Cxplore_subscription_leadgen&amp;enc_prev_ius=%2F0%2F1&amp;prev_iu_szs=180x150&amp;prev_scp=usertype%3Dinst%26sub_type%3DIOJ%257CISOL9%257C%26cust_type%3DCorporate%26geoip%3D218.106.154.158%26userid%3D77418%26isinst%3Dtrue%26search%3DUHF%2520RFID%26pu_number%3D%26content_ID%3D&amp;eri=32&amp;cookie_enabled=1&amp;abxe=1&amp;lmt=1498248527&amp;dt=1498248527122&amp;frm=20&amp;biw=1017&amp;bih=691&amp;oid=3&amp;adxs=850&amp;adys=441&amp;adks=3637453152&amp;gut=v2&amp;ifi=1&amp;u_tz=480&amp;u_his=2&amp;u_h=900&amp;u_w=1600&amp;u_ah=860&amp;u_aw=1600&amp;u_cd=24&amp;u_nplug=5&amp;u_nmime=7&amp;u_sd=1&amp;flash=24.0.0&amp;url=http%3A%2F%2Fieeexplore.ieee.org%2Fsearch%2Fsearchresult.jsp%3Freload%3Dtrue%26queryText%3DUHF%2520RFID%26pageNumber%3D69%26newsearch%3Dtrue&amp;dssz=49&amp;icsg=0&amp;std=0&amp;vrg=121&amp;vrp=121&amp;ga_vid=1878566802.1498248527&amp;ga_sid=1498248527&amp;ga_hid=830240734"></script><script async="" src="http://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" charset="utf-8" id="tealium_cormetrics7" src="//libs.coremetrics.com/eluminate.js"></script><script src="//tags.tiqcdn.com/utag/ieeexplore/main/prod/utag.js" type="text/javascript" async=""></script><script async="" type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script><script>
   var CPK = '6LfZwcgSAAAAAGWTUdAV3VuQHUbQx9vTxwZvt31i';
 </script>
 
@@ -106,11 +107,11 @@ http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=UHF%20RFID&pageNumb
 
 
 
-<script src="http://pubads.g.doubleclick.net/gpt/pubads_impl_122.js" async=""></script><style type="text/css">.MathJax_Preview {color: #888}
+<script src="http://pubads.g.doubleclick.net/gpt/pubads_impl_121.js" async=""></script><style type="text/css">.MathJax_Preview {color: #888}
 #MathJax_Message {position: fixed; left: 1em; bottom: 1.5em; background-color: #E6E6E6; border: 1px solid #959595; margin: 0px; padding: 2px 8px; z-index: 102; color: black; font-size: 80%; width: auto; white-space: nowrap}
 #MathJax_MSIE_Frame {position: absolute; top: 0; left: 0; width: 0px; z-index: 101; border: 0px; margin: 0px; padding: 0px}
 .MathJax_Error {color: #CC0000; font-style: italic}
-</style><script type="text/javascript" async="" charset="utf-8" id="utag_ieeexplore.main_7" src="//tags.tiqcdn.com/utag/ieeexplore/main/prod/utag.7.js?utv=ut4.41.201704221902"></script><script type="text/javascript" async="" charset="utf-8" id="tiqapp" src="//tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=ieeexplore/main/201704221902&amp;cb=1497974083920"></script><style type="text/css">#MathJax_About {position: fixed; left: 50%; width: auto; text-align: center; border: 3px outset; padding: 1em 2em; background-color: #DDDDDD; color: black; cursor: default; font-family: message-box; font-size: 120%; font-style: normal; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; -khtml-border-radius: 15px; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+</style><script type="text/javascript" async="" charset="utf-8" id="utag_ieeexplore.main_7" src="//tags.tiqcdn.com/utag/ieeexplore/main/prod/utag.7.js?utv=ut4.41.201704221902"></script><script type="text/javascript" async="" charset="utf-8" id="tiqapp" src="//tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=ieeexplore/main/201704221902&amp;cb=1498248525001"></script><style type="text/css">#MathJax_About {position: fixed; left: 50%; width: auto; text-align: center; border: 3px outset; padding: 1em 2em; background-color: #DDDDDD; color: black; cursor: default; font-family: message-box; font-size: 120%; font-style: normal; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; -khtml-border-radius: 15px; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
 #MathJax_About.MathJax_MousePost {outline: none}
 .MathJax_Menu {position: absolute; background-color: white; color: black; width: auto; padding: 2px; border: 1px solid #CCCCCC; margin: 0; cursor: default; font: menu; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
 .MathJax_MenuItem {padding: 2px 2em; background: transparent}
@@ -135,11 +136,11 @@ http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=UHF%20RFID&pageNumb
 .MathJax_MenuClose:hover {color: white!important; border: 2px solid #CCC!important}
 .MathJax_MenuClose:hover span {background-color: #CCC!important}
 .MathJax_MenuClose:hover:focus {outline: none}
-</style><style type="text/css">#MathJax_Zoom {position: absolute; background-color: #F0F0F0; overflow: auto; display: block; z-index: 301; padding: .5em; border: 1px solid black; margin: 0; font-weight: normal; font-style: normal; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; box-shadow: 5px 5px 15px #AAAAAA; -webkit-box-shadow: 5px 5px 15px #AAAAAA; -moz-box-shadow: 5px 5px 15px #AAAAAA; -khtml-box-shadow: 5px 5px 15px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+</style><script language="javascript" type="text/javascript" src="http://libs.coremetrics.com/configs/52820000.js"></script><style type="text/css">#MathJax_Zoom {position: absolute; background-color: #F0F0F0; overflow: auto; display: block; z-index: 301; padding: .5em; border: 1px solid black; margin: 0; font-weight: normal; font-style: normal; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; box-shadow: 5px 5px 15px #AAAAAA; -webkit-box-shadow: 5px 5px 15px #AAAAAA; -moz-box-shadow: 5px 5px 15px #AAAAAA; -khtml-box-shadow: 5px 5px 15px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
 #MathJax_ZoomOverlay {position: absolute; left: 0; top: 0; z-index: 300; display: inline-block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
 #MathJax_ZoomFrame {position: relative; display: inline-block; height: 0; width: 0}
 #MathJax_ZoomEventTrap {position: absolute; left: 0; top: 0; z-index: 302; display: inline-block; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
-</style><script language="javascript" type="text/javascript" src="http://libs.coremetrics.com/configs/52820000.js"></script><script language="javascript" type="text/javascript" src="http://tmscdn.coremetrics.com/tms/dispatcher-v3.js"></script><script src="https://libs.coremetrics.com/ddxlibs/yahoo-min.js" type="text/javascript"></script><script src="http://tmscdn.coremetrics.com/tms/52820000/cp-v3.js?__t=20170620235508615" type="text/javascript"></script><script src="https://libs.coremetrics.com/ddxlibs/json-min.js" type="text/javascript"></script></head><body><div id="MathJax_Message" style="display: none;"></div><g:compress>
+</style><script language="javascript" type="text/javascript" src="http://tmscdn.coremetrics.com/tms/dispatcher-v3.js"></script><script src="https://libs.coremetrics.com/ddxlibs/yahoo-min.js" type="text/javascript"></script><script src="http://tmscdn.coremetrics.com/tms/52820000/cp-v3.js?__t=20170624040848227" type="text/javascript"></script><script src="https://libs.coremetrics.com/ddxlibs/json-min.js" type="text/javascript"></script></head><body><div id="MathJax_Message" style="display: none;"></div><g:compress>
 	<link rel="stylesheet" href="http://staticieeexplore.ieee.org/assets/css/simplePassMeter.min.css?cv=20170523_000000" />
 	<link rel="stylesheet" type="text/css" media="screen, print" href="http://staticieeexplore.ieee.org/assets/css/styles.css?cv=20170523_000000" />
 	<link rel="stylesheet" href="http://staticieeexplore.ieee.org/assets/vendor/swiper/dist/idangerous.swiper.css" />
@@ -775,7 +776,7 @@ document.write('&lt;base href="/search/searchresult.jsp" /&gt;');
 		<!-- ngIf: !vm.loading --><div class="pure-u-1-1 Dashboard-header ng-scope" ng-if="!vm.loading">
 			<!-- ngIf: !vm.totalRecords -->
 			<!-- ngIf: vm.totalRecords === 1 -->
-			<!-- ngIf: vm.totalRecords > 1 --><span ng-if="vm.totalRecords &gt; 1" class="ng-binding ng-scope">Displaying results 1,701-1,725 of 3,144</span><!-- end ngIf: vm.totalRecords > 1 -->
+			<!-- ngIf: vm.totalRecords > 1 --><span ng-if="vm.totalRecords &gt; 1" class="ng-binding ng-scope">Displaying results 1,701-1,725 of 3,147</span><!-- end ngIf: vm.totalRecords > 1 -->
 			<!-- ngIf: vm.terms --><span ng-if="vm.terms" class="ng-scope"> for <strong><div class="Breadcrumb-collection js-collection ng-isolate-scope Breadcrumb--search" ng-class="{'Breadcrumb--search': breadcrumb.type === 'search'}" breadcrumb="vm.terms">
 	<!-- ngIf: breadcrumb.type !== 'search' -->
 	<!-- type-search -->
@@ -890,7 +891,7 @@ document.write('&lt;base href="/search/searchresult.jsp" /&gt;');
 					<span class="refinement-label">
 					<span ng-bind-html="::item.name" class="ng-binding">Conference Publications</span>
 						<!-- ngIf: parseInt(item.numRecords) > 0 --><span ng-if="parseInt(item.numRecords) &gt; 0" class="ng-binding ng-scope">
-							 (2,467)
+							 (2,469)
 						</span><!-- end ngIf: parseInt(item.numRecords) > 0 -->
 						<!-- ngIf: parseInt(item.numRolledUpRecords) > 0 -->
 					</span>
@@ -912,7 +913,7 @@ document.write('&lt;base href="/search/searchresult.jsp" /&gt;');
 					<span class="refinement-label">
 					<span ng-bind-html="::item.name" class="ng-binding">Early Access Articles</span>
 						<!-- ngIf: parseInt(item.numRecords) > 0 --><span ng-if="parseInt(item.numRecords) &gt; 0" class="ng-binding ng-scope">
-							 (12)
+							 (13)
 						</span><!-- end ngIf: parseInt(item.numRecords) > 0 -->
 						<!-- ngIf: parseInt(item.numRolledUpRecords) > 0 -->
 					</span>
@@ -1297,7 +1298,7 @@ document.write('&lt;base href="/search/searchresult.jsp" /&gt;');
 					<span class="refinement-label">
 					<span ng-bind-html="::item.name" class="ng-binding">IEEE</span>
 						<!-- ngIf: parseInt(item.numRecords) > 0 --><span ng-if="parseInt(item.numRecords) &gt; 0" class="ng-binding ng-scope">
-							 (2,966)
+							 (2,969)
 						</span><!-- end ngIf: parseInt(item.numRecords) > 0 -->
 						<!-- ngIf: parseInt(item.numRolledUpRecords) > 0 -->
 					</span>
@@ -1520,6 +1521,158 @@ document.write('&lt;base href="/search/searchresult.jsp" /&gt;');
 		<div class="article-list List-results ng-isolate-scope" xpl-lazy-load="vm.appendRecords()" error="vm.error" loading="vm.loading" length="vm.data.records.length" suggestions="vm.data.suggestions" terms="vm.searchTerms">
 	<div ng-transclude="">
 			<!-- ngRepeat: record in vm.records track by record.articleNumber --><div class="List-results-items ng-scope" ng-repeat="record in vm.records track by record.articleNumber">
+				<xpl-result record="::record" records="::vm.data.records" user="::vm.user" selected-items="vm.selectedItems" bulk-selected-items="vm.bulkSelectedItems" class="ng-isolate-scope"><div class="pure-g">
+	<div class="pure-u-1-24">
+		<!-- ngIf: ::record.showCheckbox --><input type="checkbox" class="search-results-group ng-scope" ng-if="::record.showCheckbox" ng-checked="isSelected()" ng-click="toggleSelect()" /><!-- end ngIf: ::record.showCheckbox -->
+	</div>
+	<div class="pure-u-22-24" xpl-displayer="">
+		<h2>
+			<!-- ngIf: ::record.ephemera -->
+			<!-- ngIf: ::(!(record.ephemera)) --><a ng-if="::(!(record.ephemera))" href="/document/7571424/" xpl-highlight="" ng-bind-html="::record.title.replace('Redline','&lt;font color=\'red\'&gt;Redline&lt;/font&gt;')" mathjax-bind="" class="ng-binding ng-scope">Robustness of wearable <span class="highlight">UHF</span>-band ungrounded antennas to human-body proximity</a><!-- end ngIf: ::(!(record.ephemera)) -->
+		</h2>
+		<!-- ngIf: ::user.showMeta --><p class="author ng-scope" ng-if="::user.showMeta">
+			<!-- ngRepeat: author in ::record.authors --><span ng-repeat="author in ::record.authors" class="ng-scope">
+				<a ng-href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.F.%20Tucconi.QT.&amp;newsearch=true" xpl-highlight="" href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.F.%20Tucconi.QT.&amp;newsearch=true"><span ng-bind-html="::author.preferredName" class="ng-binding">F. Tucconi</span><!-- ngIf: ::author.nativeName --></a><!-- ngIf: ::(($index + 1) !== record.authors.length) --><span ng-if="::(($index + 1) !== record.authors.length)" class="ng-scope">; </span><!-- end ngIf: ::(($index + 1) !== record.authors.length) -->
+			</span><!-- end ngRepeat: author in ::record.authors --><span ng-repeat="author in ::record.authors" class="ng-scope">
+				<a ng-href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.G.%20A.%20Casula.QT.&amp;newsearch=true" xpl-highlight="" href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.G.%20A.%20Casula.QT.&amp;newsearch=true"><span ng-bind-html="::author.preferredName" class="ng-binding">G. A. Casula</span><!-- ngIf: ::author.nativeName --></a><!-- ngIf: ::(($index + 1) !== record.authors.length) --><span ng-if="::(($index + 1) !== record.authors.length)" class="ng-scope">; </span><!-- end ngIf: ::(($index + 1) !== record.authors.length) -->
+			</span><!-- end ngRepeat: author in ::record.authors --><span ng-repeat="author in ::record.authors" class="ng-scope">
+				<a ng-href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.G.%20Montisci.QT.&amp;newsearch=true" xpl-highlight="" href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.G.%20Montisci.QT.&amp;newsearch=true"><span ng-bind-html="::author.preferredName" class="ng-binding">G. Montisci</span><!-- ngIf: ::author.nativeName --></a><!-- ngIf: ::(($index + 1) !== record.authors.length) --><span ng-if="::(($index + 1) !== record.authors.length)" class="ng-scope">; </span><!-- end ngIf: ::(($index + 1) !== record.authors.length) -->
+			</span><!-- end ngRepeat: author in ::record.authors --><span ng-repeat="author in ::record.authors" class="ng-scope">
+				<a ng-href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.G.%20Mazzarella.QT.&amp;newsearch=true" xpl-highlight="" href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.G.%20Mazzarella.QT.&amp;newsearch=true"><span ng-bind-html="::author.preferredName" class="ng-binding">G. Mazzarella</span><!-- ngIf: ::author.nativeName --></a><!-- ngIf: ::(($index + 1) !== record.authors.length) -->
+			</span><!-- end ngRepeat: author in ::record.authors -->
+		</p><!-- end ngIf: ::user.showMeta -->
+		<div class="description u-mb-1">
+			<!-- ngIf: ::user.showMeta --><a ng-if="::user.showMeta" ng-href="/xpl/mostRecentIssue.jsp?punumber=7565240" xpl-highlight="" ng-hide="::record.handleProduct" ng-bind-html="::record.displayPublicationTitle" class="ng-binding ng-scope" href="/xpl/mostRecentIssue.jsp?punumber=7565240" aria-hidden="false">2016 URSI International Symposium on Electromagnetic Theory (EMTS)</a><!-- end ngIf: ::user.showMeta -->
+			<!-- ngIf: ::((record.publicationYear || record.volume || record.issue) && user.showMeta && !record.vj) --><div ng-if="::((record.publicationYear || record.volume || record.issue) &amp;&amp; user.showMeta &amp;&amp; !record.vj)" ng-hide="::record.handleProduct" class="ng-scope" aria-hidden="false">
+				<!-- ngIf: ::record.publicationYear --><span ng-if="::record.publicationYear" xpl-highlight="" class="ng-binding ng-scope">Year: 2016</span><!-- end ngIf: ::record.publicationYear --><!-- ngIf: ::record.affirmedDate --><!-- ngIf: ::record.volume --><!-- ngIf: ::record.issue -->
+			</div><!-- end ngIf: ::((record.publicationYear || record.volume || record.issue) && user.showMeta && !record.vj) -->
+			<!-- ngIf: ::((record.externalId || record.startPage || record.endPage || record.doi) && user.showMeta) --><div ng-if="::((record.externalId || record.startPage || record.endPage || record.doi) &amp;&amp; user.showMeta)" ng-hide="::record.handleProduct" class="ng-scope" aria-hidden="false">
+				<!-- ngIf: ::record.externalId --><!-- ngIf: ::!record.externalId --><span ng-if="::!record.externalId" class="ng-scope"><!-- ngIf: ::(record.startPage || record.endPage) --><span ng-if="::(record.startPage || record.endPage)" class="ng-scope">Page<!-- ngIf: ::record.endPage --><span ng-if="::record.endPage" class="ng-scope">s</span><!-- end ngIf: ::record.endPage -->:</span><!-- end ngIf: ::(record.startPage || record.endPage) --> <!-- ngIf: ::record.startPage --><span ng-if="::record.startPage" xpl-highlight="" class="ng-binding ng-scope">454</span><!-- end ngIf: ::record.startPage --><!-- ngIf: ::(record.startPage && record.endPage) --><span ng-if="::(record.startPage &amp;&amp; record.endPage)" class="ng-scope"> - </span><!-- end ngIf: ::(record.startPage && record.endPage) --><!-- ngIf: ::record.endPage --><span ng-if="::record.endPage" xpl-highlight="" class="ng-binding ng-scope">456</span><!-- end ngIf: ::record.endPage --></span><!-- end ngIf: ::!record.externalId --><!-- ngIf: ::record.doi --><span ng-if="::record.doi" class="ng-scope"><!-- ngIf: ::(record.externalId || record.startPage || record.endPage) --><span ng-if="::(record.externalId || record.startPage || record.endPage)" class="ng-scope">, </span><!-- end ngIf: ::(record.externalId || record.startPage || record.endPage) -->DOI: <a ng-href="https://doi.org/10.1109/URSI-EMTS.2016.7571424" xpl-highlight="" class="ng-binding" href="https://doi.org/10.1109/URSI-EMTS.2016.7571424">10.1109/URSI-EMTS.2016.7571424</a></span><!-- end ngIf: ::record.doi -->
+			</div><!-- end ngIf: ::((record.externalId || record.startPage || record.endPage || record.doi) && user.showMeta) -->
+
+			<div ng-show="::(record.virtualJournals &amp;&amp; user.showMeta)" aria-hidden="true" class="ng-hide">
+				Referenced in: <!-- ngRepeat: vj_pub in record.virtualJournals -->
+			</div>
+			<!-- ngIf: ::((record.citationCount || record.patentCitationCount) && user.showMeta) -->
+			<div xpl-highlight="">
+				<strong class="ng-binding">IEEE Conference Publications</strong> <!-- ngIf: ::record.redline -->
+				
+			</div>
+		</div>
+		<!-- ngIf: ::!record.vj --><ul class="List List--horizontal ng-scope" ng-if="::!record.vj" ​="">
+			<!-- ngIf: ::(record.abstract && !record.ephemera) --><li class="List-item u-mr-2 ng-scope" ng-if="::(record.abstract &amp;&amp; !record.ephemera)">
+				<a class="js-displayer-control abstract-control" ng-class="{'active': user.openAbstract}">
+					<i class="icon-caret-abstract"></i><span>Abstract</span>
+				</a>
+			</li><!-- end ngIf: ::(record.abstract && !record.ephemera) -->
+			<!-- ngIf: ::record.showHtml --><li class="List-item u-mr-2 ng-scope" ng-if="::record.showHtml">
+				<a href="/document/7571424/" data-artnum="7571424" ng-attr-data-bkn="{{::record.articleContentType === 'Books &amp; eBooks' ? record.publicationNumber : false}}" data-url="/document/7571424/" class="icon-html" ng-class="{'open-html': record.accessType.type === 'file-cabinet'}" data-bkn="false"></a>
+			</li><!-- end ngIf: ::record.showHtml -->
+			<!-- ngIf: ::record.pdfLink --><li class="List-item u-mr-2 ng-scope" ng-if="::record.pdfLink" ng-hide="::record.handleProduct" aria-hidden="false">
+				<!-- ngIf: ::record.pdfLinkLabel -->
+				<!-- ngIf: ::(!record.pdfLinkLabel) --><div class="u-flex-display-flex u-flex-align-items-center ng-scope" ng-if="::(!record.pdfLinkLabel)">
+					<!-- ngIf: ::record.pdfLink --><a href="/stamp/stamp.jsp?tp=&amp;arnumber=7571424" data-artnum="7571424" ng-attr-data-bkn="{{::record.articleContentType === 'Books &amp; eBooks' ? record.publicationNumber : false}}" class="icon-pdf ng-scope" ng-class="{'open-pdf': record.accessType.type === 'file-cabinet'}" ng-if="::record.pdfLink" data-bkn="false"></a><!-- end ngIf: ::record.pdfLink -->
+					<!-- ngIf: ::record.pdfSize --><span class="pdf-size-display ng-binding ng-scope" ng-if="::record.pdfSize">(333 Kb)</span><!-- end ngIf: ::record.pdfSize -->
+				</div><!-- end ngIf: ::(!record.pdfLinkLabel) -->
+			</li><!-- end ngIf: ::record.pdfLink -->
+			<!-- ngIf: ::record.course -->
+			<!-- ngIf: ::record.rightslinkFlag --><li class="List-item u-mr-2 stats-SearchResults_DocResult_Exit_ReqPermission ng-scope" ng-if="::record.rightslinkFlag">
+				<a class="icon-copyright" ng-click="pdfPopup(record.rightsLink,'RightsLink')" title="Request permission for commercial reuse"></a>
+			</li><!-- end ngIf: ::record.rightslinkFlag -->
+			<!-- ngIf: ::!record.rightslinkFlag && !record.vj -->
+			<!-- ngIf: ::record.multiMediaLink -->
+			<!-- ngIf: ::record.showAlgorithm -->
+		</ul><!-- end ngIf: ::!record.vj -->
+		<!-- ngIf: ::(record.abstract && !record.ephemera) --><div class="js-displayer-content u-mt-1 stats-SearchResults_DocResult_ViewMore ng-scope hide" ng-class="{'hide': !user.openAbstract}" ng-if="::(record.abstract &amp;&amp; !record.ephemera)" xpl-highlight="">
+			<span ng-bind-html="::record.abstract" class="ng-binding">Several wearable antennas suitable for implementation of <span class="highlight">UHF</span>-<span class="highlight">RFID</span> tags have been presented in the open scientific literature, showing a good robustness with respect to the body coupling effect, both on the input matching and on the antenna efficiency. In this work, a numerical investigation is presented in order to highlight that the robustness of the existing solutions for wearable, u...</span>
+			<a ng-href="/document/7571424/" href="/document/7571424/">View more</a>
+		</div><!-- end ngIf: ::(record.abstract && !record.ephemera) -->
+	</div>
+	<div class="pure-u-1-24">
+		<span class="icon-access-locked" title="Full text access may be available. Click article title to sign in or learn about subscription options."></span>
+		<span>
+			<!-- ngIf: ::record.openUrlLink -->
+		</span>
+	</div>
+</div>
+</xpl-result>
+			</div><!-- end ngRepeat: record in vm.records track by record.articleNumber --><div class="List-results-items ng-scope" ng-repeat="record in vm.records track by record.articleNumber">
+				<xpl-result record="::record" records="::vm.data.records" user="::vm.user" selected-items="vm.selectedItems" bulk-selected-items="vm.bulkSelectedItems" class="ng-isolate-scope"><div class="pure-g">
+	<div class="pure-u-1-24">
+		<!-- ngIf: ::record.showCheckbox --><input type="checkbox" class="search-results-group ng-scope" ng-if="::record.showCheckbox" ng-checked="isSelected()" ng-click="toggleSelect()" /><!-- end ngIf: ::record.showCheckbox -->
+	</div>
+	<div class="pure-u-22-24" xpl-displayer="">
+		<h2>
+			<!-- ngIf: ::record.ephemera -->
+			<!-- ngIf: ::(!(record.ephemera)) --><a ng-if="::(!(record.ephemera))" href="/document/7564741/" xpl-highlight="" ng-bind-html="::record.title.replace('Redline','&lt;font color=\'red\'&gt;Redline&lt;/font&gt;')" mathjax-bind="" class="ng-binding ng-scope">Time aware closed form frame slotted ALOHA frame length optimization</a><!-- end ngIf: ::(!(record.ephemera)) -->
+		</h2>
+		<!-- ngIf: ::user.showMeta --><p class="author ng-scope" ng-if="::user.showMeta">
+			<!-- ngRepeat: author in ::record.authors --><span ng-repeat="author in ::record.authors" class="ng-scope">
+				<a ng-href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Hazem%20A.%20Ahmed.QT.&amp;newsearch=true" xpl-highlight="" href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Hazem%20A.%20Ahmed.QT.&amp;newsearch=true"><span ng-bind-html="::author.preferredName" class="ng-binding">Hazem A. Ahmed</span><!-- ngIf: ::author.nativeName --></a><!-- ngIf: ::(($index + 1) !== record.authors.length) --><span ng-if="::(($index + 1) !== record.authors.length)" class="ng-scope">; </span><!-- end ngIf: ::(($index + 1) !== record.authors.length) -->
+			</span><!-- end ngRepeat: author in ::record.authors --><span ng-repeat="author in ::record.authors" class="ng-scope">
+				<a ng-href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Hamed%20Salah.QT.&amp;newsearch=true" xpl-highlight="" href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Hamed%20Salah.QT.&amp;newsearch=true"><span ng-bind-html="::author.preferredName" class="ng-binding">Hamed Salah</span><!-- ngIf: ::author.nativeName --></a><!-- ngIf: ::(($index + 1) !== record.authors.length) --><span ng-if="::(($index + 1) !== record.authors.length)" class="ng-scope">; </span><!-- end ngIf: ::(($index + 1) !== record.authors.length) -->
+			</span><!-- end ngRepeat: author in ::record.authors --><span ng-repeat="author in ::record.authors" class="ng-scope">
+				<a ng-href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Joerg%20Robert.QT.&amp;newsearch=true" xpl-highlight="" href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Joerg%20Robert.QT.&amp;newsearch=true"><span ng-bind-html="::author.preferredName" class="ng-binding">Joerg Robert</span><!-- ngIf: ::author.nativeName --></a><!-- ngIf: ::(($index + 1) !== record.authors.length) --><span ng-if="::(($index + 1) !== record.authors.length)" class="ng-scope">; </span><!-- end ngIf: ::(($index + 1) !== record.authors.length) -->
+			</span><!-- end ngRepeat: author in ::record.authors --><span ng-repeat="author in ::record.authors" class="ng-scope">
+				<a ng-href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Albert%20Heuberger.QT.&amp;newsearch=true" xpl-highlight="" href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Albert%20Heuberger.QT.&amp;newsearch=true"><span ng-bind-html="::author.preferredName" class="ng-binding">Albert Heuberger</span><!-- ngIf: ::author.nativeName --></a><!-- ngIf: ::(($index + 1) !== record.authors.length) -->
+			</span><!-- end ngRepeat: author in ::record.authors -->
+		</p><!-- end ngIf: ::user.showMeta -->
+		<div class="description u-mb-1">
+			<!-- ngIf: ::user.showMeta --><a ng-if="::user.showMeta" ng-href="/xpl/mostRecentIssue.jsp?punumber=7536276" xpl-highlight="" ng-hide="::record.handleProduct" ng-bind-html="::record.displayPublicationTitle" class="ng-binding ng-scope" href="/xpl/mostRecentIssue.jsp?punumber=7536276" aria-hidden="false">2016 IEEE Wireless Communications and Networking Conference</a><!-- end ngIf: ::user.showMeta -->
+			<!-- ngIf: ::((record.publicationYear || record.volume || record.issue) && user.showMeta && !record.vj) --><div ng-if="::((record.publicationYear || record.volume || record.issue) &amp;&amp; user.showMeta &amp;&amp; !record.vj)" ng-hide="::record.handleProduct" class="ng-scope" aria-hidden="false">
+				<!-- ngIf: ::record.publicationYear --><span ng-if="::record.publicationYear" xpl-highlight="" class="ng-binding ng-scope">Year: 2016</span><!-- end ngIf: ::record.publicationYear --><!-- ngIf: ::record.affirmedDate --><!-- ngIf: ::record.volume --><!-- ngIf: ::record.issue -->
+			</div><!-- end ngIf: ::((record.publicationYear || record.volume || record.issue) && user.showMeta && !record.vj) -->
+			<!-- ngIf: ::((record.externalId || record.startPage || record.endPage || record.doi) && user.showMeta) --><div ng-if="::((record.externalId || record.startPage || record.endPage || record.doi) &amp;&amp; user.showMeta)" ng-hide="::record.handleProduct" class="ng-scope" aria-hidden="false">
+				<!-- ngIf: ::record.externalId --><!-- ngIf: ::!record.externalId --><span ng-if="::!record.externalId" class="ng-scope"><!-- ngIf: ::(record.startPage || record.endPage) --><span ng-if="::(record.startPage || record.endPage)" class="ng-scope">Page<!-- ngIf: ::record.endPage --><span ng-if="::record.endPage" class="ng-scope">s</span><!-- end ngIf: ::record.endPage -->:</span><!-- end ngIf: ::(record.startPage || record.endPage) --> <!-- ngIf: ::record.startPage --><span ng-if="::record.startPage" xpl-highlight="" class="ng-binding ng-scope">1</span><!-- end ngIf: ::record.startPage --><!-- ngIf: ::(record.startPage && record.endPage) --><span ng-if="::(record.startPage &amp;&amp; record.endPage)" class="ng-scope"> - </span><!-- end ngIf: ::(record.startPage && record.endPage) --><!-- ngIf: ::record.endPage --><span ng-if="::record.endPage" xpl-highlight="" class="ng-binding ng-scope">5</span><!-- end ngIf: ::record.endPage --></span><!-- end ngIf: ::!record.externalId --><!-- ngIf: ::record.doi --><span ng-if="::record.doi" class="ng-scope"><!-- ngIf: ::(record.externalId || record.startPage || record.endPage) --><span ng-if="::(record.externalId || record.startPage || record.endPage)" class="ng-scope">, </span><!-- end ngIf: ::(record.externalId || record.startPage || record.endPage) -->DOI: <a ng-href="https://doi.org/10.1109/WCNC.2016.7564741" xpl-highlight="" class="ng-binding" href="https://doi.org/10.1109/WCNC.2016.7564741">10.1109/WCNC.2016.7564741</a></span><!-- end ngIf: ::record.doi -->
+			</div><!-- end ngIf: ::((record.externalId || record.startPage || record.endPage || record.doi) && user.showMeta) -->
+
+			<div ng-show="::(record.virtualJournals &amp;&amp; user.showMeta)" aria-hidden="true" class="ng-hide">
+				Referenced in: <!-- ngRepeat: vj_pub in record.virtualJournals -->
+			</div>
+			<!-- ngIf: ::((record.citationCount || record.patentCitationCount) && user.showMeta) -->
+			<div xpl-highlight="">
+				<strong class="ng-binding">IEEE Conference Publications</strong> <!-- ngIf: ::record.redline -->
+				
+			</div>
+		</div>
+		<!-- ngIf: ::!record.vj --><ul class="List List--horizontal ng-scope" ng-if="::!record.vj" ​="">
+			<!-- ngIf: ::(record.abstract && !record.ephemera) --><li class="List-item u-mr-2 ng-scope" ng-if="::(record.abstract &amp;&amp; !record.ephemera)">
+				<a class="js-displayer-control abstract-control" ng-class="{'active': user.openAbstract}">
+					<i class="icon-caret-abstract"></i><span>Abstract</span>
+				</a>
+			</li><!-- end ngIf: ::(record.abstract && !record.ephemera) -->
+			<!-- ngIf: ::record.showHtml --><li class="List-item u-mr-2 ng-scope" ng-if="::record.showHtml">
+				<a href="/document/7564741/" data-artnum="7564741" ng-attr-data-bkn="{{::record.articleContentType === 'Books &amp; eBooks' ? record.publicationNumber : false}}" data-url="/document/7564741/" class="icon-html" ng-class="{'open-html': record.accessType.type === 'file-cabinet'}" data-bkn="false"></a>
+			</li><!-- end ngIf: ::record.showHtml -->
+			<!-- ngIf: ::record.pdfLink --><li class="List-item u-mr-2 ng-scope" ng-if="::record.pdfLink" ng-hide="::record.handleProduct" aria-hidden="false">
+				<!-- ngIf: ::record.pdfLinkLabel -->
+				<!-- ngIf: ::(!record.pdfLinkLabel) --><div class="u-flex-display-flex u-flex-align-items-center ng-scope" ng-if="::(!record.pdfLinkLabel)">
+					<!-- ngIf: ::record.pdfLink --><a href="/stamp/stamp.jsp?tp=&amp;arnumber=7564741" data-artnum="7564741" ng-attr-data-bkn="{{::record.articleContentType === 'Books &amp; eBooks' ? record.publicationNumber : false}}" class="icon-pdf ng-scope" ng-class="{'open-pdf': record.accessType.type === 'file-cabinet'}" ng-if="::record.pdfLink" data-bkn="false"></a><!-- end ngIf: ::record.pdfLink -->
+					<!-- ngIf: ::record.pdfSize --><span class="pdf-size-display ng-binding ng-scope" ng-if="::record.pdfSize">(551 Kb)</span><!-- end ngIf: ::record.pdfSize -->
+				</div><!-- end ngIf: ::(!record.pdfLinkLabel) -->
+			</li><!-- end ngIf: ::record.pdfLink -->
+			<!-- ngIf: ::record.course -->
+			<!-- ngIf: ::record.rightslinkFlag --><li class="List-item u-mr-2 stats-SearchResults_DocResult_Exit_ReqPermission ng-scope" ng-if="::record.rightslinkFlag">
+				<a class="icon-copyright" ng-click="pdfPopup(record.rightsLink,'RightsLink')" title="Request permission for commercial reuse"></a>
+			</li><!-- end ngIf: ::record.rightslinkFlag -->
+			<!-- ngIf: ::!record.rightslinkFlag && !record.vj -->
+			<!-- ngIf: ::record.multiMediaLink -->
+			<!-- ngIf: ::record.showAlgorithm -->
+		</ul><!-- end ngIf: ::!record.vj -->
+		<!-- ngIf: ::(record.abstract && !record.ephemera) --><div class="js-displayer-content u-mt-1 stats-SearchResults_DocResult_ViewMore ng-scope hide" ng-class="{'hide': !user.openAbstract}" ng-if="::(record.abstract &amp;&amp; !record.ephemera)" xpl-highlight="">
+			<span ng-bind-html="::record.abstract" class="ng-binding">Calculating the optimal frame length for Frame Slotted ALOHA in <span class="highlight">RFID</span> systems is a critical issue as it highly affects the reading efficiency, and hence the reading time. Most previous studies have focused mainly on the conventional definition of the reading efficiency, which is the ratio between the number of successful slots and the total number of slots (frame length). However, the duratio...</span>
+			<a ng-href="/document/7564741/" href="/document/7564741/">View more</a>
+		</div><!-- end ngIf: ::(record.abstract && !record.ephemera) -->
+	</div>
+	<div class="pure-u-1-24">
+		<span class="icon-access-locked" title="Full text access may be available. Click article title to sign in or learn about subscription options."></span>
+		<span>
+			<!-- ngIf: ::record.openUrlLink -->
+		</span>
+	</div>
+</div>
+</xpl-result>
+			</div><!-- end ngRepeat: record in vm.records track by record.articleNumber --><div class="List-results-items ng-scope" ng-repeat="record in vm.records track by record.articleNumber">
 				<xpl-result record="::record" records="::vm.data.records" user="::vm.user" selected-items="vm.selectedItems" bulk-selected-items="vm.bulkSelectedItems" class="ng-isolate-scope"><div class="pure-g">
 	<div class="pure-u-1-24">
 		<!-- ngIf: ::record.showCheckbox --><input type="checkbox" class="search-results-group ng-scope" ng-if="::record.showCheckbox" ng-checked="isSelected()" ng-click="toggleSelect()" /><!-- end ngIf: ::record.showCheckbox -->
@@ -3311,152 +3464,6 @@ document.write('&lt;base href="/search/searchresult.jsp" /&gt;');
 	</div>
 </div>
 </xpl-result>
-			</div><!-- end ngRepeat: record in vm.records track by record.articleNumber --><div class="List-results-items ng-scope" ng-repeat="record in vm.records track by record.articleNumber">
-				<xpl-result record="::record" records="::vm.data.records" user="::vm.user" selected-items="vm.selectedItems" bulk-selected-items="vm.bulkSelectedItems" class="ng-isolate-scope"><div class="pure-g">
-	<div class="pure-u-1-24">
-		<!-- ngIf: ::record.showCheckbox --><input type="checkbox" class="search-results-group ng-scope" ng-if="::record.showCheckbox" ng-checked="isSelected()" ng-click="toggleSelect()" /><!-- end ngIf: ::record.showCheckbox -->
-	</div>
-	<div class="pure-u-22-24" xpl-displayer="">
-		<h2>
-			<!-- ngIf: ::record.ephemera -->
-			<!-- ngIf: ::(!(record.ephemera)) --><a ng-if="::(!(record.ephemera))" href="/document/7375387/" xpl-highlight="" ng-bind-html="::record.title.replace('Redline','&lt;font color=\'red\'&gt;Redline&lt;/font&gt;')" mathjax-bind="" class="ng-binding ng-scope">EM design of a passive <span class="highlight">RFID</span>-based device with sensing and reasoning capabilities</a><!-- end ngIf: ::(!(record.ephemera)) -->
-		</h2>
-		<!-- ngIf: ::user.showMeta --><p class="author ng-scope" ng-if="::user.showMeta">
-			<!-- ngRepeat: author in ::record.authors --><span ng-repeat="author in ::record.authors" class="ng-scope">
-				<a ng-href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Riccardo%20Colella.QT.&amp;newsearch=true" xpl-highlight="" href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Riccardo%20Colella.QT.&amp;newsearch=true"><span ng-bind-html="::author.preferredName" class="ng-binding">Riccardo Colella</span><!-- ngIf: ::author.nativeName --></a><!-- ngIf: ::(($index + 1) !== record.authors.length) --><span ng-if="::(($index + 1) !== record.authors.length)" class="ng-scope">; </span><!-- end ngIf: ::(($index + 1) !== record.authors.length) -->
-			</span><!-- end ngRepeat: author in ::record.authors --><span ng-repeat="author in ::record.authors" class="ng-scope">
-				<a ng-href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Luca%20Catarinucci.QT.&amp;newsearch=true" xpl-highlight="" href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Luca%20Catarinucci.QT.&amp;newsearch=true"><span ng-bind-html="::author.preferredName" class="ng-binding">Luca Catarinucci</span><!-- ngIf: ::author.nativeName --></a><!-- ngIf: ::(($index + 1) !== record.authors.length) --><span ng-if="::(($index + 1) !== record.authors.length)" class="ng-scope">; </span><!-- end ngIf: ::(($index + 1) !== record.authors.length) -->
-			</span><!-- end ngRepeat: author in ::record.authors --><span ng-repeat="author in ::record.authors" class="ng-scope">
-				<a ng-href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Luciano%20Tarricone.QT.&amp;newsearch=true" xpl-highlight="" href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Luciano%20Tarricone.QT.&amp;newsearch=true"><span ng-bind-html="::author.preferredName" class="ng-binding">Luciano Tarricone</span><!-- ngIf: ::author.nativeName --></a><!-- ngIf: ::(($index + 1) !== record.authors.length) -->
-			</span><!-- end ngRepeat: author in ::record.authors -->
-		</p><!-- end ngIf: ::user.showMeta -->
-		<div class="description u-mb-1">
-			<!-- ngIf: ::user.showMeta --><a ng-if="::user.showMeta" ng-href="/xpl/mostRecentIssue.jsp?punumber=7369478" xpl-highlight="" ng-hide="::record.handleProduct" ng-bind-html="::record.displayPublicationTitle" class="ng-binding ng-scope" href="/xpl/mostRecentIssue.jsp?punumber=7369478" aria-hidden="false">2015 IEEE 15th Mediterranean Microwave Symposium (MMS)</a><!-- end ngIf: ::user.showMeta -->
-			<!-- ngIf: ::((record.publicationYear || record.volume || record.issue) && user.showMeta && !record.vj) --><div ng-if="::((record.publicationYear || record.volume || record.issue) &amp;&amp; user.showMeta &amp;&amp; !record.vj)" ng-hide="::record.handleProduct" class="ng-scope" aria-hidden="false">
-				<!-- ngIf: ::record.publicationYear --><span ng-if="::record.publicationYear" xpl-highlight="" class="ng-binding ng-scope">Year: 2015</span><!-- end ngIf: ::record.publicationYear --><!-- ngIf: ::record.affirmedDate --><!-- ngIf: ::record.volume --><!-- ngIf: ::record.issue -->
-			</div><!-- end ngIf: ::((record.publicationYear || record.volume || record.issue) && user.showMeta && !record.vj) -->
-			<!-- ngIf: ::((record.externalId || record.startPage || record.endPage || record.doi) && user.showMeta) --><div ng-if="::((record.externalId || record.startPage || record.endPage || record.doi) &amp;&amp; user.showMeta)" ng-hide="::record.handleProduct" class="ng-scope" aria-hidden="false">
-				<!-- ngIf: ::record.externalId --><!-- ngIf: ::!record.externalId --><span ng-if="::!record.externalId" class="ng-scope"><!-- ngIf: ::(record.startPage || record.endPage) --><span ng-if="::(record.startPage || record.endPage)" class="ng-scope">Page<!-- ngIf: ::record.endPage --><span ng-if="::record.endPage" class="ng-scope">s</span><!-- end ngIf: ::record.endPage -->:</span><!-- end ngIf: ::(record.startPage || record.endPage) --> <!-- ngIf: ::record.startPage --><span ng-if="::record.startPage" xpl-highlight="" class="ng-binding ng-scope">1</span><!-- end ngIf: ::record.startPage --><!-- ngIf: ::(record.startPage && record.endPage) --><span ng-if="::(record.startPage &amp;&amp; record.endPage)" class="ng-scope"> - </span><!-- end ngIf: ::(record.startPage && record.endPage) --><!-- ngIf: ::record.endPage --><span ng-if="::record.endPage" xpl-highlight="" class="ng-binding ng-scope">4</span><!-- end ngIf: ::record.endPage --></span><!-- end ngIf: ::!record.externalId --><!-- ngIf: ::record.doi --><span ng-if="::record.doi" class="ng-scope"><!-- ngIf: ::(record.externalId || record.startPage || record.endPage) --><span ng-if="::(record.externalId || record.startPage || record.endPage)" class="ng-scope">, </span><!-- end ngIf: ::(record.externalId || record.startPage || record.endPage) -->DOI: <a ng-href="https://doi.org/10.1109/MMS.2015.7375387" xpl-highlight="" class="ng-binding" href="https://doi.org/10.1109/MMS.2015.7375387">10.1109/MMS.2015.7375387</a></span><!-- end ngIf: ::record.doi -->
-			</div><!-- end ngIf: ::((record.externalId || record.startPage || record.endPage || record.doi) && user.showMeta) -->
-
-			<div ng-show="::(record.virtualJournals &amp;&amp; user.showMeta)" aria-hidden="true" class="ng-hide">
-				Referenced in: <!-- ngRepeat: vj_pub in record.virtualJournals -->
-			</div>
-			<!-- ngIf: ::((record.citationCount || record.patentCitationCount) && user.showMeta) -->
-			<div xpl-highlight="">
-				<strong class="ng-binding">IEEE Conference Publications</strong> <!-- ngIf: ::record.redline -->
-				
-			</div>
-		</div>
-		<!-- ngIf: ::!record.vj --><ul class="List List--horizontal ng-scope" ng-if="::!record.vj" ​="">
-			<!-- ngIf: ::(record.abstract && !record.ephemera) --><li class="List-item u-mr-2 ng-scope" ng-if="::(record.abstract &amp;&amp; !record.ephemera)">
-				<a class="js-displayer-control abstract-control" ng-class="{'active': user.openAbstract}">
-					<i class="icon-caret-abstract"></i><span>Abstract</span>
-				</a>
-			</li><!-- end ngIf: ::(record.abstract && !record.ephemera) -->
-			<!-- ngIf: ::record.showHtml --><li class="List-item u-mr-2 ng-scope" ng-if="::record.showHtml">
-				<a href="/xpls/icp.jsp?arnumber=7375387" data-artnum="7375387" ng-attr-data-bkn="{{::record.articleContentType === 'Books &amp; eBooks' ? record.publicationNumber : false}}" data-url="/xpls/icp.jsp?arnumber=7375387" class="icon-html" ng-class="{'open-html': record.accessType.type === 'file-cabinet'}" data-bkn="false"></a>
-			</li><!-- end ngIf: ::record.showHtml -->
-			<!-- ngIf: ::record.pdfLink --><li class="List-item u-mr-2 ng-scope" ng-if="::record.pdfLink" ng-hide="::record.handleProduct" aria-hidden="false">
-				<!-- ngIf: ::record.pdfLinkLabel -->
-				<!-- ngIf: ::(!record.pdfLinkLabel) --><div class="u-flex-display-flex u-flex-align-items-center ng-scope" ng-if="::(!record.pdfLinkLabel)">
-					<!-- ngIf: ::record.pdfLink --><a href="/stamp/stamp.jsp?tp=&amp;arnumber=7375387" data-artnum="7375387" ng-attr-data-bkn="{{::record.articleContentType === 'Books &amp; eBooks' ? record.publicationNumber : false}}" class="icon-pdf ng-scope" ng-class="{'open-pdf': record.accessType.type === 'file-cabinet'}" ng-if="::record.pdfLink" data-bkn="false"></a><!-- end ngIf: ::record.pdfLink -->
-					<!-- ngIf: ::record.pdfSize --><span class="pdf-size-display ng-binding ng-scope" ng-if="::record.pdfSize">(905 Kb)</span><!-- end ngIf: ::record.pdfSize -->
-				</div><!-- end ngIf: ::(!record.pdfLinkLabel) -->
-			</li><!-- end ngIf: ::record.pdfLink -->
-			<!-- ngIf: ::record.course -->
-			<!-- ngIf: ::record.rightslinkFlag --><li class="List-item u-mr-2 stats-SearchResults_DocResult_Exit_ReqPermission ng-scope" ng-if="::record.rightslinkFlag">
-				<a class="icon-copyright" ng-click="pdfPopup(record.rightsLink,'RightsLink')" title="Request permission for commercial reuse"></a>
-			</li><!-- end ngIf: ::record.rightslinkFlag -->
-			<!-- ngIf: ::!record.rightslinkFlag && !record.vj -->
-			<!-- ngIf: ::record.multiMediaLink -->
-			<!-- ngIf: ::record.showAlgorithm -->
-		</ul><!-- end ngIf: ::!record.vj -->
-		<!-- ngIf: ::(record.abstract && !record.ephemera) --><div class="js-displayer-content u-mt-1 stats-SearchResults_DocResult_ViewMore ng-scope hide" ng-class="{'hide': !user.openAbstract}" ng-if="::(record.abstract &amp;&amp; !record.ephemera)" xpl-highlight="">
-			<span ng-bind-html="::record.abstract" class="ng-binding">In the last years, the continuous demand for smart applications in the Internet of Things context is leading to the develop of novel and more complex <span class="highlight">UHF</span> <span class="highlight">RFID</span> tags with augmented capabilities. Novel tags offer additional functionalities besides identification by embedding sensors, actuators, and processing units. In this work a new kind of device, called SPARTACUS, is presented. While ...</span>
-			<a ng-href="/document/7375387/" href="/document/7375387/">View more</a>
-		</div><!-- end ngIf: ::(record.abstract && !record.ephemera) -->
-	</div>
-	<div class="pure-u-1-24">
-		<span class="icon-access-locked" title="Full text access may be available. Click article title to sign in or learn about subscription options."></span>
-		<span>
-			<!-- ngIf: ::record.openUrlLink -->
-		</span>
-	</div>
-</div>
-</xpl-result>
-			</div><!-- end ngRepeat: record in vm.records track by record.articleNumber --><div class="List-results-items ng-scope" ng-repeat="record in vm.records track by record.articleNumber">
-				<xpl-result record="::record" records="::vm.data.records" user="::vm.user" selected-items="vm.selectedItems" bulk-selected-items="vm.bulkSelectedItems" class="ng-isolate-scope"><div class="pure-g">
-	<div class="pure-u-1-24">
-		<!-- ngIf: ::record.showCheckbox --><input type="checkbox" class="search-results-group ng-scope" ng-if="::record.showCheckbox" ng-checked="isSelected()" ng-click="toggleSelect()" /><!-- end ngIf: ::record.showCheckbox -->
-	</div>
-	<div class="pure-u-22-24" xpl-displayer="">
-		<h2>
-			<!-- ngIf: ::record.ephemera -->
-			<!-- ngIf: ::(!(record.ephemera)) --><a ng-if="::(!(record.ephemera))" href="/document/7366133/" xpl-highlight="" ng-bind-html="::record.title.replace('Redline','&lt;font color=\'red\'&gt;Redline&lt;/font&gt;')" mathjax-bind="" class="ng-binding ng-scope">UWB/<span class="highlight">UHF</span> <span class="highlight">RFID</span> tag</a><!-- end ngIf: ::(!(record.ephemera)) -->
-		</h2>
-		<!-- ngIf: ::user.showMeta --><p class="author ng-scope" ng-if="::user.showMeta">
-			<!-- ngRepeat: author in ::record.authors --><span ng-repeat="author in ::record.authors" class="ng-scope">
-				<a ng-href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Mohamad%20Ali%20Ziai.QT.&amp;newsearch=true" xpl-highlight="" href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.Mohamad%20Ali%20Ziai.QT.&amp;newsearch=true"><span ng-bind-html="::author.preferredName" class="ng-binding">Mohamad Ali Ziai</span><!-- ngIf: ::author.nativeName --></a><!-- ngIf: ::(($index + 1) !== record.authors.length) --><span ng-if="::(($index + 1) !== record.authors.length)" class="ng-scope">; </span><!-- end ngIf: ::(($index + 1) !== record.authors.length) -->
-			</span><!-- end ngRepeat: author in ::record.authors --><span ng-repeat="author in ::record.authors" class="ng-scope">
-				<a ng-href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.C.%20Batchelor%20John.QT.&amp;newsearch=true" xpl-highlight="" href="/search/searchresult.jsp?searchWithin=&quot;Authors&quot;:.QT.C.%20Batchelor%20John.QT.&amp;newsearch=true"><span ng-bind-html="::author.preferredName" class="ng-binding">C. Batchelor John</span><!-- ngIf: ::author.nativeName --></a><!-- ngIf: ::(($index + 1) !== record.authors.length) -->
-			</span><!-- end ngRepeat: author in ::record.authors -->
-		</p><!-- end ngIf: ::user.showMeta -->
-		<div class="description u-mb-1">
-			<!-- ngIf: ::user.showMeta --><a ng-if="::user.showMeta" ng-href="/xpl/mostRecentIssue.jsp?punumber=7357693" xpl-highlight="" ng-hide="::record.handleProduct" ng-bind-html="::record.displayPublicationTitle" class="ng-binding ng-scope" href="/xpl/mostRecentIssue.jsp?punumber=7357693" aria-hidden="false">2015 Loughborough Antennas &amp; Propagation Conference (LAPC)</a><!-- end ngIf: ::user.showMeta -->
-			<!-- ngIf: ::((record.publicationYear || record.volume || record.issue) && user.showMeta && !record.vj) --><div ng-if="::((record.publicationYear || record.volume || record.issue) &amp;&amp; user.showMeta &amp;&amp; !record.vj)" ng-hide="::record.handleProduct" class="ng-scope" aria-hidden="false">
-				<!-- ngIf: ::record.publicationYear --><span ng-if="::record.publicationYear" xpl-highlight="" class="ng-binding ng-scope">Year: 2015</span><!-- end ngIf: ::record.publicationYear --><!-- ngIf: ::record.affirmedDate --><!-- ngIf: ::record.volume --><!-- ngIf: ::record.issue -->
-			</div><!-- end ngIf: ::((record.publicationYear || record.volume || record.issue) && user.showMeta && !record.vj) -->
-			<!-- ngIf: ::((record.externalId || record.startPage || record.endPage || record.doi) && user.showMeta) --><div ng-if="::((record.externalId || record.startPage || record.endPage || record.doi) &amp;&amp; user.showMeta)" ng-hide="::record.handleProduct" class="ng-scope" aria-hidden="false">
-				<!-- ngIf: ::record.externalId --><!-- ngIf: ::!record.externalId --><span ng-if="::!record.externalId" class="ng-scope"><!-- ngIf: ::(record.startPage || record.endPage) --><span ng-if="::(record.startPage || record.endPage)" class="ng-scope">Page<!-- ngIf: ::record.endPage --><span ng-if="::record.endPage" class="ng-scope">s</span><!-- end ngIf: ::record.endPage -->:</span><!-- end ngIf: ::(record.startPage || record.endPage) --> <!-- ngIf: ::record.startPage --><span ng-if="::record.startPage" xpl-highlight="" class="ng-binding ng-scope">1</span><!-- end ngIf: ::record.startPage --><!-- ngIf: ::(record.startPage && record.endPage) --><span ng-if="::(record.startPage &amp;&amp; record.endPage)" class="ng-scope"> - </span><!-- end ngIf: ::(record.startPage && record.endPage) --><!-- ngIf: ::record.endPage --><span ng-if="::record.endPage" xpl-highlight="" class="ng-binding ng-scope">3</span><!-- end ngIf: ::record.endPage --></span><!-- end ngIf: ::!record.externalId --><!-- ngIf: ::record.doi --><span ng-if="::record.doi" class="ng-scope"><!-- ngIf: ::(record.externalId || record.startPage || record.endPage) --><span ng-if="::(record.externalId || record.startPage || record.endPage)" class="ng-scope">, </span><!-- end ngIf: ::(record.externalId || record.startPage || record.endPage) -->DOI: <a ng-href="https://doi.org/10.1109/LAPC.2015.7366133" xpl-highlight="" class="ng-binding" href="https://doi.org/10.1109/LAPC.2015.7366133">10.1109/LAPC.2015.7366133</a></span><!-- end ngIf: ::record.doi -->
-			</div><!-- end ngIf: ::((record.externalId || record.startPage || record.endPage || record.doi) && user.showMeta) -->
-
-			<div ng-show="::(record.virtualJournals &amp;&amp; user.showMeta)" aria-hidden="true" class="ng-hide">
-				Referenced in: <!-- ngRepeat: vj_pub in record.virtualJournals -->
-			</div>
-			<!-- ngIf: ::((record.citationCount || record.patentCitationCount) && user.showMeta) -->
-			<div xpl-highlight="">
-				<strong class="ng-binding">IEEE Conference Publications</strong> <!-- ngIf: ::record.redline -->
-				
-			</div>
-		</div>
-		<!-- ngIf: ::!record.vj --><ul class="List List--horizontal ng-scope" ng-if="::!record.vj" ​="">
-			<!-- ngIf: ::(record.abstract && !record.ephemera) --><li class="List-item u-mr-2 ng-scope" ng-if="::(record.abstract &amp;&amp; !record.ephemera)">
-				<a class="js-displayer-control abstract-control" ng-class="{'active': user.openAbstract}">
-					<i class="icon-caret-abstract"></i><span>Abstract</span>
-				</a>
-			</li><!-- end ngIf: ::(record.abstract && !record.ephemera) -->
-			<!-- ngIf: ::record.showHtml --><li class="List-item u-mr-2 ng-scope" ng-if="::record.showHtml">
-				<a href="/xpls/icp.jsp?arnumber=7366133" data-artnum="7366133" ng-attr-data-bkn="{{::record.articleContentType === 'Books &amp; eBooks' ? record.publicationNumber : false}}" data-url="/xpls/icp.jsp?arnumber=7366133" class="icon-html" ng-class="{'open-html': record.accessType.type === 'file-cabinet'}" data-bkn="false"></a>
-			</li><!-- end ngIf: ::record.showHtml -->
-			<!-- ngIf: ::record.pdfLink --><li class="List-item u-mr-2 ng-scope" ng-if="::record.pdfLink" ng-hide="::record.handleProduct" aria-hidden="false">
-				<!-- ngIf: ::record.pdfLinkLabel -->
-				<!-- ngIf: ::(!record.pdfLinkLabel) --><div class="u-flex-display-flex u-flex-align-items-center ng-scope" ng-if="::(!record.pdfLinkLabel)">
-					<!-- ngIf: ::record.pdfLink --><a href="/stamp/stamp.jsp?tp=&amp;arnumber=7366133" data-artnum="7366133" ng-attr-data-bkn="{{::record.articleContentType === 'Books &amp; eBooks' ? record.publicationNumber : false}}" class="icon-pdf ng-scope" ng-class="{'open-pdf': record.accessType.type === 'file-cabinet'}" ng-if="::record.pdfLink" data-bkn="false"></a><!-- end ngIf: ::record.pdfLink -->
-					<!-- ngIf: ::record.pdfSize --><span class="pdf-size-display ng-binding ng-scope" ng-if="::record.pdfSize">(306 Kb)</span><!-- end ngIf: ::record.pdfSize -->
-				</div><!-- end ngIf: ::(!record.pdfLinkLabel) -->
-			</li><!-- end ngIf: ::record.pdfLink -->
-			<!-- ngIf: ::record.course -->
-			<!-- ngIf: ::record.rightslinkFlag --><li class="List-item u-mr-2 stats-SearchResults_DocResult_Exit_ReqPermission ng-scope" ng-if="::record.rightslinkFlag">
-				<a class="icon-copyright" ng-click="pdfPopup(record.rightsLink,'RightsLink')" title="Request permission for commercial reuse"></a>
-			</li><!-- end ngIf: ::record.rightslinkFlag -->
-			<!-- ngIf: ::!record.rightslinkFlag && !record.vj -->
-			<!-- ngIf: ::record.multiMediaLink -->
-			<!-- ngIf: ::record.showAlgorithm -->
-		</ul><!-- end ngIf: ::!record.vj -->
-		<!-- ngIf: ::(record.abstract && !record.ephemera) --><div class="js-displayer-content u-mt-1 stats-SearchResults_DocResult_ViewMore ng-scope hide" ng-class="{'hide': !user.openAbstract}" ng-if="::(record.abstract &amp;&amp; !record.ephemera)" xpl-highlight="">
-			<span ng-bind-html="::record.abstract" class="ng-binding">This paper presents a two-port antenna for a passive <span class="highlight">RFID</span> tag including separate receiving and transmitting ports for direct connection to a hybrid <span class="highlight">UHF</span>/UWB <span class="highlight">RFID</span> transponder chip. The receiving port feed is linearly polarized and narrowband for energy harvesting (from a conventional <span class="highlight">RFID</span> reader), whereas the transmitting port feeds ultrawideband (UWB) slot radiation. Measure...</span>
-			<a ng-href="/document/7366133/" href="/document/7366133/">View more</a>
-		</div><!-- end ngIf: ::(record.abstract && !record.ephemera) -->
-	</div>
-	<div class="pure-u-1-24">
-		<span class="icon-access-locked" title="Full text access may be available. Click article title to sign in or learn about subscription options."></span>
-		<span>
-			<!-- ngIf: ::record.openUrlLink -->
-		</span>
-	</div>
-</div>
-</xpl-result>
 			</div><!-- end ngRepeat: record in vm.records track by record.articleNumber -->
 		</div>
 	<!-- ngIf: vm.loading -->
@@ -3478,10 +3485,10 @@ document.write('&lt;base href="/search/searchresult.jsp" /&gt;');
 		<!-- ngIf: !vm.loading --><div class="Ads ng-scope" xpl-google-ad-services="" ng-if="!vm.loading" loading="vm.loading" google-ad-targeting="vm.googleAdTargeting">
 	<div ng-transclude=""></div>
 	<div class="ad-panel">
-		<div class="ad google-ad Ads-leadGen ng-isolate-scope" xpl-google-ad="" google-ad-targeting="vm.googleAdTargeting"><script type="text/javascript">Xplore = Xplore || {}; Xplore.googleAdSlotsStore = Xplore.googleAdSlotsStore || {}; googletag.cmd.push(function() {Xplore.googleAdSlotsStore["div-gpt-ad-1366327280661-2"] = googletag.defineSlot("/3890430/xplore_subscription_leadgen", [180,150], "div-gpt-ad-1366327280661-2").addService(googletag.pubads()).setTargeting("usertype", "inst").setTargeting("sub_type", "IOJ|ISOL9|").setTargeting("cust_type", "Corporate").setTargeting("geoip", "218.106.154.158").setTargeting("userid", "77418").setTargeting("isinst", "true").setTargeting("search", "UHF RFID").setTargeting("pu_number", "").setTargeting("content_ID", "");googletag.pubads().collapseEmptyDivs();googletag.pubads().enableSingleRequest();googletag.enableServices();});</script><div id="div-gpt-ad-1366327280661-2" style="width: 180px; display: none;" data-google-query-id="CIr-soblzNQCFUMgKgodbw4M2Q"><script type="text/javascript">googletag.cmd.push(function() { googletag.display("div-gpt-ad-1366327280661-2"); });</script><div id="google_ads_iframe_/3890430/xplore_subscription_leadgen_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/3890430/xplore_subscription_leadgen_0" title="3rd party ad content" name="google_ads_iframe_/3890430/xplore_subscription_leadgen_0" width="180" height="150" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div></div></div>
+		<div class="ad google-ad Ads-leadGen ng-isolate-scope" xpl-google-ad="" google-ad-targeting="vm.googleAdTargeting"><script type="text/javascript">Xplore = Xplore || {}; Xplore.googleAdSlotsStore = Xplore.googleAdSlotsStore || {}; googletag.cmd.push(function() {Xplore.googleAdSlotsStore["div-gpt-ad-1366327280661-2"] = googletag.defineSlot("/3890430/xplore_subscription_leadgen", [180,150], "div-gpt-ad-1366327280661-2").addService(googletag.pubads()).setTargeting("usertype", "inst").setTargeting("sub_type", "IOJ|ISOL9|").setTargeting("cust_type", "Corporate").setTargeting("geoip", "218.106.154.158").setTargeting("userid", "77418").setTargeting("isinst", "true").setTargeting("search", "UHF RFID").setTargeting("pu_number", "").setTargeting("content_ID", "");googletag.pubads().collapseEmptyDivs();googletag.pubads().enableSingleRequest();googletag.enableServices();});</script><div id="div-gpt-ad-1366327280661-2" style="width: 180px; display: none;" data-google-query-id="CPfd6Kvj1NQCFYExlgodNNwNjw"><script type="text/javascript">googletag.cmd.push(function() { googletag.display("div-gpt-ad-1366327280661-2"); });</script><div id="google_ads_iframe_/3890430/xplore_subscription_leadgen_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/3890430/xplore_subscription_leadgen_0" title="3rd party ad content" name="google_ads_iframe_/3890430/xplore_subscription_leadgen_0" width="180" height="150" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div></div></div>
 	</div>
 	<div class="ad-panel">
-		<div class="ad google-ad Ads-thirdParty ng-isolate-scope" xpl-google-ad="" google-ad-targeting="vm.googleAdTargeting"><script type="text/javascript">Xplore = Xplore || {}; Xplore.googleAdSlotsStore = Xplore.googleAdSlotsStore || {}; googletag.cmd.push(function() {Xplore.googleAdSlotsStore["div-gpt-ad-1366327280661-5"] = googletag.defineSlot("/3890430/xplore_third_party", [160,600], "div-gpt-ad-1366327280661-5").addService(googletag.pubads()).setTargeting("usertype", "inst").setTargeting("sub_type", "IOJ|ISOL9|").setTargeting("cust_type", "Corporate").setTargeting("geoip", "218.106.154.158").setTargeting("userid", "77418").setTargeting("isinst", "true").setTargeting("search", "UHF RFID").setTargeting("pu_number", "").setTargeting("content_ID", "");googletag.pubads().collapseEmptyDivs();googletag.pubads().enableSingleRequest();googletag.enableServices();});</script><div id="div-gpt-ad-1366327280661-5" style="width: 160px; display: none;" data-google-query-id="CPu6toblzNQCFUcPKgodXmwMzw"><script type="text/javascript">googletag.cmd.push(function() { googletag.display("div-gpt-ad-1366327280661-5"); });</script><div id="google_ads_iframe_/3890430/xplore_third_party_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/3890430/xplore_third_party_0" title="3rd party ad content" name="google_ads_iframe_/3890430/xplore_third_party_0" width="160" height="600" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div></div></div>
+		<div class="ad google-ad Ads-thirdParty ng-isolate-scope" xpl-google-ad="" google-ad-targeting="vm.googleAdTargeting"><script type="text/javascript">Xplore = Xplore || {}; Xplore.googleAdSlotsStore = Xplore.googleAdSlotsStore || {}; googletag.cmd.push(function() {Xplore.googleAdSlotsStore["div-gpt-ad-1366327280661-5"] = googletag.defineSlot("/3890430/xplore_third_party", [160,600], "div-gpt-ad-1366327280661-5").addService(googletag.pubads()).setTargeting("usertype", "inst").setTargeting("sub_type", "IOJ|ISOL9|").setTargeting("cust_type", "Corporate").setTargeting("geoip", "218.106.154.158").setTargeting("userid", "77418").setTargeting("isinst", "true").setTargeting("search", "UHF RFID").setTargeting("pu_number", "").setTargeting("content_ID", "");googletag.pubads().collapseEmptyDivs();googletag.pubads().enableSingleRequest();googletag.enableServices();});</script><div id="div-gpt-ad-1366327280661-5" style="width: 160px; display: none;" data-google-query-id="CLy37Kvj1NQCFcUqlgoddqUHeg"><script type="text/javascript">googletag.cmd.push(function() { googletag.display("div-gpt-ad-1366327280661-5"); });</script><div id="google_ads_iframe_/3890430/xplore_third_party_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/3890430/xplore_third_party_0" title="3rd party ad content" name="google_ads_iframe_/3890430/xplore_third_party_0" width="160" height="600" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div></div></div>
 	</div>
 </div><!-- end ngIf: !vm.loading -->
 		<!-- ngIf: !vm.loading --><xpl-standards-dictionary class="u-align-left ng-scope ng-isolate-scope" ng-if="!vm.loading" listing="vm.standardsDictionaryTerms"><!-- ngIf: listing -->
