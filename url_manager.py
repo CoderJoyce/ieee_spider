@@ -11,10 +11,10 @@ class UrlManager(object):
     def __init__(self,conn):
         self.conn = conn    #数据库连接
         
-    def is_url_exist(self, url):
+    def is_url_exist(self, url, UrlSet_tableName):
         cursor = self.conn.cursor()
         try:
-            sql = "select * from UrlSet where url=\"%s\"" %url    #注意%s要加''符号表示是字符串
+            sql = "select * from %s where url=\"%s\"" %(UrlSet_tableName,url)    #注意%s要加''符号表示是字符串
 #             print "is_url_exist:"+sql
             cursor.execute(sql)
             rs = cursor.fetchall()
@@ -28,34 +28,35 @@ class UrlManager(object):
             cursor.close()
         
     
-    def add_url_to_dbUrlSetTable(self, url):
+    def add_url_to_dbUrlSetTable(self, url, UrlSet_tableName):
         cursor = self.conn.cursor()         
         try:                            
-            sql = "insert into UrlSet(url,isCrawled) values(\"%s\",%s)" %(url,False)
+            sql = "insert into %s(url,isCrawled) values(\"%s\",%s)" %(UrlSet_tableName,url,False)
             cursor.execute(sql)
+            self.conn.commit()  #提交数据库事务 
         finally:
             cursor.close()
     
-    def add_uncrawled_url(self,url):
+    def add_uncrawled_url(self,url,UrlSet_tableName):
         if url is None:
             return
         
-        if(self.is_url_exist(url)): #判断是否已经存在
+        if(self.is_url_exist(url,UrlSet_tableName)): #判断是否已经存在
             return
         else:
-            self.add_url_to_dbUrlSetTable(url)      
+            self.add_url_to_dbUrlSetTable(url,UrlSet_tableName)      
         
          
-    def add_uncrawled_urls(self,urls):  #添加多个新的url到待爬取集合中
+    def add_uncrawled_urls(self,urls,UrlSet_tableName):  #添加多个新的url到待爬取集合中
         if urls is None or len(urls) == 0:
             return
         for url in urls:
-            self.add_uncrawled_url(url)
+            self.add_uncrawled_url(url,UrlSet_tableName)
     
-    def has_uncrawled_url(self):    #是否还有待爬取的Url
+    def has_uncrawled_url(self,UrlSet_tableName):    #是否还有待爬取的Url
         cursor = self.conn.cursor()
         try:
-            sql = "select * from UrlSet where isCrawled=%s" %False
+            sql = "select * from %s where isCrawled=%s" %(UrlSet_tableName,False)
 #             print "has_uncrawled_url:"+sql
             cursor.execute(sql)
             rs = cursor.fetchall()
@@ -70,10 +71,10 @@ class UrlManager(object):
             cursor.close()
          
          
-    def get_uncrawled_url(self):  #从数据库中获得新待爬取的url
+    def get_uncrawled_url(self,UrlSet_tableName):  #从数据库中获得新待爬取的url
         cursor = self.conn.cursor()
         try:
-            sql = "select url from UrlSet where isCrawled=%s" %False
+            sql = "select url from %s where isCrawled=%s" %(UrlSet_tableName,False)
 #             print "get_uncrawled_url:"+sql
             cursor.execute(sql)
             uncrawled_url = cursor.fetchone()[0]
@@ -83,13 +84,14 @@ class UrlManager(object):
         return uncrawled_url
 
     
-    def set_url_crawled(self, uncrawled_url):
+    def set_url_crawled(self, uncrawled_url,UrlSet_tableName):
         cursor = self.conn.cursor()
                                             
 #         print uncrawled_url
         try:
-            sql = "update UrlSet set iscrawled=%s where url=\"%s\"" %(True,uncrawled_url)
+            sql = "update %s set iscrawled=%s where url=\"%s\"" %(UrlSet_tableName,True,uncrawled_url)
             cursor.execute(sql)
+            self.conn.commit()  #提交数据库事务 
         finally:
             cursor.close()    
     

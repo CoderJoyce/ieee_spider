@@ -23,15 +23,10 @@ sys.setdefaultencoding('utf-8') #解决错误"'ascii' codec can't encode charact
 #HTML下载器
 class HtmlDownloader(object):
 
-    
-    def _save_html_to_file(self, url, page_source):    #将下载的Html源码保存到文件中
+
+    def _save_html_to_file(self, url, page_source,folder_name):    #将下载的Html源码保存到文件中
         #1 根据url获得存储路径和文件名
-        #论文详情页url前缀：http://ieeexplore.ieee.org/document/
-        #搜索结果页url样例：http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=UHF%20RFID&pageNumber=126&newsearch=true
-        if url[:36] == "http://ieeexplore.ieee.org/document/":
-            filePath = "downloadhtml/document"+url[36:-1]+".txt"
-        else:
-            filePath = "downloadhtml/search"+url[83:-15]+".txt"
+        filePath = self._get_file_path(url,folder_name)
         
 #         print "filePath:",filePath
         
@@ -50,7 +45,7 @@ class HtmlDownloader(object):
             logging.info("_save_html_to_file: %s successed." %filePath) 
 #             print 'write finished'
            
-    def download_ajax(self,url,waitTimeSec): #下载动态网页的Html源码
+    def download_ajax(self,url,waitTimeSec,save_folder_name): #下载动态网页的Html源码
         print "download url:",url
         logging.info("download url:%s"%url)
         
@@ -95,7 +90,7 @@ class HtmlDownloader(object):
         #print driver.page_source
         page_source = driver.page_source
         #将下载的html源码写入文本文件中
-        self._save_html_to_file(url,page_source)
+        self._save_html_to_file(url,page_source,save_folder_name)
               
         #关闭浏览器
         driver.close()
@@ -117,6 +112,41 @@ class HtmlDownloader(object):
         return response.read()  #返回html页面内容
 
 
+    def _get_file_path(self, page_url,folder_name):
+        #根据url获得存储路径和文件名
+        #论文详情页url前缀：http://ieeexplore.ieee.org/document/123/
+        #搜索结果页url样例：http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=UHF%20RFID&pageNumber=126&newsearch=true
+        if page_url[:36] == "http://ieeexplore.ieee.org/document/":
+            filePath = folder_name+"/document"+page_url[36:-1]+".txt"
+        else:
+            filePath = folder_name+"/search"+page_url[83:-15]+".txt"
+        
+        #print "filePath:",filePath
+        
+        return filePath
+    
+    
+    def get_downloaded_html_cont(self,page_url,folder_name): #获得已下载html源码
+        #用读取已下载txt文件内容来模拟下载器下载网页
+        #1 根据url获得存储路径和文件名
+        filePath = self._get_file_path(page_url,folder_name)
+        
+        #print "filePath:",filePath
+        
+        #2 根据路径读取已下载的html源码文件
+        print 'page_source:'
+        try:
+            fobj = open(filePath,'r')
+        except IOError as e:
+            print "open error:",filePath
+            raise e
+        else:
+            print "读取文件内容..."
+            html_cont = fobj.read()
+            fobj.close()
+            
+        return html_cont
+
 if __name__=="__main__":
     print 'Test ieee_html_downloader:'
 
@@ -127,7 +157,10 @@ if __name__=="__main__":
     url = "http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=UHF%20RFID&pageNumber=126&newsearch=true"
     print 'craw: %s' %(url)
   
-#     obj_HtmlDownloader = HtmlDownloader()
+    obj_HtmlDownloader = HtmlDownloader()
+    html_cont = obj_HtmlDownloader.get_downloaded_html_cont(url,"downloadhtml_R1End")
+    print "get html_cont success"
+    
 #     obj_HtmlDownloader._save_html_to_file(url,url)
         
 #     response = urllib2.urlopen(url)

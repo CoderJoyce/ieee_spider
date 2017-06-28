@@ -32,11 +32,11 @@ class HtmlParser(object):
         return new_urls
       
     def _get_base_Data(self, page_url, soup):    #解析出搜索结果页面中的论文数据（题目、摘要（不全）、期刊、日期）
-#         print '_get_base_Data解析数据...'
+#        print '_get_base_Data解析数据...'
         res_datas = []       #返回数据（所有论文的数据）
                 
-        # 题目格式:<h2>***</h2>
-        title_nodes = soup.find_all('h2')
+        # 题目格式:<a ng-if="::(!(record.ephemera))" href="/document/123/"...>...</a>
+        title_nodes = soup.find_all('a',href = re.compile(r"/document/\d+/$"),attrs={'ng-if':'::(!(record.ephemera))'})
 #         print '题目：',title_nodes
             
         # 摘要格式:<span ng-bind-html="::record.abstract" class="ng-binding">...</span>
@@ -55,25 +55,61 @@ class HtmlParser(object):
         date_nodes = soup.find_all('span',attrs={'ng-if':'::record.publicationYear'},class_="ng-binding ng-scope")
 #         print "日期：",date_nodes
         
-        for index in range(len(title_nodes)):
-#             print index           
-#             print "url:",page_url
-#             print "题目：",title_nodes[index].get_text()
-#             print "摘要：",abstract_nodes[index].get_text()
-#             print "关键词："
-#             print "期刊：",journal_nodes[index].get_text()
-#             print "时间：",date_nodes[index].get_text()
-            paper_data = {}     #单个论文的相关数据
-            paper_data['url'] = page_url
-            paper_data['title'] = title_nodes[index].get_text().strip() #strip()方法去除字符串两边的空格
-            paper_data['abstract'] = abstract_nodes[index].get_text().strip()   
-            paper_data['keywords'] = KeyWord
-            paper_data['journal'] = journal_nodes[index].get_text().strip()
-            paper_data['date'] = date_nodes[index].get_text().strip()
-            
-            res_datas.append(paper_data)
-            
-#         print res_datas         
+        #print "len(title_nodes)=",len(title_nodes)
+        #print "len(abstract_nodes)=",len(abstract_nodes)
+        #print "len(journal_nodes)=",len(journal_nodes)
+        #print "len(date_nodes)=",len(date_nodes)
+        
+        if(len(title_nodes)==len(abstract_nodes)==len(journal_nodes)==len(date_nodes)):
+            #当解析出的题目、摘要、期刊、日期数目相同时，表示不存在格式异常的论文条目
+            for index in range(len(title_nodes)):
+    #             print index           
+    #             print "url:",page_url
+    #             print "题目：",title_nodes[index].get_text()
+    #             print "摘要：",abstract_nodes[index].get_text()
+    #             print "关键词："
+    #             print "期刊：",journal_nodes[index].get_text()
+    #             print "时间：",date_nodes[index].get_text()
+                paper_data = {}     #单个论文的相关数据
+                paper_data['url'] = page_url
+                paper_data['title'] = title_nodes[index].get_text().strip() #strip()方法去除字符串两边的空格
+                
+                #对结点是否为空进行判断，以防某些论文无摘要、期刊、日期信息
+                if abstract_nodes != None:
+                    paper_data['abstract'] = abstract_nodes[index].get_text().strip()   
+                else:
+                    paper_data['abstract'] = ''
+                
+                paper_data['keywords'] = KeyWord
+                
+                if journal_nodes != None:
+                    paper_data['journal'] = journal_nodes[index].get_text().strip()
+                else:
+                    paper_data['journal'] = ''
+                
+                if date_nodes != None:
+                    paper_data['date'] = date_nodes[index].get_text().strip()
+                else:
+                    paper_data['date'] = ''
+                    
+#                 print index,paper_data
+                res_datas.append(paper_data)
+
+        else:
+            #当解析出的题目、摘要、期刊、日期数目不同时，表示存在格式异常的论文条目（只获得正在格式论文的题目和摘要信息，期刊与日期由于数目不对称则丢弃）
+            for index in range(len(title_nodes)):
+                paper_data = {}     #单个论文的相关数据
+                paper_data['url'] = page_url
+                paper_data['title'] = title_nodes[index].get_text().strip() #strip()方法去除字符串两边的空格
+                paper_data['abstract'] = abstract_nodes[index].get_text().strip()   
+                paper_data['keywords'] = KeyWord
+                paper_data['journal'] = ''
+                paper_data['date'] = ''
+#                 print index,paper_data
+                                  
+                res_datas.append(paper_data)
+                
+#         print "res_datas:",res_datas[0]
 #             fobj=open("parser_result.txt",'a')
 #             fobj.write('\n'+title_nodes[index].get_text())
 #             fobj.close()
@@ -93,7 +129,7 @@ class HtmlParser(object):
         abstract_node = soup.find('div',class_="abstract-text ng-binding")
 #         print "abstract_node:",abstract_node.get_text()
          
-        # 关键字格式:<li class="doc-all-keywords-list-item ng-scope"...><div>...</div></li>
+        # 关键字格式:<li class="doc-all-keywords-list-item ng-scope"...><div><span>keyword1</span><span>keyword2</span>...</div></li>
 #         print '关键字：'
         KeyWord_nodes = soup.find('li',class_="doc-all-keywords-list-item ng-scope").find_all('span')
 #         print "KeyWord_node:",KeyWord_nodes
@@ -112,15 +148,24 @@ class HtmlParser(object):
         date_node = soup.find('div',class_="u-pb-1 doc-abstract-confdate ng-binding ng-scope")
 #         print "date_node:",date_node
         #去掉日期中的Date of Conference:及空格
-        date_text = date_node.get_text().strip()
-        date_str = date_text[19:].strip()
+        if date_node != None:
+            date_text = date_node.get_text().strip()
+            date_str = date_text[19:].strip()
+        else:
+            date_str = ''
         
         paper_data = {}       #返回数据（单篇论文的数据）
         paper_data['url'] = page_url
         paper_data['title'] = title_node.get_text().strip() #strip()方法去除字符串两边的空格
         paper_data['abstract'] = abstract_node.get_text().strip()   
         paper_data['keywords'] = keyword_str
-        paper_data['journal'] = journal_node.get_text().strip()
+        
+        #对结点是否为空进行判断，以防某些论文无期刊、日期信息
+        if journal_node != None:
+            paper_data['journal'] = journal_node.get_text().strip()
+        else:
+            paper_data['journal'] = ''
+            
         paper_data['date'] = date_str
         
 #         print "paper_data:",paper_data

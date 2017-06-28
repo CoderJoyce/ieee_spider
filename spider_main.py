@@ -27,27 +27,43 @@ class SpiderMain(object):
         self.outputer = MySql_outputer.MySqlOutputer(conn)    #网页输出器
     
     def craw(self, SearchResult_urls_list):
+        html_folder_name = "downloadhtml_All"  #下载的html源码所在文件夹downloadhtml_All
+        patch_reason_suf = ""   #爬取原因后缀_DownloadLost/_QuoteAbnormal/_FormatAbnormal/_Redownload
+        urlset_tableName = "urlset"+patch_reason_suf
+        data_tableName = "ieee_uhfrfid_data"
+        data_tableName_patch = data_tableName+patch_reason_suf
         
         #把所有搜索结果页插入数据库中
-        self.urls.add_uncrawled_urls(SearchResult_urls_list)        
+        self.urls.add_uncrawled_urls(SearchResult_urls_list,urlset_tableName)        
         try:  
             conn.commit()   #提交数据库事务
         except Exception as e:
             print 'mysql commit failed'
             logging.warning("【【mysql commit failed】】:%s"%str(e))
-#             conn.rollback()   #回滚
-                       
+            conn.rollback()   #回滚
+
         #开始爬取        
         count = 1
-        while self.urls.has_uncrawled_url():
+        while self.urls.has_uncrawled_url(urlset_tableName):
             try:    
                 #1 url管理器取出一个待爬取url
-                uncrawled_url = self.urls.get_uncrawled_url()  
+                uncrawled_url = self.urls.get_uncrawled_url(urlset_tableName)  
                 print 'crawl %d : %s' %(count,uncrawled_url)
                 logging.info('crawl %d : %s'%(count,uncrawled_url))
                 
                 #2 下载器下载页面
-                html_cont = self.downloader.download_ajax(uncrawled_url,5)  
+                #html_cont = self.downloader.download_ajax(uncrawled_url,5) #操作浏览器从网站上下载                
+                
+                #用读取文件的方式模拟从网站上下载Html源码
+                try:
+                    html_cont = self.downloader.get_downloaded_html_cont(uncrawled_url, html_folder_name)
+                except Exception as e:
+                    self.urls.set_url_crawled(uncrawled_url,urlset_tableName)
+                    print 'get_downloaded_html_cont failed:',str(e)
+                    logging.info('【【get_downloaded_html_cont failed】】:%s',str(e))
+                    logging.info('将打开已下载的页面失败的url设置为已爬取: %s'%uncrawled_url)
+                    raise e     #自己触发异常，使后面的代码不再执行
+                    
     #           print html_cont
                 print 'download successed'
                 logging.info('download successed') 
@@ -76,12 +92,13 @@ class SpiderMain(object):
                         logging.info('解析结果页...') 
                         detail_urls,base_datas= self.parser.parse_searchResPage(uncrawled_url,html_cont)   #解析器解析页面url            
                         
-                        self.urls.add_uncrawled_urls(detail_urls)  #将解析出的多个新url加入到数据库urlset表中
+                        self.urls.add_uncrawled_urls(detail_urls,urlset_tableName)  #将解析出的多个新url加入到数据库urlset表中
                         
                         #4 输出器：将解析出的数据插入数据库爬取结果表ieee_uhfrfid_data中
                         print "结果页解析结果输出..."
                         logging.info('结果页解析结果输出..') 
-                        self.outputer.output_basedatas(base_datas)  
+                        self.outputer.output_basedatas(base_datas,data_tableName)
+                        #self.outputer.output_basedatas(base_datas,data_tableName_patch)  
                         
                     #(2)文章详细页面只解析数据
                     else:                    
@@ -96,25 +113,26 @@ class SpiderMain(object):
                         #4 输出器：用详情页解析出的数据（详情页url、摘要、关键词）修改补全数据库爬取结果表ieee_uhfrfid_data中的数据
                         print "详情页解析结果输出..."
                         logging.info('详情页解析结果输出...') 
-                        self.outputer.output_detaildata(detail_data)
+                        self.outputer.output_detaildata(detail_data,data_tableName)
+                        #self.outputer.output_detaildata(detail_data,data_tableName_patch)  
                         
                 except Exception as e:
                     #如果解析失败的，则将页面设置为已爬取，否则会一直重复爬取该页面
         #           print "uncrawled_url[:36]:",uncrawled_url[:36]                   
-                    self.urls.set_url_crawled(uncrawled_url)
+                    self.urls.set_url_crawled(uncrawled_url,urlset_tableName)
                     logging.info('将解析失败页面设置为已爬取: %s'%uncrawled_url) 
-                    logging.info('【【解析失败】】: %s'%str(e))        
-                    conn.commit()
+                    logging.info('【【解析失败】】: %s'%str(e))
+                    raise e     #自己触发异常，使后面的代码不再执行
                 
                 #5 将页面设置为已爬取
-                self.urls.set_url_crawled(uncrawled_url)
+                self.urls.set_url_crawled(uncrawled_url,urlset_tableName)
                 logging.info('将爬取成功页面设置为已爬取: %s'%uncrawled_url)  
                         
-                try:
-                    conn.commit()   #一次循环处理结束时提交所有数据库事务  
-                except Exception as e:
-                    print 'mysql commit failed'
-                    logging.warning("【【mysql commit failed】】:%s"%str(e))
+#                try:
+#                    conn.commit()   #一次循环处理结束时提交所有数据库事务  
+#                except Exception as e:
+#                    print 'mysql commit failed'
+#                    logging.warning("【【mysql commit failed】】:%s"%str(e))
 #                     conn.rollback() #回滚（是不是不需要回滚呢??）
 
                 #【用于测试】：控制执行的次数                
@@ -126,15 +144,15 @@ class SpiderMain(object):
                 #异常处理：若发生文件写入错误则将当前URL设置为已爬取
                 print 'IOError'
                 logging.warning("【【IOError】】:%s"%str(e))
-                self.urls.set_url_crawled(uncrawled_url)
+                self.urls.set_url_crawled(uncrawled_url,urlset_tableName)
                 logging.info('将发生错误异常页面设置为已爬取: %s'%uncrawled_url) 
                 
             except Exception as e:            
                 print 'crawl failed:',str(e)
                 logging.warning("【【crawl failed】】:%s"%str(e))
                                                     
-        print '【crawl finished】: crawl count=%d'%count
-        logging.info('【crawl finished】: crawl count=%d'%count) 
+        print '【crawl finished】: crawl count=%d'%(count-1)
+        logging.info('【crawl finished】: crawl count=%d'%(count-1))
         
 #【主入口函数】
 if __name__=="__main__":

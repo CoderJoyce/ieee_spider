@@ -87,8 +87,8 @@ if __name__=="__main__":
     obj_IeeeDataAnalysis = IeeeCrawlResultAnalysis(conn) 
     
     try:
-#         obj_IeeeDataAnalysis.get_UrlSearch_Count()
-#         obj_IeeeDataAnalysis.classify_UrlSearch_by_failReason()    #执行前要清空对应数据库表
+        obj_IeeeDataAnalysis.get_UrlSearch_Count()
+#       obj_IeeeDataAnalysis.classify_UrlSearch_by_failReason()    #执行前要清空对应数据库表
             
         conn.commit()   
     except Exception as e:
