@@ -1,0 +1,155 @@
+Sun, 25 Jun 2017 22:25:37 Re_Download_html.py[line:143] INFO 【ieee_spider crawl begin】...
+Sun, 25 Jun 2017 22:25:37 Re_Download_html.py[line:39] INFO crawl 1 : http://ieeexplore.ieee.org/document/4177913/
+Sun, 25 Jun 2017 22:25:37 html_downloader.py[line:51] INFO download url:http://ieeexplore.ieee.org/document/4177913/
+Sun, 25 Jun 2017 22:25:37 html_downloader.py[line:61] INFO html download driver.Chrome()...
+Sun, 25 Jun 2017 22:25:40 remote_connection.py[line:478] DEBUG POST http://127.0.0.1:57538/session {"capabilities": {"alwaysMatch": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}, "firstMatch": []}, "desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}}
+Sun, 25 Jun 2017 22:25:42 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:25:42 html_downloader.py[line:65] INFO driver.get...
+Sun, 25 Jun 2017 22:25:42 remote_connection.py[line:478] DEBUG POST http://127.0.0.1:57538/session/90e00a8e3cc051805feee61706b8a51f/url {"url": "http://ieeexplore.ieee.org/document/4177913/", "sessionId": "90e00a8e3cc051805feee61706b8a51f"}
+Sun, 25 Jun 2017 22:27:28 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:27:28 html_downloader.py[line:70] INFO wait:time.sleep(5)...
+Sun, 25 Jun 2017 22:27:33 html_downloader.py[line:90] INFO download page_source successed.
+Sun, 25 Jun 2017 22:27:33 remote_connection.py[line:478] DEBUG GET http://127.0.0.1:57538/session/90e00a8e3cc051805feee61706b8a51f/source {"sessionId": "90e00a8e3cc051805feee61706b8a51f"}
+Sun, 25 Jun 2017 22:27:33 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:27:33 Re_Download_html.py[line:109] WARNING 【【crawl failed】】:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=58.0.3029.81)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+Sun, 25 Jun 2017 22:27:33 Re_Download_html.py[line:39] INFO crawl 1 : http://ieeexplore.ieee.org/document/4177913/
+Sun, 25 Jun 2017 22:27:33 html_downloader.py[line:51] INFO download url:http://ieeexplore.ieee.org/document/4177913/
+Sun, 25 Jun 2017 22:27:33 html_downloader.py[line:61] INFO html download driver.Chrome()...
+Sun, 25 Jun 2017 22:27:35 remote_connection.py[line:478] DEBUG POST http://127.0.0.1:57608/session {"capabilities": {"alwaysMatch": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}, "firstMatch": []}, "desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}}
+Sun, 25 Jun 2017 22:27:38 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:27:38 html_downloader.py[line:65] INFO driver.get...
+Sun, 25 Jun 2017 22:27:38 remote_connection.py[line:478] DEBUG POST http://127.0.0.1:57608/session/2ed4da0a4d1e486c2763aabbee5c6bca/url {"url": "http://ieeexplore.ieee.org/document/4177913/", "sessionId": "2ed4da0a4d1e486c2763aabbee5c6bca"}
+Sun, 25 Jun 2017 22:27:46 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:27:46 html_downloader.py[line:70] INFO wait:time.sleep(5)...
+Sun, 25 Jun 2017 22:27:51 html_downloader.py[line:90] INFO download page_source successed.
+Sun, 25 Jun 2017 22:27:51 remote_connection.py[line:478] DEBUG GET http://127.0.0.1:57608/session/2ed4da0a4d1e486c2763aabbee5c6bca/source {"sessionId": "2ed4da0a4d1e486c2763aabbee5c6bca"}
+Sun, 25 Jun 2017 22:27:51 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:27:51 html_downloader.py[line:46] INFO _save_html_to_file: downloadhtml_Redownload/document4177913.txt successed.
+Sun, 25 Jun 2017 22:27:51 remote_connection.py[line:478] DEBUG DELETE http://127.0.0.1:57608/session/2ed4da0a4d1e486c2763aabbee5c6bca/window {"sessionId": "2ed4da0a4d1e486c2763aabbee5c6bca"}
+Sun, 25 Jun 2017 22:27:51 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:27:51 Re_Download_html.py[line:45] INFO download successed
+Sun, 25 Jun 2017 22:27:51 Re_Download_html.py[line:86] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/4177913/
+Sun, 25 Jun 2017 22:27:51 Re_Download_html.py[line:39] INFO crawl 2 : http://ieeexplore.ieee.org/document/4388111/
+Sun, 25 Jun 2017 22:27:51 html_downloader.py[line:51] INFO download url:http://ieeexplore.ieee.org/document/4388111/
+Sun, 25 Jun 2017 22:27:51 html_downloader.py[line:61] INFO html download driver.Chrome()...
+Sun, 25 Jun 2017 22:27:53 remote_connection.py[line:478] DEBUG POST http://127.0.0.1:57665/session {"capabilities": {"alwaysMatch": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}, "firstMatch": []}, "desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}}
+Sun, 25 Jun 2017 22:27:56 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:27:56 html_downloader.py[line:65] INFO driver.get...
+Sun, 25 Jun 2017 22:27:56 remote_connection.py[line:478] DEBUG POST http://127.0.0.1:57665/session/b7d66e8a7d7a075be6f90e14cbb06cd7/url {"url": "http://ieeexplore.ieee.org/document/4388111/", "sessionId": "b7d66e8a7d7a075be6f90e14cbb06cd7"}
+Sun, 25 Jun 2017 22:29:34 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:29:34 html_downloader.py[line:70] INFO wait:time.sleep(5)...
+Sun, 25 Jun 2017 22:29:39 html_downloader.py[line:90] INFO download page_source successed.
+Sun, 25 Jun 2017 22:29:39 remote_connection.py[line:478] DEBUG GET http://127.0.0.1:57665/session/b7d66e8a7d7a075be6f90e14cbb06cd7/source {"sessionId": "b7d66e8a7d7a075be6f90e14cbb06cd7"}
+Sun, 25 Jun 2017 22:29:39 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:29:39 Re_Download_html.py[line:109] WARNING 【【crawl failed】】:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=58.0.3029.81)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+Sun, 25 Jun 2017 22:29:39 Re_Download_html.py[line:39] INFO crawl 2 : http://ieeexplore.ieee.org/document/4388111/
+Sun, 25 Jun 2017 22:29:39 html_downloader.py[line:51] INFO download url:http://ieeexplore.ieee.org/document/4388111/
+Sun, 25 Jun 2017 22:29:39 html_downloader.py[line:61] INFO html download driver.Chrome()...
+Sun, 25 Jun 2017 22:29:41 remote_connection.py[line:478] DEBUG POST http://127.0.0.1:57724/session {"capabilities": {"alwaysMatch": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}, "firstMatch": []}, "desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}}
+Sun, 25 Jun 2017 22:29:43 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:29:43 html_downloader.py[line:65] INFO driver.get...
+Sun, 25 Jun 2017 22:29:43 remote_connection.py[line:478] DEBUG POST http://127.0.0.1:57724/session/3f9e2ae3846a34f958d8b9aa746e96d8/url {"url": "http://ieeexplore.ieee.org/document/4388111/", "sessionId": "3f9e2ae3846a34f958d8b9aa746e96d8"}
+Sun, 25 Jun 2017 22:34:18 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:34:18 html_downloader.py[line:70] INFO wait:time.sleep(5)...
+Sun, 25 Jun 2017 22:34:23 html_downloader.py[line:90] INFO download page_source successed.
+Sun, 25 Jun 2017 22:34:23 remote_connection.py[line:478] DEBUG GET http://127.0.0.1:57724/session/3f9e2ae3846a34f958d8b9aa746e96d8/source {"sessionId": "3f9e2ae3846a34f958d8b9aa746e96d8"}
+Sun, 25 Jun 2017 22:34:23 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:34:23 html_downloader.py[line:46] INFO _save_html_to_file: downloadhtml_Redownload/document4388111.txt successed.
+Sun, 25 Jun 2017 22:34:23 remote_connection.py[line:478] DEBUG DELETE http://127.0.0.1:57724/session/3f9e2ae3846a34f958d8b9aa746e96d8/window {"sessionId": "3f9e2ae3846a34f958d8b9aa746e96d8"}
+Sun, 25 Jun 2017 22:34:24 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:34:24 Re_Download_html.py[line:45] INFO download successed
+Sun, 25 Jun 2017 22:34:24 Re_Download_html.py[line:86] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/4388111/
+Sun, 25 Jun 2017 22:34:24 Re_Download_html.py[line:39] INFO crawl 3 : http://ieeexplore.ieee.org/document/4393608/
+Sun, 25 Jun 2017 22:34:24 html_downloader.py[line:51] INFO download url:http://ieeexplore.ieee.org/document/4393608/
+Sun, 25 Jun 2017 22:34:24 html_downloader.py[line:61] INFO html download driver.Chrome()...
+Sun, 25 Jun 2017 22:34:26 remote_connection.py[line:478] DEBUG POST http://127.0.0.1:57852/session {"capabilities": {"alwaysMatch": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}, "firstMatch": []}, "desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}}
+Sun, 25 Jun 2017 22:34:28 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:34:28 html_downloader.py[line:65] INFO driver.get...
+Sun, 25 Jun 2017 22:34:28 remote_connection.py[line:478] DEBUG POST http://127.0.0.1:57852/session/a49578d989ab37a8b475a937496f4321/url {"url": "http://ieeexplore.ieee.org/document/4393608/", "sessionId": "a49578d989ab37a8b475a937496f4321"}
+Sun, 25 Jun 2017 22:34:36 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:34:36 html_downloader.py[line:70] INFO wait:time.sleep(5)...
+Sun, 25 Jun 2017 22:34:41 html_downloader.py[line:90] INFO download page_source successed.
+Sun, 25 Jun 2017 22:34:41 remote_connection.py[line:478] DEBUG GET http://127.0.0.1:57852/session/a49578d989ab37a8b475a937496f4321/source {"sessionId": "a49578d989ab37a8b475a937496f4321"}
+Sun, 25 Jun 2017 22:34:41 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:34:41 html_downloader.py[line:46] INFO _save_html_to_file: downloadhtml_Redownload/document4393608.txt successed.
+Sun, 25 Jun 2017 22:34:41 remote_connection.py[line:478] DEBUG DELETE http://127.0.0.1:57852/session/a49578d989ab37a8b475a937496f4321/window {"sessionId": "a49578d989ab37a8b475a937496f4321"}
+Sun, 25 Jun 2017 22:34:41 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:34:41 Re_Download_html.py[line:45] INFO download successed
+Sun, 25 Jun 2017 22:34:41 Re_Download_html.py[line:86] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/4393608/
+Sun, 25 Jun 2017 22:34:41 Re_Download_html.py[line:39] INFO crawl 4 : http://ieeexplore.ieee.org/document/4639558/
+Sun, 25 Jun 2017 22:34:41 html_downloader.py[line:51] INFO download url:http://ieeexplore.ieee.org/document/4639558/
+Sun, 25 Jun 2017 22:34:41 html_downloader.py[line:61] INFO html download driver.Chrome()...
+Sun, 25 Jun 2017 22:34:44 remote_connection.py[line:478] DEBUG POST http://127.0.0.1:57910/session {"capabilities": {"alwaysMatch": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}, "firstMatch": []}, "desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}}
+Sun, 25 Jun 2017 22:34:46 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:34:46 html_downloader.py[line:65] INFO driver.get...
+Sun, 25 Jun 2017 22:34:46 remote_connection.py[line:478] DEBUG POST http://127.0.0.1:57910/session/ae786549646743380c0c46bc2217ee79/url {"url": "http://ieeexplore.ieee.org/document/4639558/", "sessionId": "ae786549646743380c0c46bc2217ee79"}
+Sun, 25 Jun 2017 22:34:55 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:34:55 html_downloader.py[line:70] INFO wait:time.sleep(5)...
+Sun, 25 Jun 2017 22:35:00 html_downloader.py[line:90] INFO download page_source successed.
+Sun, 25 Jun 2017 22:35:00 remote_connection.py[line:478] DEBUG GET http://127.0.0.1:57910/session/ae786549646743380c0c46bc2217ee79/source {"sessionId": "ae786549646743380c0c46bc2217ee79"}
+Sun, 25 Jun 2017 22:35:00 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:35:00 html_downloader.py[line:46] INFO _save_html_to_file: downloadhtml_Redownload/document4639558.txt successed.
+Sun, 25 Jun 2017 22:35:00 remote_connection.py[line:478] DEBUG DELETE http://127.0.0.1:57910/session/ae786549646743380c0c46bc2217ee79/window {"sessionId": "ae786549646743380c0c46bc2217ee79"}
+Sun, 25 Jun 2017 22:35:01 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:35:01 Re_Download_html.py[line:45] INFO download successed
+Sun, 25 Jun 2017 22:35:01 Re_Download_html.py[line:86] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/4639558/
+Sun, 25 Jun 2017 22:35:01 Re_Download_html.py[line:39] INFO crawl 5 : http://ieeexplore.ieee.org/document/6404570/
+Sun, 25 Jun 2017 22:35:01 html_downloader.py[line:51] INFO download url:http://ieeexplore.ieee.org/document/6404570/
+Sun, 25 Jun 2017 22:35:01 html_downloader.py[line:61] INFO html download driver.Chrome()...
+Sun, 25 Jun 2017 22:35:03 remote_connection.py[line:478] DEBUG POST http://127.0.0.1:57969/session {"capabilities": {"alwaysMatch": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}, "firstMatch": []}, "desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}}
+Sun, 25 Jun 2017 22:35:05 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:35:05 html_downloader.py[line:65] INFO driver.get...
+Sun, 25 Jun 2017 22:35:05 remote_connection.py[line:478] DEBUG POST http://127.0.0.1:57969/session/f51d6571bc76eedb4fab6896ac9cfba9/url {"url": "http://ieeexplore.ieee.org/document/6404570/", "sessionId": "f51d6571bc76eedb4fab6896ac9cfba9"}
+Sun, 25 Jun 2017 22:35:12 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:35:12 html_downloader.py[line:70] INFO wait:time.sleep(5)...
+Sun, 25 Jun 2017 22:35:17 html_downloader.py[line:90] INFO download page_source successed.
+Sun, 25 Jun 2017 22:35:17 remote_connection.py[line:478] DEBUG GET http://127.0.0.1:57969/session/f51d6571bc76eedb4fab6896ac9cfba9/source {"sessionId": "f51d6571bc76eedb4fab6896ac9cfba9"}
+Sun, 25 Jun 2017 22:35:17 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:35:17 html_downloader.py[line:46] INFO _save_html_to_file: downloadhtml_Redownload/document6404570.txt successed.
+Sun, 25 Jun 2017 22:35:17 remote_connection.py[line:478] DEBUG DELETE http://127.0.0.1:57969/session/f51d6571bc76eedb4fab6896ac9cfba9/window {"sessionId": "f51d6571bc76eedb4fab6896ac9cfba9"}
+Sun, 25 Jun 2017 22:35:17 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:35:17 Re_Download_html.py[line:45] INFO download successed
+Sun, 25 Jun 2017 22:35:17 Re_Download_html.py[line:86] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/6404570/
+Sun, 25 Jun 2017 22:35:17 Re_Download_html.py[line:39] INFO crawl 6 : http://ieeexplore.ieee.org/document/6717391/
+Sun, 25 Jun 2017 22:35:17 html_downloader.py[line:51] INFO download url:http://ieeexplore.ieee.org/document/6717391/
+Sun, 25 Jun 2017 22:35:17 html_downloader.py[line:61] INFO html download driver.Chrome()...
+Sun, 25 Jun 2017 22:35:19 remote_connection.py[line:478] DEBUG POST http://127.0.0.1:58020/session {"capabilities": {"alwaysMatch": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}, "firstMatch": []}, "desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}}
+Sun, 25 Jun 2017 22:35:22 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:35:22 html_downloader.py[line:65] INFO driver.get...
+Sun, 25 Jun 2017 22:35:22 remote_connection.py[line:478] DEBUG POST http://127.0.0.1:58020/session/35e13b16980f04f67c1b4cd7bb7baecc/url {"url": "http://ieeexplore.ieee.org/document/6717391/", "sessionId": "35e13b16980f04f67c1b4cd7bb7baecc"}
+Sun, 25 Jun 2017 22:35:32 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:35:32 html_downloader.py[line:70] INFO wait:time.sleep(5)...
+Sun, 25 Jun 2017 22:35:37 html_downloader.py[line:90] INFO download page_source successed.
+Sun, 25 Jun 2017 22:35:37 remote_connection.py[line:478] DEBUG GET http://127.0.0.1:58020/session/35e13b16980f04f67c1b4cd7bb7baecc/source {"sessionId": "35e13b16980f04f67c1b4cd7bb7baecc"}
+Sun, 25 Jun 2017 22:35:37 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:35:37 html_downloader.py[line:46] INFO _save_html_to_file: downloadhtml_Redownload/document6717391.txt successed.
+Sun, 25 Jun 2017 22:35:37 remote_connection.py[line:478] DEBUG DELETE http://127.0.0.1:58020/session/35e13b16980f04f67c1b4cd7bb7baecc/window {"sessionId": "35e13b16980f04f67c1b4cd7bb7baecc"}
+Sun, 25 Jun 2017 22:35:37 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:35:37 Re_Download_html.py[line:45] INFO download successed
+Sun, 25 Jun 2017 22:35:37 Re_Download_html.py[line:86] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/6717391/
+Sun, 25 Jun 2017 22:35:37 Re_Download_html.py[line:39] INFO crawl 7 : http://ieeexplore.ieee.org/document/7236866/
+Sun, 25 Jun 2017 22:35:37 html_downloader.py[line:51] INFO download url:http://ieeexplore.ieee.org/document/7236866/
+Sun, 25 Jun 2017 22:35:37 html_downloader.py[line:61] INFO html download driver.Chrome()...
+Sun, 25 Jun 2017 22:35:39 remote_connection.py[line:478] DEBUG POST http://127.0.0.1:58077/session {"capabilities": {"alwaysMatch": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}, "firstMatch": []}, "desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}}
+Sun, 25 Jun 2017 22:35:42 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:35:42 html_downloader.py[line:65] INFO driver.get...
+Sun, 25 Jun 2017 22:35:42 remote_connection.py[line:478] DEBUG POST http://127.0.0.1:58077/session/2ea8b3719aab3287a3729006edfe4c10/url {"url": "http://ieeexplore.ieee.org/document/7236866/", "sessionId": "2ea8b3719aab3287a3729006edfe4c10"}
+Sun, 25 Jun 2017 22:35:49 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:35:49 html_downloader.py[line:70] INFO wait:time.sleep(5)...
+Sun, 25 Jun 2017 22:35:54 html_downloader.py[line:90] INFO download page_source successed.
+Sun, 25 Jun 2017 22:35:54 remote_connection.py[line:478] DEBUG GET http://127.0.0.1:58077/session/2ea8b3719aab3287a3729006edfe4c10/source {"sessionId": "2ea8b3719aab3287a3729006edfe4c10"}
+Sun, 25 Jun 2017 22:35:54 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:35:54 html_downloader.py[line:46] INFO _save_html_to_file: downloadhtml_Redownload/document7236866.txt successed.
+Sun, 25 Jun 2017 22:35:54 remote_connection.py[line:478] DEBUG DELETE http://127.0.0.1:58077/session/2ea8b3719aab3287a3729006edfe4c10/window {"sessionId": "2ea8b3719aab3287a3729006edfe4c10"}
+Sun, 25 Jun 2017 22:35:54 remote_connection.py[line:565] DEBUG Finished Request
+Sun, 25 Jun 2017 22:35:54 Re_Download_html.py[line:45] INFO download successed
+Sun, 25 Jun 2017 22:35:54 Re_Download_html.py[line:86] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/7236866/
+Sun, 25 Jun 2017 22:35:54 Re_Download_html.py[line:112] INFO 【crawl finished】: crawl count=8

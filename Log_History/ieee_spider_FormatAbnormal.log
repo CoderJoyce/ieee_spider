@@ -1,0 +1,590 @@
+﻿Sat, 24 Jun 2017 22:12:34 spider_main.py[line:160] INFO 【ieee_spider crawl begin】...
+Sat, 24 Jun 2017 22:12:34 spider_main.py[line:53] INFO crawl 1 : http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=UHF%20RFID&pageNumber=82&newsearch=true
+Sat, 24 Jun 2017 22:12:34 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:34 spider_main.py[line:89] INFO 待爬取页为搜索结果页
+Sat, 24 Jun 2017 22:12:34 spider_main.py[line:92] INFO 解析结果页...
+Sat, 24 Jun 2017 22:12:35 spider_main.py[line:99] INFO 结果页解析结果输出..
+Sat, 24 Jun 2017 22:12:37 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=UHF%20RFID&pageNumber=82&newsearch=true
+Sat, 24 Jun 2017 22:12:37 spider_main.py[line:53] INFO crawl 2 : http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=UHF%20RFID&pageNumber=85&newsearch=true
+Sat, 24 Jun 2017 22:12:37 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:37 spider_main.py[line:89] INFO 待爬取页为搜索结果页
+Sat, 24 Jun 2017 22:12:37 spider_main.py[line:92] INFO 解析结果页...
+Sat, 24 Jun 2017 22:12:38 spider_main.py[line:99] INFO 结果页解析结果输出..
+Sat, 24 Jun 2017 22:12:40 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=UHF%20RFID&pageNumber=85&newsearch=true
+Sat, 24 Jun 2017 22:12:40 spider_main.py[line:53] INFO crawl 3 : http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=UHF%20RFID&pageNumber=89&newsearch=true
+Sat, 24 Jun 2017 22:12:40 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:40 spider_main.py[line:89] INFO 待爬取页为搜索结果页
+Sat, 24 Jun 2017 22:12:40 spider_main.py[line:92] INFO 解析结果页...
+Sat, 24 Jun 2017 22:12:41 spider_main.py[line:99] INFO 结果页解析结果输出..
+Sat, 24 Jun 2017 22:12:44 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=UHF%20RFID&pageNumber=89&newsearch=true
+Sat, 24 Jun 2017 22:12:44 spider_main.py[line:53] INFO crawl 4 : http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=UHF%20RFID&pageNumber=103&newsearch=true
+Sat, 24 Jun 2017 22:12:44 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:44 spider_main.py[line:89] INFO 待爬取页为搜索结果页
+Sat, 24 Jun 2017 22:12:44 spider_main.py[line:92] INFO 解析结果页...
+Sat, 24 Jun 2017 22:12:45 spider_main.py[line:99] INFO 结果页解析结果输出..
+Sat, 24 Jun 2017 22:12:47 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=UHF%20RFID&pageNumber=103&newsearch=true
+Sat, 24 Jun 2017 22:12:47 spider_main.py[line:53] INFO crawl 5 : http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=UHF%20RFID&pageNumber=126&newsearch=true
+Sat, 24 Jun 2017 22:12:47 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:47 spider_main.py[line:89] INFO 待爬取页为搜索结果页
+Sat, 24 Jun 2017 22:12:47 spider_main.py[line:92] INFO 解析结果页...
+Sat, 24 Jun 2017 22:12:48 spider_main.py[line:99] INFO 结果页解析结果输出..
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=UHF%20RFID&pageNumber=126&newsearch=true
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/1710707/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1710707.txt'
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1710707/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1710707.txt'
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1710707/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/1651174/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1651174.txt'
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1651174/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1651174.txt'
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1651174/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/1648590/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1648590.txt'
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1648590/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1648590.txt'
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1648590/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/1644655/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1644655.txt'
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1644655/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1644655.txt'
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1644655/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/1629486/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1629486.txt'
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1629486/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1629486.txt'
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1629486/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/1608842/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1608842.txt'
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1608842/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1608842.txt'
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1608842/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/1605693/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1605693.txt'
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1605693/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1605693.txt'
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1605693/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/1581370/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1581370.txt'
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1581370/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1581370.txt'
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1581370/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/1552011/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1552011.txt'
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1552011/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1552011.txt'
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1552011/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/1551601/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1551601.txt'
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1551601/
+Sat, 24 Jun 2017 22:12:50 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1551601.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1551601/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7886126/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7886126.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7886126/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7886126.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7886126/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7839281/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7839281.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7839281/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7839281.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7839281/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7843187/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7843187.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7843187/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7843187.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7843187/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7843118/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7843118.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7843118/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7843118.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7843118/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7829735/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7829735.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7829735/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7829735.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7829735/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7801718/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7801718.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7801718/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7801718.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7801718/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7565004/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7565004.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7565004/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7565004.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7565004/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7511753/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7511753.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7511753/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7511753.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7511753/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7519256/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7519256.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7519256/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7519256.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7519256/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/4412712/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document4412712.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/4412712/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document4412712.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/4412712/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/4368097/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document4368097.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/4368097/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document4368097.txt'
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/4368097/
+Sat, 24 Jun 2017 22:12:51 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/4362404/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document4362404.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/4362404/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document4362404.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/4362404/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/4015131/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document4015131.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/4015131/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document4015131.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/4015131/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7946990/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7946990.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7946990/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7946990.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7946990/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7945587/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7945587.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7945587/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7945587.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7945587/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7945599/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7945599.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7945599/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7945599.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7945599/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7470569/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7470569.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7470569/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7470569.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7470569/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7928123/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7928123.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7928123/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7928123.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7928123/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7879158/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7879158.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7879158/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7879158.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7879158/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7862269/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7862269.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7862269/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7862269.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7862269/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7843875/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7843875.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7843875/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7843875.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7843875/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7843287/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7843287.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7843287/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7843287.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7843287/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7843209/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7843209.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7843209/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7843209.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7843209/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7779283/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7779283.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7779283/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7779283.txt'
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7779283/
+Sat, 24 Jun 2017 22:12:52 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7773919/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7773919.txt'
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7773919/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7773919.txt'
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7773919/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7750879/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7750879.txt'
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7750879/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7750879.txt'
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7750879/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7750884/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7750884.txt'
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7750884/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7750884.txt'
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7750884/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7695939/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7695939.txt'
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7695939/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7695939.txt'
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7695939/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7587733/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7587733.txt'
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7587733/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7587733.txt'
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7587733/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7522710/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7522710.txt'
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7522710/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7522710.txt'
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7522710/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7484394/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7484394.txt'
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7484394/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7484394.txt'
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7484394/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7425995/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7425995.txt'
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7425995/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7425995.txt'
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7425995/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/7362162/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7362162.txt'
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7362162/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7362162.txt'
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7362162/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:53] INFO crawl 6 : http://ieeexplore.ieee.org/document/4463532/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:115] INFO 详情页解析结果输出...
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/4463532/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:53] INFO crawl 7 : http://ieeexplore.ieee.org/document/4410929/
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:53 spider_main.py[line:115] INFO 详情页解析结果输出...
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/4410929/
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:53] INFO crawl 8 : http://ieeexplore.ieee.org/document/4405018/
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:115] INFO 详情页解析结果输出...
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/4405018/
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:53] INFO crawl 9 : http://ieeexplore.ieee.org/document/4393614/
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:115] INFO 详情页解析结果输出...
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/4393614/
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:53] INFO crawl 10 : http://ieeexplore.ieee.org/document/4368122/
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:115] INFO 详情页解析结果输出...
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/4368122/
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:53] INFO crawl 11 : http://ieeexplore.ieee.org/document/4368087/
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:115] INFO 详情页解析结果输出...
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/4368087/
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:53] INFO crawl 12 : http://ieeexplore.ieee.org/document/4341510/
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:54 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:115] INFO 详情页解析结果输出...
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/4341510/
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:53] INFO crawl 13 : http://ieeexplore.ieee.org/document/4195192/
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:115] INFO 详情页解析结果输出...
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/4195192/
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:53] INFO crawl 14 : http://ieeexplore.ieee.org/document/4149654/
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:115] INFO 详情页解析结果输出...
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/4149654/
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:53] INFO crawl 15 : http://ieeexplore.ieee.org/document/4057883/
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:115] INFO 详情页解析结果输出...
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/4057883/
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:53] INFO crawl 16 : http://ieeexplore.ieee.org/document/7945578/
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:123] INFO 将解析失败页面设置为已爬取: http://ieeexplore.ieee.org/document/7945578/
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:124] INFO 【【解析失败】】: 'NoneType' object has no attribute 'find_all'
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:152] WARNING 【【crawl failed】】:'NoneType' object has no attribute 'find_all'
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:53] INFO crawl 16 : http://ieeexplore.ieee.org/document/7508956/
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:55 spider_main.py[line:115] INFO 详情页解析结果输出...
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/7508956/
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:53] INFO crawl 17 : http://ieeexplore.ieee.org/document/7433930/
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:115] INFO 详情页解析结果输出...
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/7433930/
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:53] INFO crawl 18 : http://ieeexplore.ieee.org/document/7930485/
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:115] INFO 详情页解析结果输出...
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/7930485/
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:53] INFO crawl 19 : http://ieeexplore.ieee.org/document/7927297/
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:115] INFO 详情页解析结果输出...
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/7927297/
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:53] INFO crawl 20 : http://ieeexplore.ieee.org/document/7927322/
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:115] INFO 详情页解析结果输出...
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/7927322/
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:53] INFO crawl 21 : http://ieeexplore.ieee.org/document/7907290/
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:56 spider_main.py[line:115] INFO 详情页解析结果输出...
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/7907290/
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:53] INFO crawl 22 : http://ieeexplore.ieee.org/document/7482659/
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:115] INFO 详情页解析结果输出...
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/7482659/
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:53] INFO crawl 23 : http://ieeexplore.ieee.org/document/7843096/
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:115] INFO 详情页解析结果输出...
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/7843096/
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:53] INFO crawl 24 : http://ieeexplore.ieee.org/document/7821416/
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:115] INFO 详情页解析结果输出...
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/7821416/
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:53] INFO crawl 25 : http://ieeexplore.ieee.org/document/7815772/
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:115] INFO 详情页解析结果输出...
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/7815772/
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:53] INFO crawl 26 : http://ieeexplore.ieee.org/document/7808740/
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:69] INFO download successed
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:106] INFO 待爬取页为论文详情页
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:109] INFO 解析详情页...
+Sat, 24 Jun 2017 22:12:57 spider_main.py[line:115] INFO 详情页解析结果输出...
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:129] INFO 将爬取成功页面设置为已爬取: http://ieeexplore.ieee.org/document/7808740/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/1711151/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1711151.txt'
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1711151/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1711151.txt'
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1711151/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/1689423/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1689423.txt'
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1689423/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1689423.txt'
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1689423/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/1692717/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1692717.txt'
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1692717/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1692717.txt'
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1692717/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/1693485/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1693485.txt'
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1693485/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1693485.txt'
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1693485/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/1643635/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1643635.txt'
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1643635/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1643635.txt'
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1643635/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/1625690/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1625690.txt'
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1625690/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1625690.txt'
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1625690/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/1613660/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1613660.txt'
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1613660/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1613660.txt'
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1613660/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/1552015/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1552015.txt'
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1552015/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1552015.txt'
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1552015/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/1552740/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1552740.txt'
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1552740/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1552740.txt'
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1552740/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/1545808/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1545808.txt'
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1545808/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1545808.txt'
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1545808/
+Sat, 24 Jun 2017 22:12:58 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/1522141/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1522141.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1522141/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1522141.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1522141/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/1411475/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1411475.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1411475/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1411475.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1411475/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/1422397/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1422397.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1422397/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1422397.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1422397/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/1406625/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1406625.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/1406625/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document1406625.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/1406625/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/7128804/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7128804.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7128804/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7128804.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7128804/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/7118317/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7118317.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7118317/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7118317.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7118317/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/6804745/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document6804745.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/6804745/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document6804745.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/6804745/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/7945589/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7945589.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7945589/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7945589.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7945589/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/7934594/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7934594.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7934594/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7934594.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7934594/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/6881668/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document6881668.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/6881668/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document6881668.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/6881668/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/7511654/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7511654.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7511654/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7511654.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7511654/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/7928049/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7928049.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7928049/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7928049.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7928049/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/7928549/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7928549.txt'
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7928549/
+Sat, 24 Jun 2017 22:12:59 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7928549.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7928549/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/7928811/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7928811.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/7928811/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document7928811.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/7928811/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/750221/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document750221.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/750221/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document750221.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/750221/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/668989/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document668989.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/668989/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document668989.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/668989/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/873741/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document873741.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/873741/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document873741.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/873741/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/678650/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document678650.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/678650/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document678650.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/678650/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/720393/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document720393.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/720393/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document720393.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/720393/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/766810/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document766810.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/766810/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document766810.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/766810/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/494195/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document494195.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/494195/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document494195.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/494195/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/760384/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document760384.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/760384/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document760384.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/760384/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/826815/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document826815.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/826815/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document826815.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/826815/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/828636/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document828636.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/828636/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document828636.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/828636/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/568846/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document568846.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/568846/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document568846.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/568846/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/200460/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document200460.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/200460/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document200460.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/200460/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/826817/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document826817.txt'
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/826817/
+Sat, 24 Jun 2017 22:13:00 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document826817.txt'
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/826817/
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/899034/
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document899034.txt'
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/899034/
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document899034.txt'
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/899034/
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/512338/
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document512338.txt'
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/512338/
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document512338.txt'
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/512338/
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/848213/
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document848213.txt'
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/848213/
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document848213.txt'
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/848213/
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/845194/
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document845194.txt'
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/845194/
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document845194.txt'
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/845194/
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:53] INFO crawl 27 : http://ieeexplore.ieee.org/document/852733/
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:63] INFO 【【get_downloaded_html_cont failed】】:[Errno 2] No such file or directory: u'downloadhtml_All/document852733.txt'
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:64] INFO 将打开已下载的页面失败的url设置为已爬取: http://ieeexplore.ieee.org/document/852733/
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:146] WARNING 【【IOError】】:[Errno 2] No such file or directory: u'downloadhtml_All/document852733.txt'
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:148] INFO 将发生错误异常页面设置为已爬取: http://ieeexplore.ieee.org/document/852733/
+Sat, 24 Jun 2017 22:13:01 spider_main.py[line:155] INFO 【crawl finished】: crawl count=27
